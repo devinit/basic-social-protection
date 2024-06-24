@@ -50,3 +50,4 @@ rsconnect/
 
 large_input/*
 large_output/*
+*.zip
