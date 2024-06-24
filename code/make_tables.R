@@ -170,4 +170,4 @@ keyword_regex = paste0(
 non_protection$keyword_match = grepl(keyword_regex, non_protection$text, perl=T, ignore.case = T)
 non_protection_matches = subset(non_protection, keyword_match)
 non_protection_matches[,c("keyword_match", "text")] = NULL
-fwrite(non_protection_matches, "large_output/keyword_matches.csv")
+fwrite(non_protection_matches, "output/keyword_matches.csv")
