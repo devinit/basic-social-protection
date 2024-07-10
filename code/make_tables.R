@@ -7,10 +7,15 @@ wd = "~/git/basic-social-protection/"
 setwd(wd)
 
 crs = fread("large_input/crs.csv")
+oda = subset(crs, flow_name %in% c(
+  "ODA Grants",
+  "ODA Loans",
+  "Equity Investment"
+))
 
 # Tables 1 ####
 # 
-# ODA By recipient country, disbursed funding to social protection purpose code (16010) by year  
+# All funding by recipient country, disbursed funding to social protection purpose code (16010) by year  
 # 
 t1a = subset(crs, purpose_code==16010)
 t1a = t1a[,.(
@@ -18,7 +23,7 @@ t1a = t1a[,.(
   usd_disbursement_deflated=sum(usd_disbursement_deflated, na.rm=T)
   ),by=.(year, purpose_code, recipient_name)]
 fwrite(t1a, "output/table1_a.csv")
-# ODA By recipient country, disbursed funding to social protection purpose code (16010) by year, with adaptation flag as 2 (principal)  
+# All funding by recipient country, disbursed funding to social protection purpose code (16010) by year, with adaptation flag as 2 (principal)  
 # 
 t1b = subset(crs, purpose_code==16010 & climate_adaptation==2)
 t1b = t1b[,.(
@@ -26,9 +31,9 @@ t1b = t1b[,.(
   usd_disbursement_deflated=sum(usd_disbursement_deflated, na.rm=T)
 ),by=.(year, purpose_code, recipient_name, climate_adaptation)]
 fwrite(t1b, "output/table1_b.csv")
-# ODA By recipient country, disbursed funding to social protection purpose code (16010) by year, with adaptation flag anything but 2 (blank, 0, 1) 
+# All funding by recipient country, disbursed funding to social protection purpose code (16010) by year, with adaptation flag anything but 2 (blank, 0, 1) 
 # 
-t1c = subset(crs, purpose_code==16010 & climate_adaptation!=2)
+t1c = subset(crs, purpose_code==16010 & (climate_adaptation %in% c(NA, 0, 1)))
 t1c = t1c[,.(
   usd_disbursement=sum(usd_disbursement, na.rm=T),
   usd_disbursement_deflated=sum(usd_disbursement_deflated, na.rm=T)
@@ -40,20 +45,20 @@ fwrite(t1c, "output/table1_c.csv")
 # 
 # Total ODA (disbursed funding) by recipient country by year  
 # 
-t2a = crs[,.(
+t2a = oda[,.(
   usd_disbursement=sum(usd_disbursement, na.rm=T),
   usd_disbursement_deflated=sum(usd_disbursement_deflated, na.rm=T)
 ),by=.(year, recipient_name)]
 fwrite(t2a, "output/table2_a.csv")
 # Total ODA by recipient country by year, without humanitarian/emergency sector codes (720, 730, 740)  
 # 
-t2b = subset(crs, !sector_code %in% c(720, 730, 740))
+t2b = subset(oda, !sector_code %in% c(720, 730, 740))
 t2b = t2b[,.(
   usd_disbursement=sum(usd_disbursement, na.rm=T),
   usd_disbursement_deflated=sum(usd_disbursement_deflated, na.rm=T)
 ),by=.(year, recipient_name)]
 fwrite(t2b, "output/table2_b.csv")
-# Total flows by recipient country by year, to humanitarian/emergency sector codes (720, 730, 740 – separately) 
+# Total funding by recipient country by year, to humanitarian/emergency sector codes (720, 730, 740 – separately) 
 # 
 t2c = subset(crs, sector_code %in% c(720, 730, 740))
 t2c = t2c[,.(
@@ -61,6 +66,24 @@ t2c = t2c[,.(
   usd_disbursement_deflated=sum(usd_disbursement_deflated, na.rm=T)
 ),by=.(year, recipient_name, sector_code)]
 fwrite(t2c, "output/table2_c.csv")
+# Total funding with adaptation principal and significant markers by recipient country by year 
+# 
+t2d = subset(crs, climate_adaptation %in% c(1, 2))
+t2d = t2d[,.(
+  usd_disbursement=sum(usd_disbursement, na.rm=T),
+  usd_disbursement_deflated=sum(usd_disbursement_deflated, na.rm=T)
+),by=.(year, recipient_name, sector_code)]
+t2d$climate_adaptation = "1 or 2"
+fwrite(t2d, "output/table2_d.csv")
+# Total funding with mitigation principal and significant markers by recipient country by year 
+#
+t2e = subset(crs, climate_mitigation %in% c(1, 2))
+t2e = t2e[,.(
+  usd_disbursement=sum(usd_disbursement, na.rm=T),
+  usd_disbursement_deflated=sum(usd_disbursement_deflated, na.rm=T)
+),by=.(year, recipient_name, sector_code)]
+t2e$climate_mitigation = "1 or 2"
+fwrite(t2e, "output/table2_e.csv")
 # 
 # Table 3 ####
 # 
@@ -72,7 +95,22 @@ t3a = t3a[,.(
   usd_disbursement_deflated=sum(usd_disbursement_deflated, na.rm=T)
 ),by=.(year, recipient_name, flow_name)]
 fwrite(t3a, "output/table3_a.csv")
+# Total disbursed funding by recipient country by year, by FlowName 
 # 
+t3b = crs[,.(
+  usd_disbursement=sum(usd_disbursement, na.rm=T),
+  usd_disbursement_deflated=sum(usd_disbursement_deflated, na.rm=T)
+),by=.(year, recipient_name, flow_name)]
+fwrite(t3b, "output/table3_b.csv")
+# Total disbursed emergency funding (720, 730, 740) by recipient country by year, by FlowName 
+# 
+t3c = subset(crs, sector_code %in% c(720, 730, 740))
+t3c = t3c[,.(
+  usd_disbursement=sum(usd_disbursement, na.rm=T),
+  usd_disbursement_deflated=sum(usd_disbursement_deflated, na.rm=T)
+),by=.(year, recipient_name, flow_name)]
+fwrite(t3c, "output/table3_c.csv")
+#
 # Table 4 ####
 # 
 # By donor, disbursed funding to social protection purpose code to each recipient country, by year 
@@ -123,7 +161,25 @@ t6c = t6c[,.(
   usd_disbursement_deflated=sum(usd_disbursement_deflated, na.rm=T)
 ),by=.(year, purpose_code, recipient_name)]
 fwrite(t6c, "output/table6_c.csv")
-
+# 
+# Table 7 ####
+# 
+# All funding by recipient country by year by purpose code, where adaptation marker is 2 (principal) 
+# 
+t7a = subset(crs, climate_adaptation %in% c(2))
+t7a = t7a[,.(
+  usd_disbursement=sum(usd_disbursement, na.rm=T),
+  usd_disbursement_deflated=sum(usd_disbursement_deflated, na.rm=T)
+),by=.(year, recipient_name, purpose_code, climate_adaptation)]
+fwrite(t7a, "output/table7_a.csv")
+# All funding by recipient country by year by purpose code, where mitigation marker is 2 (principal) 
+# 
+t7b = subset(crs, climate_mitigation %in% c(2))
+t7b = t7b[,.(
+  usd_disbursement=sum(usd_disbursement, na.rm=T),
+  usd_disbursement_deflated=sum(usd_disbursement_deflated, na.rm=T)
+),by=.(year, recipient_name, purpose_code, climate_mitigation)]
+fwrite(t7b, "output/table7_b.csv")
 # Keyword Search ####
 # 
 # To supplement social protection purpose code, are there any flows clearly for social protection that are allocated to other purpose codes? 
@@ -153,21 +209,27 @@ textual_cols = c(
   "long_description"
 )
 
-non_protection = subset(crs, purpose_code!=16010)
+non_protection = subset(oda, purpose_code!=16010)
 
 non_protection = non_protection %>%
   unite(text, all_of(textual_cols), sep=" ", na.rm=T, remove=F)
 
 non_protection$text = clean_text(non_protection$text)
 keywords = read.csv("input/keywords.csv")
-keywords = subset(keywords, is.na(addition))
 keywords$query = quotemeta(clean_text(keywords$query))
-keyword_regex = paste0(
+all_keyword_regex = paste0(
   "\\b",
   paste(keywords$query, collapse="\\b|\\b"),
   "\\b"
 )
-non_protection$keyword_match = grepl(keyword_regex, non_protection$text, perl=T, ignore.case = T)
+non_protection$keyword_match = grepl(all_keyword_regex, non_protection$text, perl=T, ignore.case = T)
 non_protection_matches = subset(non_protection, keyword_match)
+
+for(keyword in keywords$query){
+  message(keyword)
+  keyword_regex = paste0("\\b", keyword, "\\b")
+  non_protection[,keyword] = grepl(keyword_regex, non_protection$text, perl=T, ignore.case = T)
+}
+
 non_protection_matches[,c("keyword_match", "text")] = NULL
 fwrite(non_protection_matches, "output/keyword_matches.csv")
