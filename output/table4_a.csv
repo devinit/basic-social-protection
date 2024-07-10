@@ -179,7 +179,55 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2018,Japan,Tuvalu,0.001413,0.001206
 2018,Japan,Somalia,0.000951,0.000812
 2018,Japan,Tokelau,0.001413,0.001206
+2018,Dutch Postcode Lottery,South Africa,0.59011,0.599947
+2018,Dutch Postcode Lottery,"Bilateral, unspecified",2.180455,2.216806
+2018,Dutch Postcode Lottery,India,0.295055,0.299974
+2018,People's Postcode Lottery,Ghana,0.220088,0.229235
+2018,People's Postcode Lottery,"Bilateral, unspecified",0.428704,0.446523
+2018,People's Postcode Lottery,South Africa,0.220088,0.229235
+2018,Bernard van Leer Foundation,Brazil,0.219208,0.222862
+2018,Bernard van Leer Foundation,Lebanon,0.189012,0.192163
+2018,Bernard van Leer Foundation,"Bilateral, unspecified",2.824697,2.871788
+2018,Bernard van Leer Foundation,Ecuador,0.729721,0.741886
+2018,Bernard van Leer Foundation,Peru,0.310917,0.316101
+2018,Bernard van Leer Foundation,India,0.727074,0.739195
+2018,Bernard van Leer Foundation,Jordan,0.28998,0.294814
+2018,Bernard van Leer Foundation,Türkiye,1.050219,1.067724
+2018,Bernard van Leer Foundation,Albania,0.185058,0.188143
+2018,Bernard van Leer Foundation,Senegal,0.026921,0.02737
+2018,Bernard van Leer Foundation,Colombia,0.02283,0.023211
+2018,Conrad N. Hilton Foundation,"Bilateral, unspecified",1.735,2.000991
+2018,Conrad N. Hilton Foundation,"South of Sahara, regional",0.24,0.276794
+2018,Conrad N. Hilton Foundation,Ghana,0.0429,0.049477
+2018,Conrad N. Hilton Foundation,Nigeria,0.0442,0.050976
+2018,Conrad N. Hilton Foundation,Kenya,0.4679,0.539634
+2018,Conrad N. Hilton Foundation,Mexico,0.5,0.576654
+2018,Conrad N. Hilton Foundation,South Africa,0.025,0.028833
+2018,John D. and Catherine T. MacArthur Foundation,Kenya,0.588667,0.678914
+2018,John D. and Catherine T. MacArthur Foundation,Lebanon,0.588667,0.678914
+2018,John D. and Catherine T. MacArthur Foundation,Indonesia,0.588667,0.678914
+2018,John D. and Catherine T. MacArthur Foundation,Moldova,0.588667,0.678914
+2018,John D. and Catherine T. MacArthur Foundation,India,0.588667,0.678914
+2018,John D. and Catherine T. MacArthur Foundation,Côte d'Ivoire,0.588667,0.678914
+2018,William and Flora Hewlett Foundation,"Bilateral, unspecified",0.65,0.749651
+2018,William and Flora Hewlett Foundation,Mexico,0.04,0.046132
+2018,Ford Foundation,"Bilateral, unspecified",0.683333,0.788094
+2018,Ford Foundation,India,0.244128,0.281556
+2018,Ford Foundation,Brazil,0.015,0.0173
+2018,Ford Foundation,"Middle East, regional",0.2,0.230662
+2018,Ford Foundation,Indonesia,0.1,0.115331
+2018,Ford Foundation,Ghana,0.174,0.200676
+2018,Ford Foundation,"Africa, regional",0.15,0.172996
+2018,Ford Foundation,China (People's Republic of),0.84182,0.970879
+2018,Ford Foundation,Egypt,0.066,0.076118
+2018,Ford Foundation,Jordan,0.171,0.197215
+2018,Ford Foundation,Kenya,0.09,0.103798
+2018,Ford Foundation,South Africa,1.293,1.491229
+2018,Ford Foundation,Cuba,0.22,0.253728
+2018,Ford Foundation,Lebanon,0.045,0.051899
+2018,Ford Foundation,Tunisia,0.033,0.038059
 2018,Caribbean Development Bank,"Caribbean, regional",0,0
+2018,Ford Foundation,Sri Lanka,0.042086,0.048538
 2018,Sweden,Kenya,4.60278,4.500397
 2018,Sweden,Liberia,2.646599,2.587729
 2018,Sweden,Ethiopia,3.682224,3.600318
@@ -198,6 +246,7 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2018,Ireland,Malawi,3.256461,3.197311
 2018,Ireland,Cameroon,0.162345,0.159396
 2018,Ireland,Uganda,3.540659,3.476346
+2018,Norwegian Postcode Lottery,"Bilateral, unspecified",0.048685,0.059903
 2018,United Kingdom,"Bilateral, unspecified",21.192181,22.072974
 2018,United Kingdom,Nigeria,6.165876,6.422143
 2018,United Kingdom,India,0.157175,0.163707
@@ -262,6 +311,14 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2018,Türkiye,Uzbekistan,0.05432,0.052453
 2018,Türkiye,Djibouti,0.0065,0.006277
 2018,Türkiye,Albania,0.0335,0.032349
+2018,European Bank for Reconstruction and Development,Albania,0,0
+2018,European Bank for Reconstruction and Development,Georgia,67.10138,69.84006
+2018,European Bank for Reconstruction and Development,Egypt,0,0
+2018,European Bank for Reconstruction and Development,Montenegro,0,0
+2018,European Bank for Reconstruction and Development,Belarus,0,0
+2018,European Bank for Reconstruction and Development,Kyrgyzstan,0,0
+2018,European Bank for Reconstruction and Development,Azerbaijan,0,0
+2018,European Bank for Reconstruction and Development,Moldova,0,0
 2018,Australia,Cameroon,0.019622,0.021587
 2018,Australia,Philippines,0.268947,0.29587
 2018,Australia,Timor-Leste,0.320051,0.35209
@@ -308,8 +365,13 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2018,UNICEF,India,4.434514,4.615503
 2018,UNICEF,Lao People's Democratic Republic,0.348983,0.363226
 2018,Netherlands,Egypt,0.001045,0.001062
+2018,Swedish Postcode Lottery,"Bilateral, unspecified",1.449876,1.417626
 2018,UNICEF,Armenia,0.285378,0.297025
+2018,Swedish Postcode Lottery,Afghanistan,0.64554,0.631181
+2018,Children's Investment Fund Foundation,"Bilateral, unspecified",0.095864,0.099848
 2018,UNICEF,Tanzania,2.748842,2.861033
+2018,Children's Investment Fund Foundation,India,0.091532,0.095336
+2018,Wellcome Trust,"Bilateral, unspecified",0.079365,0.082664
 2018,UNICEF,Costa Rica,0.101461,0.105602
 2018,Norway,Moldova,0.307322,0.378132
 2018,Norway,"Bilateral, unspecified",2.553406,3.141744
@@ -367,8 +429,11 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2018,Italy,Iraq,0,0
 2018,Finland,Philippines,0.195455,0.193431
 2018,UNICEF,Sudan,0.347889,0.362088
+2018,Bill & Melinda Gates Foundation,"Bilateral, unspecified",0.1,0.115331
+2018,Bill & Melinda Gates Foundation,Ethiopia,0.034629,0.039938
 2018,UNICEF,Burkina Faso,1.044697,1.087334
 2018,International Labour Organisation,"Africa, regional",0.157648,0.164082
+2018,Bill & Melinda Gates Foundation,India,0.372429,0.429526
 2018,International Labour Organisation,Argentina,0.152616,0.158846
 2018,International Labour Organisation,Cuba,0.003262,0.003395
 2018,International Labour Organisation,Cameroon,0.201372,0.209591
@@ -503,7 +568,39 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2018,UNDP,Argentina,0.04038,0.042028
 2018,UNDP,Mali,0.043442,0.045215
 2018,UNDP,Morocco,0.062882,0.065449
+2018,Charity Projects Ltd (Comic Relief),Nepal,0.141173,0.14704
+2018,Charity Projects Ltd (Comic Relief),Gambia,0.053355,0.055572
+2018,Charity Projects Ltd (Comic Relief),Colombia,0.309542,0.322408
+2018,Charity Projects Ltd (Comic Relief),Senegal,0.045885,0.047792
+2018,Charity Projects Ltd (Comic Relief),Jamaica,0.108176,0.112673
 2018,UNICEF,Chad,0.143863,0.149734
+2018,Charity Projects Ltd (Comic Relief),Uganda,0.325862,0.339407
+2018,Charity Projects Ltd (Comic Relief),"South America, regional",0.066693,0.069465
+2018,Charity Projects Ltd (Comic Relief),Argentina,0.008003,0.008336
+2018,Charity Projects Ltd (Comic Relief),Solomon Islands,0.011204,0.01167
+2018,Charity Projects Ltd (Comic Relief),India,0.032013,0.033344
+2018,Charity Projects Ltd (Comic Relief),Bangladesh,0.056202,0.058538
+2018,Charity Projects Ltd (Comic Relief),Brazil,0.045118,0.046993
+2018,Charity Projects Ltd (Comic Relief),Tanzania,0.053355,0.055572
+2018,Charity Projects Ltd (Comic Relief),Sierra Leone,0.058474,0.060904
+2018,Charity Projects Ltd (Comic Relief),Kenya,0.245301,0.255495
+2018,Charity Projects Ltd (Comic Relief),"South of Sahara, regional",0.199279,0.207562
+2018,Charity Projects Ltd (Comic Relief),Malawi,0.020548,0.021402
+2018,Charity Projects Ltd (Comic Relief),Zimbabwe,0.024281,0.025291
+2018,Charity Projects Ltd (Comic Relief),Zambia,0.017795,0.018535
+2018,Charity Projects Ltd (Comic Relief),South Africa,0.198068,0.2063
+2018,Charity Projects Ltd (Comic Relief),Ethiopia,0.138404,0.144156
+2018,Charity Projects Ltd (Comic Relief),Togo,0.117212,0.122083
+2018,Charity Projects Ltd (Comic Relief),Liberia,0.045709,0.047609
+2018,Charity Projects Ltd (Comic Relief),Democratic Republic of the Congo,0.037361,0.038914
+2018,Rockefeller Foundation,Jordan,0.080168,0.092458
+2018,Rockefeller Foundation,"Bilateral, unspecified",0.6625,0.764067
+2018,Rockefeller Foundation,Côte d'Ivoire,0.080168,0.092458
+2018,Rockefeller Foundation,Ghana,0.080168,0.092458
+2018,Rockefeller Foundation,Egypt,0.080168,0.092458
+2018,Rockefeller Foundation,Zambia,0.080168,0.092458
+2018,Oak Foundation,Zimbabwe,0.090415,0.095338
+2018,Oak Foundation,India,0.343391,0.362088
 2018,Slovenia,States Ex-Yugoslavia unspecified,0.000679,0.000685
 2018,Poland,Ukraine,0.276964,0.280487
 2018,Poland,West Bank and Gaza Strip,0.209485,0.212149
@@ -525,6 +622,8 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2018,UNICEF,"Bilateral, unspecified",3.438686,3.579033
 2018,Food and Agriculture Organisation,Mali,0.0464,0.048294
 2018,UNICEF,Viet Nam,0.161025,0.167596
+2018,Rockefeller Foundation,"Africa, regional",0.059728,0.068885
+2018,Rockefeller Foundation,India,0.059728,0.068885
 2018,UNICEF,Yemen,0.825172,0.85885
 2018,UNICEF,Nepal,0.366119,0.381062
 2018,UNICEF,Angola,0.335086,0.348761
@@ -642,7 +741,7 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2018,Canada,Cameroon,0.014434,0.017027
 2018,Canada,Brazil,0.015051,0.017755
 2018,Canada,Colombia,0.181083,0.213614
-2018,Asian Development Bank,Pakistan,20.63125,21.473296
+2018,Asian Development Bank,Pakistan,22.239263,23.146938
 2018,Canada,Ethiopia,0.016238,0.019156
 2018,Canada,Peru,0.000799,0.000942
 2018,Canada,"Middle East, regional",0.09328,0.110037
@@ -717,9 +816,10 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2018,Korea,Myanmar,0.037941,0.033879
 2018,Canada,Malawi,0.019289,0.022754
 2018,Canada,Afghanistan,0.966259,1.139842
+2018,Asian Development Bank,China (People's Republic of),7.458635,7.763051
 2018,Asian Development Bank,Bangladesh,12.0571,12.549199
 2018,Asian Development Bank,Maldives,0,0
-2018,Asian Development Bank,China (People's Republic of),0.581083,0.604798
+2018,Asian Development Bank,Kazakhstan,0,0
 2018,Canada,Pakistan,0.019289,0.022754
 2018,Korea,Haiti,2.267417,2.024664
 2018,United Arab Emirates,Albania,0.05294,0.0551
@@ -846,16 +946,19 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2018,Korea,Colombia,0.103898,0.092775
 2018,Korea,Jordan,0.119136,0.106381
 2018,Korea,Ecuador,0.494158,0.441253
+2018,Asian Development Bank,Azerbaijan,0,0
 2018,Asian Development Bank,Sri Lanka,0,0
-2018,Asian Development Bank,Mongolia,3.329745,3.465645
+2018,Asian Development Bank,Mongolia,53.329745,55.506347
+2018,Asian Development Bank,Cook Islands,0,0
 2018,Asian Development Bank,"Asia, regional",0.958268,0.99738
 2018,Asian Development Bank,Nepal,0.14536,0.151293
 2018,Asian Development Bank,Lao People's Democratic Republic,1.440804,1.499609
+2018,Asian Development Bank,Philippines,67.452678,70.205694
+2018,Asian Development Bank,Fiji,0,0
 2018,Asian Development Bank,Georgia,0,0
 2018,Asian Development Bank,Papua New Guinea,1,1.040814
-2018,Asian Development Bank,Armenia,0,0
-2018,Asian Development Bank,Philippines,0.092079,0.095837
 2018,Asian Development Bank,Indonesia,0,0
+2018,Asian Development Bank,Armenia,0,0
 2018,Asian Development Bank,Cambodia,0,0
 2018,Asian Development Bank,Marshall Islands,0,0
 2018,Asian Development Bank,Samoa,0,0
@@ -928,9 +1031,12 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2018,EU Institutions,Albania,0.133093,0.131461
 2018,EU Institutions,Ghana,1.006149,0.993809
 2018,EU Institutions,Türkiye,0,0
+2018,Inter-American Development Bank,Colombia,0.287292,0.299017
 2018,EU Institutions,Azerbaijan,1.188917,1.174336
 2018,EU Institutions,Serbia,1.139609,1.125632
 2018,EU Institutions,Honduras,0.236044,0.233149
+2018,Inter-American Development Bank,Ecuador,1.444656,1.503619
+2018,Inter-American Development Bank,Panama,4.317696,4.493919
 2018,EU Institutions,Mozambique,0.253251,0.250145
 2018,EU Institutions,"Bilateral, unspecified",4.251067,4.198928
 2018,Inter-American Development Bank,Nicaragua,0.020516,0.021353
@@ -962,25 +1068,75 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2018,EU Institutions,Tunisia,0.014623,0.014444
 2018,EU Institutions,Brazil,0.04676,0.046187
 2018,EU Institutions,Angola,2.175003,2.148326
+2018,Inter-American Development Bank,Argentina,622.593456,648.004013
 2018,Inter-American Development Bank,Honduras,99.662896,103.730542
+2018,Inter-American Development Bank,Dominican Republic,3.226976,3.358682
+2018,Inter-American Development Bank,Brazil,25.289176,26.321328
+2018,Inter-American Development Bank,Venezuela,0.002809,0.002924
+2018,Inter-American Development Bank,El Salvador,9,9.367326
 2018,Inter-American Development Bank,"America, regional",0.694522,0.722868
 2018,Inter-American Development Bank,Guatemala,0,0
-2018,Inter-American Development Bank,Panama,0.317696,0.330663
-2018,Inter-American Development Bank,Ecuador,1.444656,1.503619
+2018,Inter-American Development Bank,Paraguay,3.827691,3.983915
+2018,Inter-American Development Bank,Jamaica,12.233546,12.732846
 2018,Inter-American Development Bank,Bolivia,0.267671,0.278596
-2018,Inter-American Development Bank,Colombia,0.287292,0.299017
-2018,Inter-American Development Bank,Brazil,0.028544,0.029709
+2018,Inter-American Development Bank,Belize,0,0
 2018,Inter-American Development Bank,Guyana,0.13009,0.135399
-2018,Inter-American Development Bank,Mexico,0,0
+2018,Inter-American Development Bank,Mexico,419.442039,436.561165
 2018,Inter-American Development Bank,Haiti,0,0
 2018,Inter-American Development Bank,Peru,0.463862,0.482795
-2018,Inter-American Development Bank,Argentina,0.089168,0.092807
-2018,Inter-American Development Bank,El Salvador,0,0
-2018,Inter-American Development Bank,Paraguay,0.001981,0.002062
-2018,Inter-American Development Bank,Venezuela,0.002809,0.002924
+2018,Inter-American Development Bank,Suriname,0,0
 2018,International Development Association,Afghanistan,0.605444,0.630155
 2018,Inter-American Development Bank,Costa Rica,0.080335,0.083614
 2018,Latvia,Ukraine,0.003622,0.004019
+2018,International Bank for Reconstruction and Development,Philippines,80.769351,84.065876
+2018,International Bank for Reconstruction and Development,Morocco,3.18,3.309789
+2018,International Bank for Reconstruction and Development,Azerbaijan,0.214898,0.223669
+2018,International Bank for Reconstruction and Development,Indonesia,79.8,83.056961
+2018,International Bank for Reconstruction and Development,Paraguay,0,0
+2018,International Bank for Reconstruction and Development,Belize,0,0
+2018,International Bank for Reconstruction and Development,Brazil,8.737497,9.094109
+2018,International Bank for Reconstruction and Development,China (People's Republic of),4.474122,4.656729
+2018,International Bank for Reconstruction and Development,Ukraine,40.814,42.479784
+2018,International Bank for Reconstruction and Development,Saint Lucia,0,0
+2018,International Bank for Reconstruction and Development,Serbia,0.086845,0.090389
+2018,International Bank for Reconstruction and Development,Armenia,0,0
+2018,International Bank for Reconstruction and Development,Mexico,307.301292,319.8435
+2018,International Bank for Reconstruction and Development,India,0.121974,0.126952
+2018,International Bank for Reconstruction and Development,Peru,0.84,0.874284
+2018,International Bank for Reconstruction and Development,Pakistan,0.562762,0.585731
+2018,International Bank for Reconstruction and Development,Dominican Republic,20.163998,20.986972
+2018,International Bank for Reconstruction and Development,Belarus,0,0
+2018,International Bank for Reconstruction and Development,Congo,0.614449,0.639527
+2018,International Bank for Reconstruction and Development,Guatemala,0,0
+2018,International Bank for Reconstruction and Development,Argentina,258.525,269.076451
+2018,International Bank for Reconstruction and Development,Jamaica,6.654766,6.926375
+2018,International Bank for Reconstruction and Development,Colombia,0,0
+2018,International Bank for Reconstruction and Development,Panama,22,22.897909
+2018,International Bank for Reconstruction and Development,Viet Nam,0,0
+2018,International Bank for Reconstruction and Development,Gabon,0,0
+2018,International Bank for Reconstruction and Development,Grenada,0,0
+2018,International Bank for Reconstruction and Development,North Macedonia,1.785114,1.857972
+2018,International Bank for Reconstruction and Development,Jordan,116.7,121.462999
+2018,International Bank for Reconstruction and Development,Mauritius,0,0
+2018,International Bank for Reconstruction and Development,Türkiye,0,0
+2018,International Bank for Reconstruction and Development,Saint Vincent and the Grenadines,0,0
+2018,International Bank for Reconstruction and Development,Georgia,0,0
+2018,International Bank for Reconstruction and Development,Egypt,23.82501,24.797405
+2018,International Bank for Reconstruction and Development,Tunisia,130.821344,136.160692
+2018,International Bank for Reconstruction and Development,Kazakhstan,0,0
+2018,International Bank for Reconstruction and Development,Ecuador,0,0
+2018,International Bank for Reconstruction and Development,El Salvador,0,0
+2018,International Bank for Reconstruction and Development,Iraq,5.4225,5.643814
+2018,International Bank for Reconstruction and Development,Antigua and Barbuda,0,0
+2018,International Bank for Reconstruction and Development,Lebanon,0,0
+2018,International Bank for Reconstruction and Development,Albania,0.284024,0.295616
+2018,International Bank for Reconstruction and Development,Papua New Guinea,0,0
+2018,International Bank for Reconstruction and Development,Cameroon,16.380371,17.04892
+2018,International Bank for Reconstruction and Development,Fiji,0,0
+2018,International Bank for Reconstruction and Development,Eswatini,0.686484,0.714502
+2018,International Bank for Reconstruction and Development,Angola,7.960452,8.28535
+2018,International Bank for Reconstruction and Development,Iran,0,0
+2018,International Bank for Reconstruction and Development,Bosnia and Herzegovina,0,0
 2018,International Development Association,Mali,22.540901,23.460886
 2018,International Development Association,Albania,0,0
 2018,International Development Association,Grenada,0.363683,0.378527
@@ -1323,6 +1479,17 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2018,Global Environment Facility,Senegal,1.100207,1.145111
 2018,Global Environment Facility,Chad,0.158457,0.164926
 2018,International Development Association,Uzbekistan,100,104.081404
+2018,Laudes Foundation,Brazil,0.072068,0.075992
+2018,Laudes Foundation,Mexico,0.009986,0.01053
+2018,Laudes Foundation,China (People's Republic of),0,0
+2018,Laudes Foundation,"Bilateral, unspecified",0.295055,0.31112
+2018,Laudes Foundation,Serbia,0.005901,0.006222
+2018,Open Society Foundations,"Middle East, regional",0.2535,0.292364
+2018,Open Society Foundations,"South of Sahara, regional",0.245,0.28256
+2018,Open Society Foundations,"Europe, regional",0.15604,0.179962
+2018,Open Society Foundations,"Central Asia, regional",0.102192,0.117859
+2018,Open Society Foundations,"South Asia, regional",0.099218,0.114429
+2018,Fondation Botnar,Colombia,0.137634,0.145128
 2019,Greece,Congo,0.026867,0.027494
 2019,Greece,"Bilateral, unspecified",0.003358,0.003437
 2019,Austria,India,0.032027,0.0332
@@ -1483,6 +1650,8 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2019,Canada,Honduras,0.086057,0.102334
 2019,Türkiye,Kosovo,0.089337,0.08886
 2019,Türkiye,Cameroon,0.011423,0.011362
+2019,Bernard van Leer Foundation,"Bilateral, unspecified",0.362899,0.377638
+2019,Dutch Postcode Lottery,"Bilateral, unspecified",2.876972,2.993819
 2019,Australia,South Africa,0.120406,0.137948
 2019,Australia,Sri Lanka,0.03007,0.034451
 2019,Australia,Ethiopia,0.029153,0.033401
@@ -1499,8 +1668,9 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2019,Portugal,Timor-Leste,0.29802,0.30555
 2019,Lithuania,Belarus,0.010431,0.012393
 2019,UNICEF,Uganda,0.871,0.922646
-2019,Asian Development Bank,China (People's Republic of),0.727302,0.770426
+2019,Asian Development Bank,China (People's Republic of),0.826875,0.875903
 2019,Asian Development Bank,Mongolia,0.686803,0.727527
+2019,Asian Development Bank,Pakistan,341.20706,361.439032
 2019,Canada,Peru,0.565185,0.672086
 2019,Canada,Cambodia,0,0
 2019,Canada,Ghana,0,0
@@ -1548,11 +1718,18 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2019,Canada,Jordan,0.296538,0.352627
 2019,Canada,Guatemala,0.086057,0.102334
 2019,Canada,Zimbabwe,0.127247,0.151315
+2019,European Bank for Reconstruction and Development,Tajikistan,0.373913,0.396084
 2019,Canada,"Bilateral, unspecified",0.053607,0.063747
 2019,Canada,"Middle East, regional",0.091108,0.10834
 2019,Inter-American Development Bank,Nicaragua,0,0
-2019,Inter-American Development Bank,Bolivia,0,0
+2019,Inter-American Development Bank,Colombia,0,0
+2019,Inter-American Development Bank,Bolivia,1.2,1.271155
+2019,Inter-American Development Bank,Paraguay,9.31114,9.863247
+2019,Inter-American Development Bank,El Salvador,5.184516,5.491934
 2019,Inter-American Development Bank,"America, regional",0.482781,0.511408
+2019,Inter-American Development Bank,Dominican Republic,11.029382,11.683372
+2019,Inter-American Development Bank,Argentina,274.630712,290.915021
+2019,Inter-American Development Bank,Jamaica,7.897028,8.365284
 2019,Inter-American Development Bank,Venezuela,0.2,0.211859
 2019,UNICEF,Togo,0.296,0.313551
 2019,Australia,Philippines,0.281714,0.32276
@@ -1561,6 +1738,7 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2019,Australia,Saint Lucia,0.007053,0.00808
 2019,Canada,South Africa,0.059796,0.071108
 2019,Canada,Brazil,0.006688,0.007955
+2019,Bill & Melinda Gates Foundation,"Bilateral, unspecified",0.2,0.226854
 2019,Türkiye,Syrian Arab Republic,0.691626,0.687931
 2019,Türkiye,"Europe, regional",0.55492,0.551954
 2019,UNICEF,Tunisia,0.165,0.174784
@@ -1591,6 +1769,7 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2019,Canada,Nicaragua,0.025931,0.030835
 2019,Canada,"Africa, regional",0.272908,0.324528
 2019,Türkiye,West Bank and Gaza Strip,1.356439,1.34919
+2019,Ford Foundation,Indonesia,0.239584,0.271753
 2019,Australia,"Bilateral, unspecified",0.972082,1.113713
 2019,Canada,"South of Sahara, regional",0.186557,0.221842
 2019,Canada,Egypt,0.105213,0.125113
@@ -1598,7 +1777,12 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2019,Australia,Jordan,0.050649,0.058028
 2019,Australia,Nigeria,0.001324,0.001517
 2019,Canada,Lao People's Democratic Republic,0,0
+2019,Dutch Postcode Lottery,India,0.559722,0.582455
 2019,Canada,Ecuador,0,0
+2019,Ford Foundation,India,0.388077,0.440185
+2019,Ford Foundation,Lebanon,0.045,0.051042
+2019,Charity Projects Ltd (Comic Relief),South Africa,0.085855,0.09153
+2019,Charity Projects Ltd (Comic Relief),Nepal,0.146933,0.156646
 2019,Canada,Democratic Republic of the Congo,0.313331,0.372596
 2019,Türkiye,Mexico,0.086849,0.086385
 2019,Türkiye,Kazakhstan,0.124215,0.123552
@@ -1866,7 +2050,64 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2019,Türkiye,Niger,0.006,0.005968
 2019,Türkiye,Uzbekistan,0.001735,0.001726
 2019,Türkiye,"America, regional",0.06,0.059679
+2019,Bernard van Leer Foundation,India,0.953338,0.992057
+2019,Bernard van Leer Foundation,Peru,0.849748,0.88426
+2019,Bill & Melinda Gates Foundation,India,0.732955,0.831369
+2019,Swedish Postcode Lottery,"Bilateral, unspecified",3.698219,3.83757
+2019,Swedish Postcode Lottery,Afghanistan,0.565361,0.586664
+2019,People's Postcode Lottery,Rwanda,0.31904,0.34013
+2019,People's Postcode Lottery,Lebanon,0.063808,0.068026
+2019,People's Postcode Lottery,"Bilateral, unspecified",0.370497,0.394988
+2019,Laudes Foundation,Mexico,0.050352,0.054004
+2019,Oak Foundation,Tanzania,0.1,0.107258
+2019,Oak Foundation,"Southern Africa, regional",0.103176,0.110665
+2019,Oak Foundation,"Eastern Africa, regional",0.127,0.136218
+2019,Oak Foundation,Zimbabwe,0.113353,0.12158
+2019,Laudes Foundation,Brazil,0.07053,0.075649
+2019,Laudes Foundation,China (People's Republic of),0.041296,0.044294
+2019,Laudes Foundation,Bangladesh,0.018471,0.019811
+2019,Laudes Foundation,India,0.017508,0.018779
+2019,Laudes Foundation,Serbia,0.03937,0.042227
+2019,Laudes Foundation,Türkiye,0.016937,0.018167
+2019,Laudes Foundation,"Bilateral, unspecified",0.167917,0.180104
+2019,Norwegian Postcode Lottery,"Bilateral, unspecified",1.015824,1.359329
+2019,Children's Investment Fund Foundation,India,0.061021,0.065055
+2019,Charity Projects Ltd (Comic Relief),"South America, regional",0.107836,0.114964
+2019,Charity Projects Ltd (Comic Relief),Bangladesh,0.029274,0.031209
+2019,Charity Projects Ltd (Comic Relief),"South of Sahara, regional",0.23923,0.255044
+2019,Charity Projects Ltd (Comic Relief),Malawi,0.027765,0.029601
+2019,Charity Projects Ltd (Comic Relief),Jamaica,0.111537,0.118909
+2019,Charity Projects Ltd (Comic Relief),Kenya,0.156482,0.166827
+2019,Charity Projects Ltd (Comic Relief),Sierra Leone,0.053564,0.057105
+2019,Charity Projects Ltd (Comic Relief),Colombia,0.332613,0.3546
+2019,Charity Projects Ltd (Comic Relief),Tanzania,0.051046,0.054421
+2019,Charity Projects Ltd (Comic Relief),Togo,0.17402,0.185523
+2019,Charity Projects Ltd (Comic Relief),Solomon Islands,0.009715,0.010358
+2019,Charity Projects Ltd (Comic Relief),Zimbabwe,0.002581,0.002752
+2019,Charity Projects Ltd (Comic Relief),Ethiopia,0.055441,0.059105
+2019,Charity Projects Ltd (Comic Relief),Uganda,0.225107,0.239988
+2019,Charity Projects Ltd (Comic Relief),Senegal,0.2018,0.21514
+2019,Charity Projects Ltd (Comic Relief),Brazil,0.003583,0.00382
+2019,Charity Projects Ltd (Comic Relief),Liberia,0.067089,0.071524
+2019,Charity Projects Ltd (Comic Relief),India,0.005105,0.005442
+2019,Charity Projects Ltd (Comic Relief),Democratic Republic of the Congo,0.023114,0.024642
+2019,Charity Projects Ltd (Comic Relief),Gambia,0.051046,0.054421
+2019,Charity Projects Ltd (Comic Relief),Nigeria,0.002921,0.003114
+2019,Rockefeller Foundation,"Bilateral, unspecified",3.35,3.799805
+2019,Rockefeller Foundation,"Africa, regional",0.15,0.170141
+2019,William and Flora Hewlett Foundation,"Bilateral, unspecified",0.04,0.045371
+2019,John D. and Catherine T. MacArthur Foundation,Guatemala,4.540315,5.149943
 2019,Iceland,Togo,0.049069,0.053672
+2019,Ford Foundation,South Africa,0,0
+2019,Ford Foundation,Cuba,0.07,0.079399
+2019,Ford Foundation,Jordan,0.23,0.260882
+2019,Ford Foundation,Tunisia,0,0
+2019,Ford Foundation,Morocco,0,0
+2019,Ford Foundation,Nigeria,0.0675,0.076563
+2019,Ford Foundation,China (People's Republic of),0.2535,0.287538
+2019,Ford Foundation,Ghana,0.0495,0.056146
+2019,Ford Foundation,Mexico,0.03,0.034028
+2019,Ford Foundation,"Bilateral, unspecified",0.166667,0.189045
 2019,Australia,West Bank and Gaza Strip,0.013349,0.015294
 2019,Australia,Botswana,0.019053,0.02183
 2019,Australia,Papua New Guinea,0.117888,0.135064
@@ -1895,19 +2136,21 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2019,Australia,Nepal,0.06418,0.073531
 2019,Australia,India,0.004551,0.005214
 2019,OPEC Fund for International Development,"Bilateral, unspecified",0.014973,0.015861
+2019,Inter-American Development Bank,Guatemala,0,0
 2019,Inter-American Development Bank,Honduras,75.556425,80.036565
-2019,Inter-American Development Bank,El Salvador,0,0
-2019,Inter-American Development Bank,Ecuador,0,0
-2019,Inter-American Development Bank,Paraguay,0.029043,0.030765
+2019,Inter-American Development Bank,Ecuador,3.773355,3.997098
+2019,Inter-American Development Bank,Mexico,30.928001,32.761886
+2019,Inter-American Development Bank,Suriname,0,0
+2019,Inter-American Development Bank,Brazil,17.188445,18.207639
 2019,Inter-American Development Bank,Panama,0.070499,0.07468
 2019,Inter-American Development Bank,Peru,0.033272,0.035245
-2019,Inter-American Development Bank,Brazil,0.113276,0.119993
 2019,Inter-American Development Bank,Haiti,0.558799,0.591933
-2019,Inter-American Development Bank,Guatemala,0,0
-2019,Inter-American Development Bank,Colombia,0,0
-2019,Inter-American Development Bank,Argentina,0,0
-2019,Inter-American Development Bank,Mexico,0,0
+2019,Inter-American Development Bank,Belize,0,0
 2019,Islamic Development Bank,Uganda,0.593759,0.628966
+2019,European Bank for Reconstruction and Development,Egypt,17.150129,18.167051
+2019,European Bank for Reconstruction and Development,Georgia,4.346255,4.603968
+2019,European Bank for Reconstruction and Development,Morocco,0,0
+2019,European Bank for Reconstruction and Development,Serbia,0.559722,0.592911
 2019,Netherlands,"Bilateral, unspecified",13.433337,13.978916
 2019,Netherlands,Suriname,0.590185,0.614155
 2019,Netherlands,Mozambique,5.747117,5.98053
@@ -2050,8 +2293,8 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2019,Hungary,Armenia,0.010188,0.010304
 2019,Hungary,Ukraine,0.103225,0.104403
 2019,Hungary,North Macedonia,0.00766,0.007747
-2019,Asian Development Bank,Pakistan,7.228843,7.657479
 2019,Asian Development Bank,Viet Nam,0.36075,0.382141
+2019,Asian Development Bank,Philippines,56.436835,59.783273
 2019,Asian Development Bank,Bangladesh,0,0
 2019,Asian Development Bank,"Oceania, regional",0.154801,0.16398
 2019,Asian Development Bank,"Central Asia, regional",0.070082,0.074237
@@ -2061,13 +2304,18 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2019,Asian Development Bank,Sri Lanka,0,0
 2019,Asian Development Bank,Armenia,0,0
 2019,Asian Development Bank,Indonesia,3,3.177886
+2019,Asian Development Bank,Kazakhstan,0,0
 2019,Asian Development Bank,Myanmar,0.178578,0.189167
-2019,Asian Development Bank,Philippines,0.436835,0.462737
 2019,Asian Development Bank,Maldives,0,0
 2019,Asian Development Bank,Lao People's Democratic Republic,0.2,0.211859
 2019,Asian Development Bank,Vanuatu,0.010356,0.01097
 2019,Lithuania,Moldova,0.00347,0.004123
 2019,New Zealand,Solomon Islands,1.005321,1.072997
+2019,IKEA Foundation,India,0.470713,0.48983
+2019,IKEA Foundation,Kenya,0.415869,0.432759
+2019,IKEA Foundation,China (People's Republic of),0.442217,0.460177
+2019,IKEA Foundation,Thailand,0.442217,0.460177
+2019,IKEA Foundation,Ethiopia,0.847732,0.882162
 2019,Belgium,West Bank and Gaza Strip,0.570267,0.594645
 2019,Belgium,Philippines,0.109389,0.114065
 2019,Belgium,Burkina Faso,0.087343,0.091077
@@ -2564,6 +2812,7 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2019,International Development Association,Malawi,27.844968,29.496043
 2019,United States,Yemen,2.887975,3.275743
 2019,International Development Association,Democratic Republic of the Congo,5.017843,5.315377
+2019,International Bank for Reconstruction and Development,Morocco,12.19,12.91281
 2019,United States,"Europe, regional",0,0
 2019,United States,Bosnia and Herzegovina,0.145852,0.165436
 2019,International Development Association,Côte d'Ivoire,42.573534,45.097943
@@ -2574,8 +2823,52 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2019,International Development Association,Mauritania,6.687591,7.084135
 2019,International Development Association,Afghanistan,0,0
 2019,United States,Kosovo,0.000456,0.000517
+2019,International Bank for Reconstruction and Development,Azerbaijan,0,0
 2019,Russia,"Bilateral, unspecified",10.77,0
+2019,International Bank for Reconstruction and Development,Albania,13.659941,14.469911
+2019,International Bank for Reconstruction and Development,Guatemala,0.337051,0.357037
+2019,International Bank for Reconstruction and Development,Ukraine,28.411027,30.095668
+2019,International Bank for Reconstruction and Development,Angola,81.407595,86.234682
+2019,International Bank for Reconstruction and Development,Colombia,143.7,152.220734
+2019,International Bank for Reconstruction and Development,Argentina,218.49125,231.446753
+2019,International Bank for Reconstruction and Development,Paraguay,0,0
+2019,International Bank for Reconstruction and Development,Panama,1.42,1.504199
+2019,International Bank for Reconstruction and Development,Egypt,0.023123,0.024494
+2019,International Bank for Reconstruction and Development,Dominican Republic,16.292397,17.25846
+2019,International Bank for Reconstruction and Development,Mauritius,0,0
+2019,International Bank for Reconstruction and Development,Indonesia,41,43.431107
+2019,International Bank for Reconstruction and Development,Georgia,0,0
+2019,International Bank for Reconstruction and Development,Eswatini,0,0
+2019,International Bank for Reconstruction and Development,Brazil,45.478795,48.175473
+2019,International Bank for Reconstruction and Development,Philippines,91.368514,96.786237
+2019,International Bank for Reconstruction and Development,Pakistan,0.396078,0.419564
+2019,International Bank for Reconstruction and Development,Saint Vincent and the Grenadines,0,0
+2019,International Bank for Reconstruction and Development,Mexico,1.522512,1.61279
+2019,International Bank for Reconstruction and Development,Jordan,160.2975,169.802387
+2019,International Bank for Reconstruction and Development,Iraq,9.12,9.660773
+2019,International Bank for Reconstruction and Development,Tunisia,0,0
+2019,International Bank for Reconstruction and Development,India,1.3075,1.385029
+2019,International Bank for Reconstruction and Development,Ecuador,85.70243,90.784181
+2019,International Bank for Reconstruction and Development,Grenada,0,0
 2019,International Development Association,Albania,0,0
+2019,International Bank for Reconstruction and Development,North Macedonia,36.145208,38.288448
+2019,International Bank for Reconstruction and Development,Saint Lucia,0,0
+2019,International Bank for Reconstruction and Development,Peru,2.198,2.328331
+2019,International Bank for Reconstruction and Development,El Salvador,0,0
+2019,International Bank for Reconstruction and Development,Lebanon,0,0
+2019,International Bank for Reconstruction and Development,Jamaica,4.090242,4.332774
+2019,International Bank for Reconstruction and Development,Antigua and Barbuda,0,0
+2019,International Bank for Reconstruction and Development,Uzbekistan,170,180.0802
+2019,International Bank for Reconstruction and Development,China (People's Republic of),6.013136,6.369686
+2019,International Bank for Reconstruction and Development,Congo,1.31276,1.390601
+2019,International Bank for Reconstruction and Development,Sri Lanka,0,0
+2019,International Bank for Reconstruction and Development,Türkiye,0,0
+2019,International Bank for Reconstruction and Development,Gabon,27.846961,29.498155
+2019,International Bank for Reconstruction and Development,Belarus,0.056194,0.059526
+2019,International Bank for Reconstruction and Development,Mongolia,0.005,0.005296
+2019,International Bank for Reconstruction and Development,Papua New Guinea,0,0
+2019,International Bank for Reconstruction and Development,Iran,0,0
+2019,International Bank for Reconstruction and Development,Serbia,0.542351,0.57451
 2019,International Development Association,Pakistan,10.583879,11.211452
 2019,International Development Association,Congo,5.483268,5.8084
 2019,International Development Association,Bangladesh,319.345783,338.281487
@@ -2650,6 +2943,17 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2019,International Development Association,Myanmar,0,0
 2019,International Development Association,Bhutan,0,0
 2019,Bulgaria,"Bilateral, unspecified",1.12,1.186411
+2019,UBS Optimus Foundation,"Bilateral, unspecified",0.516788,0.554297
+2019,UBS Optimus Foundation,China (People's Republic of),0.150981,0.161939
+2019,UBS Optimus Foundation,Indonesia,0.27958,0.299872
+2019,UBS Optimus Foundation,India,0.024149,0.025903
+2019,Open Society Foundations,"Eastern Africa, regional",0.68,0.771304
+2019,Open Society Foundations,"South America, regional",0.444348,0.504011
+2019,Open Society Foundations,"Bilateral, unspecified",0.25,0.283568
+2019,Open Society Foundations,"Europe, regional",0.174936,0.198425
+2019,Open Society Foundations,"Central America, regional",0.089873,0.10194
+2019,Open Society Foundations,"South Asia, regional",0.0485,0.055012
+2019,Open Society Foundations,"South of Sahara, regional",0.07,0.079399
 2020,Bulgaria,"Bilateral, unspecified",0.74,0.76064
 2020,Iceland,Togo,0.044425,0.051573
 2020,Lithuania,Azerbaijan,0.005698,0.006527
@@ -2854,6 +3158,85 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2020,United Arab Emirates,Algeria,0.005445,0.005597
 2020,United Arab Emirates,Montenegro,0.013613,0.013993
 2020,United Arab Emirates,Yemen,0.008316,0.008548
+2020,Swedish Postcode Lottery,"Bilateral, unspecified",1.469102,1.455234
+2020,Swedish Postcode Lottery,Afghanistan,0.670054,0.663728
+2020,Bill & Melinda Gates Foundation,"Bilateral, unspecified",0.376317,0.421281
+2020,Laudes Foundation,Thailand,0.071738,0.073239
+2020,Laudes Foundation,India,1.185943,1.210754
+2020,Bill & Melinda Gates Foundation,India,0.71775,0.803512
+2020,Bill & Melinda Gates Foundation,China (People's Republic of),0.15,0.167923
+2020,John D. and Catherine T. MacArthur Foundation,Moldova,2.384321,2.669214
+2020,John D. and Catherine T. MacArthur Foundation,Kenya,2.384321,2.669214
+2020,Michael & Susan Dell Foundation,India,0.610168,0.683074
+2020,Michael & Susan Dell Foundation,South Africa,0.441789,0.494577
+2020,UBS Optimus Foundation,Bolivia,0,0
+2020,UBS Optimus Foundation,Cambodia,0.031949,0.032617
+2020,UBS Optimus Foundation,Cameroon,0,0
+2020,UBS Optimus Foundation,Colombia,0.058941,0.060174
+2020,UBS Optimus Foundation,India,0.208969,0.213341
+2020,UBS Optimus Foundation,Madagascar,0,0
+2020,UBS Optimus Foundation,Malawi,0,0
+2020,UBS Optimus Foundation,Mozambique,0,0
+2020,UBS Optimus Foundation,Rwanda,0.27854,0.284367
+2020,UBS Optimus Foundation,Sierra Leone,0,0
+2020,UBS Optimus Foundation,Zambia,0.117883,0.120349
+2020,UBS Optimus Foundation,"Bilateral, unspecified",2.802019,2.860642
+2020,UBS Optimus Foundation,South Africa,0.342438,0.349602
+2020,UBS Optimus Foundation,Uganda,0.422284,0.431118
+2020,UBS Optimus Foundation,Honduras,0.058941,0.060174
+2020,UBS Optimus Foundation,Mexico,0.058941,0.060174
+2020,UBS Optimus Foundation,"America, regional",0.058941,0.060174
+2020,UBS Optimus Foundation,Kenya,0.117883,0.120349
+2020,UBS Optimus Foundation,Thailand,0.127796,0.130469
+2020,UBS Optimus Foundation,Serbia,0.175719,0.179395
+2020,UBS Optimus Foundation,Nepal,0.070998,0.072483
+2020,UBS Optimus Foundation,Ghana,0,0
+2020,UBS Optimus Foundation,Pakistan,0.010626,0.010849
+2020,UBS Optimus Foundation,"Africa, regional",0.003174,0.00324
+2020,UBS Optimus Foundation,China (People's Republic of),0.099021,0.101093
+2020,UBS Optimus Foundation,Indonesia,0.212668,0.217118
+2020,People's Postcode Lottery,"Bilateral, unspecified",0.3313,0.33444
+2020,People's Postcode Lottery,Rwanda,0.320636,0.323676
+2020,Laudes Foundation,Brazil,0.329148,0.336031
+2020,Laudes Foundation,Mexico,0.014479,0.014783
+2020,Laudes Foundation,Sri Lanka,0.0112,0.011434
+2020,Laudes Foundation,Cambodia,0.05698,0.058172
+2020,Jacobs Foundation,Zambia,0.01065,0.010872
+2020,William and Flora Hewlett Foundation,Kenya,0.91,1.018732
+2020,William and Flora Hewlett Foundation,Tanzania,0,0
+2020,Dutch Postcode Lottery,"Bilateral, unspecified",2.885003,2.893394
+2020,Dutch Postcode Lottery,India,0.569801,0.571458
+2020,H&M Foundation,Bangladesh,1.785617,1.76876
+2020,Norwegian Postcode Lottery,"Bilateral, unspecified",2.793981,4.103226
+2020,Oak Foundation,Brazil,0.122713,0.12528
+2020,Oak Foundation,India,1.109564,1.132778
+2020,Oak Foundation,Moldova,0.1,0.102092
+2020,Oak Foundation,Zimbabwe,0.525927,0.53693
+2020,Conrad N. Hilton Foundation,"Bilateral, unspecified",0.2,0.223898
+2020,Conrad N. Hilton Foundation,Ethiopia,0.5,0.559743
+2020,Conrad N. Hilton Foundation,Malawi,0.45,0.503769
+2020,Conrad N. Hilton Foundation,Uganda,0.4,0.447794
+2020,Ford Foundation,India,0.405908,0.454407
+2020,Ford Foundation,Jordan,0.458333,0.513097
+2020,Ford Foundation,Nigeria,0,0
+2020,Ford Foundation,South Africa,0.2835,0.317374
+2020,Ford Foundation,"Southern Africa, regional",0.5835,0.65322
+2020,Ford Foundation,Ecuador,0.036,0.040301
+2020,Ford Foundation,Pakistan,0,0
+2020,Ford Foundation,"Bilateral, unspecified",2.441667,2.733411
+2020,Ford Foundation,Indonesia,0.1,0.111949
+2020,Ford Foundation,Lebanon,1.03,1.15307
+2020,Ford Foundation,China (People's Republic of),0.395,0.442197
+2020,Ford Foundation,Tunisia,0.663333,0.742591
+2020,Ford Foundation,Kenya,0.017,0.019031
+2020,Ford Foundation,Colombia,0.036,0.040301
+2020,Ford Foundation,Sri Lanka,0.026098,0.029216
+2020,Ford Foundation,Argentina,0,0
+2020,Ford Foundation,Peru,0.036,0.040301
+2020,Ford Foundation,Morocco,0.058333,0.065303
+2020,Ford Foundation,Mexico,0.035,0.039182
+2020,Ford Foundation,Brazil,0,0
+2020,Ford Foundation,Cuba,0.045,0.050377
 2020,Saudi Arabia,Yemen,5.474427,5.627119
 2020,Saudi Arabia,Somalia,1,1.027892
 2020,Saudi Arabia,Tajikistan,0.719541,0.73961
@@ -3050,6 +3433,24 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2020,Finland,Nepal,0.581812,0.578058
 2020,Finland,"Middle East, regional",0.569801,0.566124
 2020,Finland,Kazakhstan,0,0
+2020,Bernard van Leer Foundation,Brazil,3.245995,3.255434
+2020,Bernard van Leer Foundation,India,2.623132,2.630762
+2020,Bernard van Leer Foundation,Peru,0.411635,0.412832
+2020,Bernard van Leer Foundation,Jordan,1.354349,1.358289
+2020,Bernard van Leer Foundation,Venezuela,0.002487,0.002494
+2020,Bernard van Leer Foundation,"Bilateral, unspecified",2.534697,2.54207
+2020,Bernard van Leer Foundation,"America, regional",0.679104,0.681078
+2020,Bernard van Leer Foundation,West Bank and Gaza Strip,0.202752,0.203342
+2020,Bernard van Leer Foundation,Colombia,0.068376,0.068575
+2020,Bernard van Leer Foundation,Türkiye,0.485486,0.4869
+2020,Bernard van Leer Foundation,Albania,0.44699,0.44829
+2020,Bernard van Leer Foundation,Senegal,0.012407,0.012443
+2020,Bernard van Leer Foundation,China (People's Republic of),0.00057,0.000571
+2020,Bernard van Leer Foundation,Ethiopia,0.282781,0.283603
+2020,Bernard van Leer Foundation,Kenya,0.113505,0.113836
+2020,Bernard van Leer Foundation,"Africa, regional",0.140596,0.141005
+2020,Bernard van Leer Foundation,"Asia, regional",0.068376,0.068575
+2020,Bernard van Leer Foundation,"South America, regional",0.385552,0.386674
 2020,Sweden,"Bilateral, unspecified",4.681957,4.637754
 2020,Sweden,Sudan,17.394703,17.230478
 2020,Sweden,Ethiopia,4.6147,4.571132
@@ -3064,36 +3465,63 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2020,Sweden,Zimbabwe,1.085812,1.07556
 2020,Sweden,Albania,2.171623,2.151121
 2020,Sweden,Cambodia,2.063042,2.043565
+2020,"Omidyar Network Fund, Inc.","Bilateral, unspecified",0.25,0.279871
+2020,Carnegie Corporation of New York,"Africa, regional",0.2,0.223897
+2020,Open Society Foundations,"South Asia, regional",0.295337,0.330626
+2020,Open Society Foundations,"South America, regional",1.049999,1.175459
+2020,Open Society Foundations,"Caribbean, regional",0.055,0.061572
+2020,Open Society Foundations,"Far East Asia, regional",0.085,0.095156
+2020,Open Society Foundations,"Middle East, regional",0.2,0.223898
+2020,Open Society Foundations,"America, regional",0.029758,0.033314
+2020,Open Society Foundations,"Bilateral, unspecified",5.075,5.681391
+2020,Open Society Foundations,"Eastern Africa, regional",0.02585,0.028938
+2020,Mastercard Foundation,"Bilateral, unspecified",0.05,0.059726
+2020,Charity Projects Ltd (Comic Relief),"South & Central Asia, regional",0.032064,0.032368
+2020,Charity Projects Ltd (Comic Relief),"South of Sahara, regional",0.032064,0.032368
+2020,Charity Projects Ltd (Comic Relief),"Far East Asia, regional",0.032064,0.032368
+2020,Charity Projects Ltd (Comic Relief),"Caribbean & Central America, regional",0.032064,0.032368
+2020,Charity Projects Ltd (Comic Relief),"South America, regional",0.032064,0.032368
+2020,Charity Projects Ltd (Comic Relief),"America, regional",0.032064,0.032368
+2020,Charity Projects Ltd (Comic Relief),"Central America, regional",0.032064,0.032368
+2020,Charity Projects Ltd (Comic Relief),"Europe, regional",0.032064,0.032368
+2020,Charity Projects Ltd (Comic Relief),"Oceania, regional",0.032064,0.032368
+2020,Charity Projects Ltd (Comic Relief),"Middle East, regional",0.032064,0.032368
+2020,Charity Projects Ltd (Comic Relief),"Africa, regional",0.307811,0.310729
+2020,Charity Projects Ltd (Comic Relief),Kenya,0.641272,0.647351
+2020,Central American Bank for Economic Integration,Nicaragua,2.308141,2.372519
 2020,Central American Bank for Economic Integration,Panama,149.85,154.029606
 2020,United Nations Conference on Trade and Development,"Bilateral, unspecified",0.03,0.030837
 2020,Asian Development Bank,"Asia, regional",0.201709,0.207335
 2020,Asian Development Bank,Myanmar,25.480999,26.191713
 2020,Asian Development Bank,Sri Lanka,0.039305,0.040401
-2020,Asian Development Bank,Georgia,0.10051,0.103313
+2020,Asian Development Bank,Georgia,28.132256,28.916919
 2020,Asian Development Bank,Samoa,8,8.223135
 2020,Asian Development Bank,Armenia,0,0
 2020,Asian Development Bank,Nepal,62.5,64.243246
 2020,Asian Development Bank,Viet Nam,1.172641,1.205348
 2020,Asian Development Bank,Bangladesh,250,256.972982
-2020,Asian Development Bank,China (People's Republic of),0.171461,0.176242
+2020,Asian Development Bank,China (People's Republic of),1.022142,1.05065
+2020,Asian Development Bank,Uzbekistan,175,179.881088
 2020,Asian Development Bank,Lao People's Democratic Republic,0.07591,0.078028
-2020,Asian Development Bank,Pakistan,1.806218,1.856597
+2020,Asian Development Bank,Philippines,822.71183,845.65885
+2020,Asian Development Bank,Papua New Guinea,35,35.976218
+2020,Asian Development Bank,Pakistan,457.884684,470.655972
 2020,Asian Development Bank,"Oceania, regional",0.559932,0.57555
 2020,Asian Development Bank,Cambodia,85,87.370814
-2020,Asian Development Bank,Philippines,4.550261,4.677177
-2020,Asian Development Bank,Indonesia,0,0
+2020,Asian Development Bank,Mongolia,56.607529,58.186423
+2020,Asian Development Bank,Indonesia,513.003773,527.312437
+2020,Asian Development Bank,Kazakhstan,501.599378,515.589954
 2020,Asian Development Bank,Maldives,18.018103,18.520662
-2020,Asian Development Bank,Mongolia,26.607529,27.349665
+2020,Asian Development Bank,Thailand,0,0
 2020,Asian Development Bank,"Far East Asia, regional",0.258492,0.265701
 2020,Asian Development Bank,Palau,5,5.13946
-2020,Asian Development Bank,Kazakhstan,0,0
+2020,Asian Development Bank,India,1000.527933,1028.434588
 2020,Asian Development Bank,Kyrgyzstan,8.5,8.737082
 2020,Asian Development Bank,Bhutan,5,5.13946
 2020,Asian Development Bank,Vanuatu,1.940332,1.994451
 2020,Asian Development Bank,Solomon Islands,3,3.083676
 2020,Asian Development Bank,"South Asia, regional",0.012581,0.012931
 2020,Asian Development Bank,Marshall Islands,7.008,7.203467
-2020,Asian Development Bank,India,0.027933,0.028712
 2020,Asian Development Bank,Micronesia,7,7.195244
 2020,Asian Development Bank,Tajikistan,12.5,12.848649
 2020,Asian Development Bank,Afghanistan,25,25.697298
@@ -3234,6 +3662,8 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2020,Japan,Central African Republic,0.15,0.121915
 2020,Japan,Chad,0.072728,0.059111
 2020,Japan,Tokelau,0.001133,0.000921
+2020,African Development Bank,Nigeria,278.542618,286.311709
+2020,African Development Bank,Morocco,51.286595,52.717078
 2020,Ireland,Ethiopia,11.740226,11.621946
 2020,Ireland,Zambia,0.569801,0.56406
 2020,Ireland,Malawi,5.641596,5.584758
@@ -3322,24 +3752,29 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2020,Croatia,Venezuela,0.00121,0.001243
 2020,Global Environment Facility,Chad,1.97895,2.034147
 2020,Global Environment Facility,Senegal,0.715598,0.735557
+2020,Inter-American Development Bank,El Salvador,3.771487,3.876682
+2020,Inter-American Development Bank,Colombia,300.095085,308.465316
+2020,Inter-American Development Bank,Mexico,0.238535,0.245189
 2020,Inter-American Development Bank,Honduras,18.375039,18.887556
 2020,Inter-American Development Bank,"America, regional",1.079166,1.109264
 2020,Inter-American Development Bank,Peru,0,0
-2020,Inter-American Development Bank,Colombia,0.095085,0.097737
-2020,Inter-American Development Bank,Panama,0.12741,0.130964
-2020,Inter-American Development Bank,Argentina,0.009057,0.009309
-2020,Inter-American Development Bank,Costa Rica,0.120171,0.123523
-2020,Inter-American Development Bank,Brazil,0.054943,0.056475
-2020,Inter-American Development Bank,Guatemala,0.087196,0.089628
-2020,Inter-American Development Bank,El Salvador,0.08141,0.083681
-2020,Inter-American Development Bank,Bolivia,0.015117,0.015539
-2020,Inter-American Development Bank,Nicaragua,0.154471,0.158779
-2020,Inter-American Development Bank,Ecuador,0,0
-2020,Inter-American Development Bank,Dominican Republic,0.025813,0.026533
-2020,Inter-American Development Bank,Venezuela,0.34211,0.351654
+2020,Inter-American Development Bank,Panama,16.40256,16.860059
+2020,Inter-American Development Bank,Ecuador,0.16767,0.172347
+2020,Inter-American Development Bank,Suriname,0,0
 2020,Inter-American Development Bank,Paraguay,0.081461,0.083733
-2020,Inter-American Development Bank,Mexico,0.238535,0.245189
+2020,Inter-American Development Bank,Argentina,395.242338,406.26641
+2020,Inter-American Development Bank,Costa Rica,0.120171,0.123523
+2020,Inter-American Development Bank,Brazil,9.848346,10.123035
+2020,Inter-American Development Bank,Guatemala,0.087196,0.089628
+2020,Inter-American Development Bank,Bolivia,433.048532,445.127091
+2020,Inter-American Development Bank,Nicaragua,0.154471,0.158779
+2020,Inter-American Development Bank,Dominican Republic,5.484694,5.637673
+2020,Inter-American Development Bank,Jamaica,0.701088,0.720643
+2020,Inter-American Development Bank,Venezuela,0.34211,0.351654
+2020,Development Bank of Latin America,Brazil,0,0
 2020,Inter-American Development Bank,Guyana,0,0
+2020,Development Bank of Latin America,Argentina,0,0
+2020,Inter-American Development Bank,Belize,12,12.334703
 2020,Czechia,Moldova,1.366599,1.523554
 2020,Czechia,Bosnia and Herzegovina,0.135105,0.150622
 2020,Czechia,Georgia,0.166738,0.185888
@@ -3358,7 +3793,10 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2020,Spain,Burundi,0.029516,0.029119
 2020,Spain,Senegal,0.029516,0.029119
 2020,Spain,Bolivia,0.01413,0.01394
+2020,European Bank for Reconstruction and Development,Morocco,1.879142,1.931555
 2020,Spain,Kenya,0.031339,0.030918
+2020,European Bank for Reconstruction and Development,Egypt,12.094197,12.431528
+2020,European Bank for Reconstruction and Development,Georgia,23.210745,23.858137
 2020,Spain,Mexico,0.113479,0.111955
 2020,Spain,Togo,0,0
 2020,Spain,Peru,0.199292,0.196614
@@ -3837,10 +4275,14 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2020,United States,Nicaragua,0.596935,0.66826
 2020,United States,Bangladesh,0.240653,0.269408
 2020,United States,Bolivia,0.057618,0.064503
+2020,International Bank for Reconstruction and Development,Papua New Guinea,0,0
+2020,International Bank for Reconstruction and Development,Brazil,12.647913,13.000688
 2020,United States,Cambodia,0.078062,0.087389
 2020,United States,China (People's Republic of),1.235445,1.383063
 2020,United States,Mexico,0.084226,0.09429
+2020,International Bank for Reconstruction and Development,Belarus,0,0
 2020,International Development Association,Uganda,61.867685,63.593294
+2020,International Bank for Reconstruction and Development,Grenada,0,0
 2020,International Development Association,Moldova,7.56681,7.777863
 2020,United States,"South of Sahara, regional",0,0
 2020,Germany,Burundi,0.260405,0.260602
@@ -3868,6 +4310,7 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2020,Germany,Kazakhstan,0.007699,0.007705
 2020,Germany,"Bilateral, unspecified",15.309565,15.321123
 2020,Germany,Sudan,45.584046,45.618458
+2020,International Bank for Reconstruction and Development,Indonesia,262.6,269.924421
 2020,Germany,China (People's Republic of),0.963076,0.963803
 2020,Germany,Jordan,23.15027,23.167746
 2020,Germany,Serbia,1.797364,1.798721
@@ -3876,6 +4319,7 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2020,Germany,Zimbabwe,0.66343,0.663931
 2020,Germany,Bosnia and Herzegovina,0.426749,0.427071
 2020,Germany,Argentina,0.16321,0.163334
+2020,International Bank for Reconstruction and Development,Philippines,420.032382,431.747895
 2020,Germany,Uganda,0.956367,0.957089
 2020,Germany,Moldova,0.162937,0.16306
 2020,Germany,Tanzania,0.227886,0.228058
@@ -3897,8 +4341,10 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2020,Germany,Sierra Leone,0.49293,0.493302
 2020,Germany,Burkina Faso,0.006231,0.006236
 2020,Germany,Cambodia,2.817508,2.819634
+2020,International Bank for Reconstruction and Development,North Macedonia,24.709416,25.398609
 2020,Germany,Mozambique,0.153594,0.15371
 2020,Germany,Pakistan,1.084245,1.085064
+2020,International Bank for Reconstruction and Development,El Salvador,0,0
 2020,Germany,Panama,0.027745,0.027766
 2020,Germany,Iraq,1.662157,1.663413
 2020,Germany,Mexico,0.02302,0.023037
@@ -3912,8 +4358,10 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2020,Germany,Viet Nam,1.342026,1.34304
 2020,Germany,Mauritania,0.004576,0.00458
 2020,Germany,"Central America, regional",0,0
+2020,International Bank for Reconstruction and Development,Ukraine,264.55194,271.930805
 2020,Germany,Togo,0.052969,0.053009
 2020,Germany,Rwanda,0.258884,0.259081
+2020,International Bank for Reconstruction and Development,Congo,2.24986,2.312613
 2020,Germany,Algeria,0.002344,0.002345
 2020,International Development Association,Nepal,0,0
 2020,Germany,Mongolia,0.035897,0.035925
@@ -3921,11 +4369,50 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2020,Germany,Sri Lanka,0.11547,0.115557
 2020,Germany,"South Asia, regional",1.02186,1.022631
 2020,Germany,Ghana,0.034963,0.034989
+2020,International Bank for Reconstruction and Development,Egypt,401.249969,412.441605
 2020,Germany,Honduras,0,0
 2020,Germany,Ethiopia,0.096182,0.096255
 2020,Germany,Niger,0.010749,0.010757
 2020,Germany,North Macedonia,0.11396,0.114046
 2020,Germany,Costa Rica,0.00393,0.003932
+2020,International Bank for Reconstruction and Development,Guatemala,0,0
+2020,International Bank for Reconstruction and Development,Jamaica,8.529472,8.767375
+2020,International Bank for Reconstruction and Development,Peru,1.484,1.525392
+2020,International Bank for Reconstruction and Development,Türkiye,51.480631,52.916525
+2020,International Bank for Reconstruction and Development,Lebanon,0,0
+2020,International Bank for Reconstruction and Development,Colombia,266,273.419253
+2020,International Bank for Reconstruction and Development,Dominican Republic,37.167002,38.203661
+2020,International Bank for Reconstruction and Development,Eswatini,0.012,0.012335
+2020,International Bank for Reconstruction and Development,Argentina,311.276164,319.958257
+2020,International Bank for Reconstruction and Development,India,159.649964,164.102909
+2020,International Bank for Reconstruction and Development,Jordan,98.315041,101.057237
+2020,International Bank for Reconstruction and Development,Panama,61.912986,63.639859
+2020,International Bank for Reconstruction and Development,China (People's Republic of),7.303783,7.5075
+2020,International Bank for Reconstruction and Development,Bolivia,200,205.578386
+2020,International Bank for Reconstruction and Development,Morocco,169.44328,174.16938
+2020,International Bank for Reconstruction and Development,Tunisia,26.562341,27.303217
+2020,International Bank for Reconstruction and Development,Saint Lucia,0,0
+2020,International Bank for Reconstruction and Development,Cameroon,2.914422,2.99571
+2020,International Bank for Reconstruction and Development,Iran,0,0
+2020,International Bank for Reconstruction and Development,Serbia,0,0
+2020,International Bank for Reconstruction and Development,Saint Vincent and the Grenadines,0,0
+2020,International Bank for Reconstruction and Development,Mexico,170,174.741628
+2020,International Bank for Reconstruction and Development,Ecuador,531.673516,546.502916
+2020,International Bank for Reconstruction and Development,Mongolia,1.995,2.050644
+2020,International Bank for Reconstruction and Development,Iraq,1.500745,1.542604
+2020,International Bank for Reconstruction and Development,Georgia,24.775486,25.466522
+2020,International Bank for Reconstruction and Development,Mauritius,0,0
+2020,International Bank for Reconstruction and Development,Viet Nam,0,0
+2020,International Bank for Reconstruction and Development,Albania,3.025874,3.110272
+2020,International Bank for Reconstruction and Development,Armenia,0,0
+2020,International Bank for Reconstruction and Development,Bosnia and Herzegovina,2.528537,2.599063
+2020,International Bank for Reconstruction and Development,Azerbaijan,0,0
+2020,International Bank for Reconstruction and Development,Antigua and Barbuda,0,0
+2020,International Bank for Reconstruction and Development,Pakistan,0.081235,0.083501
+2020,International Bank for Reconstruction and Development,Angola,15.472228,15.903777
+2020,International Bank for Reconstruction and Development,Uzbekistan,150.5,154.697735
+2020,International Bank for Reconstruction and Development,Paraguay,0,0
+2020,International Bank for Reconstruction and Development,Costa Rica,0,0
 2020,International Development Association,Cambodia,3.681313,3.783992
 2020,International Development Association,Georgia,0,0
 2020,International Development Association,Afghanistan,39.38459,40.483102
@@ -3934,12 +4421,12 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2020,International Development Association,Burkina Faso,30.586733,31.439856
 2020,International Development Association,Senegal,25.18431,25.886751
 2020,International Development Association,Mongolia,11.681733,12.007558
-2020,International Development Association,Côte d'Ivoire,81.792078,84.073417
+2020,International Development Association,Côte d'Ivoire,116.21673,119.458239
 2020,International Development Association,Armenia,1.548,1.591177
 2020,International Development Association,Congo,10.213285,10.498155
 2020,International Development Association,Gambia,11.110271,11.420158
 2020,International Development Association,Viet Nam,12.857655,13.216279
-2020,International Development Association,India,238.485383,245.1372
+2020,International Development Association,India,418.807883,430.489243
 2020,International Development Association,Tanzania,32.41868,33.3229
 2020,International Development Association,Nigeria,88.15462,90.613422
 2020,International Development Association,Benin,6.275256,6.450285
@@ -3952,6 +4439,7 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2020,International Development Association,Honduras,0,0
 2020,International Development Association,Kenya,25.675397,26.391533
 2020,International Development Association,Cabo Verde,4.614357,4.743061
+2020,International Development Association,Bolivia,53.514446,55.007068
 2020,International Development Association,Togo,42.576043,43.763571
 2020,International Development Association,Mauritania,8.505043,8.742264
 2020,International Development Association,Malawi,59.603028,61.265471
@@ -3961,11 +4449,11 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2020,International Development Association,Central African Republic,9.073393,9.326469
 2020,International Development Association,Djibouti,8.374044,8.607612
 2020,International Development Association,Indonesia,0,0
-2020,International Development Association,Sri Lanka,50.220496,51.621243
+2020,International Development Association,Sri Lanka,50.289132,51.691793
 2020,International Development Association,Rwanda,0.727736,0.748034
-2020,International Development Association,Bolivia,32.514446,33.421337
 2020,International Development Association,Madagascar,45.030624,46.286615
 2020,International Development Association,Myanmar,9.48889,9.753553
+2020,International Development Association,Uzbekistan,100.16,102.953657
 2020,International Development Association,Somalia,58.561966,60.195372
 2020,International Development Association,Ethiopia,192.904797,198.285284
 2020,International Development Association,Democratic Republic of the Congo,3.092719,3.178981
@@ -3977,7 +4465,6 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2020,International Development Association,Albania,0,0
 2020,International Development Association,Maldives,12.071629,12.40833
 2020,International Development Association,Samoa,3.236286,3.326553
-2020,International Development Association,Uzbekistan,72.11,74.121288
 2020,International Development Association,Kyrgyzstan,0,0
 2020,International Development Association,Cameroon,10.356555,10.645419
 2020,International Development Association,Sierra Leone,12.940431,13.301365
@@ -4011,6 +4498,9 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2020,Food and Agriculture Organisation,"Bilateral, unspecified",0.859304,0.883272
 2020,Food and Agriculture Organisation,"Europe, regional",0.020545,0.021118
 2020,Food and Agriculture Organisation,"Central America, regional",0.089424,0.091918
+2020,Rockefeller Foundation,"Bilateral, unspecified",3.375,3.778265
+2020,Rockefeller Foundation,India,0.2,0.223897
+2020,Rockefeller Foundation,Kenya,0.25,0.279871
 2021,Norway,"Africa, regional",0,0
 2021,Norway,Liberia,0.054851,0.062784
 2021,Norway,Tanzania,8.520049,9.752344
@@ -4058,10 +4548,18 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2021,Sweden,"Caribbean & Central America, regional",0.1421,0.127736
 2021,Sweden,"Asia, regional",0.459047,0.412644
 2021,Sweden,Liberia,1.573995,1.414886
+2021,European Bank for Reconstruction and Development,Tajikistan,0,0
 2021,Türkiye,Afghanistan,0.2421,0.253918
+2021,European Bank for Reconstruction and Development,Serbia,0,0
 2021,Iceland,Democratic Republic of the Congo,0.118685,0.121317
 2021,Iceland,Malawi,0.049627,0.050727
 2021,Iceland,India,0.0126,0.012879
+2021,European Bank for Reconstruction and Development,Morocco,2.808382,2.723999
+2021,European Bank for Reconstruction and Development,Montenegro,0,0
+2021,European Bank for Reconstruction and Development,Mongolia,0,0
+2021,European Bank for Reconstruction and Development,Georgia,0,0
+2021,European Bank for Reconstruction and Development,Egypt,4.212573,4.085999
+2021,European Bank for Reconstruction and Development,Albania,0,0
 2021,Luxembourg,Nepal,0.06337,0.059841
 2021,Luxembourg,Ghana,0.075399,0.071201
 2021,Luxembourg,Togo,0.009859,0.00931
@@ -4178,6 +4676,7 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2021,Denmark,Lebanon,7.92061,7.607008
 2021,Canada,Ecuador,0.08284,0.085511
 2021,Canada,Pakistan,0.172999,0.178577
+2021,Asian Development Bank,China (People's Republic of),2.263316,2.195313
 2021,Canada,Rwanda,0.398883,0.411746
 2021,Canada,Indonesia,0.159553,0.164698
 2021,Canada,Peru,0.177488,0.183212
@@ -4191,30 +4690,33 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2021,Asian Development Bank,Myanmar,25.008276,24.256856
 2021,Asian Development Bank,"Asia, regional",0.356128,0.345428
 2021,Asian Development Bank,Nepal,0,0
+2021,Asian Development Bank,Bangladesh,101.430933,98.383254
+2021,Asian Development Bank,Indonesia,0,0
 2021,Asian Development Bank,Sri Lanka,0.019551,0.018963
-2021,Asian Development Bank,Georgia,0,0
-2021,Asian Development Bank,Mongolia,24.362239,23.63023
+2021,Asian Development Bank,Georgia,78.458988,76.101543
+2021,Asian Development Bank,Mongolia,44.4587,43.122856
 2021,Asian Development Bank,Maldives,0.120249,0.116636
 2021,Asian Development Bank,Kyrgyzstan,26.6507,25.849931
+2021,Asian Development Bank,Pakistan,1.95391,1.895201
 2021,Asian Development Bank,"South Asia, regional",0.170653,0.165525
-2021,Asian Development Bank,China (People's Republic of),0.207219,0.200994
-2021,Asian Development Bank,Pakistan,0.220424,0.2138
-2021,Asian Development Bank,Indonesia,0,0
+2021,Asian Development Bank,Philippines,128.52288,124.661174
 2021,Asian Development Bank,Timor-Leste,0.5833,0.565774
 2021,Asian Development Bank,"Far East Asia, regional",0.153568,0.148953
+2021,Asian Development Bank,India,0.189542,0.183847
+2021,Asian Development Bank,Fiji,0,0
 2021,Asian Development Bank,"Central Asia, regional",0.000257,0.000249
 2021,Asian Development Bank,Samoa,0,0
-2021,Asian Development Bank,Bangladesh,0.130933,0.126999
 2021,Asian Development Bank,Lao People's Democratic Republic,0.033644,0.032633
 2021,Asian Development Bank,Viet Nam,0,0
+2021,Asian Development Bank,Thailand,499.5,484.491603
 2021,Asian Development Bank,Kazakhstan,0.25,0.242488
 2021,Asian Development Bank,Palau,0,0
 2021,Asian Development Bank,Cambodia,0,0
-2021,Asian Development Bank,Philippines,0.73288,0.71086
 2021,Asian Development Bank,Vanuatu,0.005086,0.004933
+2021,Asian Development Bank,Uzbekistan,0,0
+2021,Asian Development Bank,Azerbaijan,45,43.647892
 2021,Asian Development Bank,Armenia,0,0
 2021,Asian Development Bank,Tonga,0,0
-2021,Asian Development Bank,India,0.189542,0.183847
 2021,Denmark,Afghanistan,6.36122,6.10936
 2021,Denmark,Burkina Faso,1.983746,1.905203
 2021,Denmark,Bangladesh,0.16146,0.155068
@@ -4474,6 +4976,7 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2021,Australia,Papua New Guinea,2.040927,2.034211
 2021,Australia,Thailand,0.16775,0.167197
 2021,Australia,Argentina,0.007705,0.00768
+2021,Dutch Postcode Lottery,"Bilateral, unspecified",2.368142,2.22334
 2021,Australia,Jordan,0.036299,0.036179
 2021,Australia,"Oceania, regional",2.819815,2.810534
 2021,Australia,Kiribati,2.023736,2.017075
@@ -4482,10 +4985,74 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2021,Australia,Micronesia,0.031352,0.031249
 2021,Australia,Lesotho,0.007269,0.007245
 2021,Australia,"Asia, regional",0.285119,0.284182
+2021,Swedish Postcode Lottery,"Bilateral, unspecified",1.434085,1.289118
+2021,Dutch Postcode Lottery,South Africa,0.591296,0.555141
 2021,Australia,Lebanon,0.006008,0.005988
 2021,Australia,Malawi,0.005423,0.005405
+2021,Dutch Postcode Lottery,India,0.591296,0.555141
 2021,Australia,Palau,0.108911,0.108552
+2021,Swedish Postcode Lottery,Afghanistan,0.654082,0.587964
+2021,Mastercard Foundation,"South of Sahara, regional",0.25,0.258062
+2021,Laudes Foundation,Brazil,0.41589,0.408256
+2021,IKEA Foundation,"Bilateral, unspecified",1.182592,1.110282
+2021,H&M Foundation,Bangladesh,0.664925,0.597711
+2021,Oak Foundation,India,0.578548,0.567929
+2021,H&M Foundation,India,2.645477,2.378055
+2021,Oak Foundation,"Bilateral, unspecified",2.97619,2.921557
+2021,Oak Foundation,Zimbabwe,0.560544,0.550255
+2021,Laudes Foundation,"Asia, regional",0.529936,0.520208
+2021,Laudes Foundation,India,0.118211,0.11604
+2021,Laudes Foundation,Bangladesh,0.047426,0.046555
+2021,Charity Projects Ltd (Comic Relief),Nepal,0.013755,0.012963
+2021,Charity Projects Ltd (Comic Relief),Rwanda,0.309491,0.291659
+2021,Children's Investment Fund Foundation,India,0.331487,0.312387
+2021,Conrad N. Hilton Foundation,Nigeria,0.05825,0.062351
+2021,Conrad N. Hilton Foundation,Kenya,0.44,0.470981
+2021,Conrad N. Hilton Foundation,Ghana,0.21825,0.233617
+2021,Conrad N. Hilton Foundation,"Bilateral, unspecified",1.407,1.506067
+2021,Conrad N. Hilton Foundation,Colombia,0.518,0.554473
+2021,Conrad N. Hilton Foundation,India,0.775,0.829568
+2021,Conrad N. Hilton Foundation,Tanzania,0.22825,0.244321
+2021,Conrad N. Hilton Foundation,Zambia,0.31,0.331827
+2021,Conrad N. Hilton Foundation,Uganda,0.55825,0.597556
+2021,Ford Foundation,Colombia,0.056667,0.060656
+2021,David and Lucile Packard Foundation,Afghanistan,0.45,0.481685
+2021,John D. and Catherine T. MacArthur Foundation,Nigeria,0.5,0.535205
+2021,John D. and Catherine T. MacArthur Foundation,Moldova,0.53131,0.56872
+2021,John D. and Catherine T. MacArthur Foundation,Kenya,0.53131,0.56872
+2021,Ford Foundation,China (People's Republic of),0.631,0.675428
+2021,Ford Foundation,Nigeria,0.056667,0.060656
+2021,Ford Foundation,"Bilateral, unspecified",0.895,0.958017
+2021,La Caixa Banking Foundation,Mozambique,0.189215,0.175231
+2021,La Caixa Banking Foundation,Ethiopia,0.231315,0.21422
+2021,Ford Foundation,India,0.392961,0.420628
+2021,Ford Foundation,Jordan,0.3,0.321123
+2021,Ford Foundation,Tunisia,0.48,0.513797
+2021,Ford Foundation,South Africa,0.183333,0.196241
+2021,Ford Foundation,Cuba,0.005,0.005352
+2021,Ford Foundation,Lebanon,0.22,0.23549
+2021,Ford Foundation,"North of Sahara, regional",0.05,0.053521
+2021,Ford Foundation,Argentina,0.016667,0.01784
+2021,Ford Foundation,Sri Lanka,0.021295,0.022794
+2021,Ford Foundation,Peru,0.016667,0.01784
+2021,Ford Foundation,"Middle East, regional",0.05,0.053521
+2021,Ford Foundation,Ecuador,0.016667,0.01784
+2021,Ford Foundation,Brazil,0.016667,0.01784
+2021,Ford Foundation,Indonesia,0.016667,0.01784
+2021,Ford Foundation,Pakistan,0.016667,0.01784
+2021,Wellcome Trust,South Africa,0.224259,0.211338
 2021,Spain,Guinea-Bissau,0.054991,0.050927
+2021,Citi Foundation,Argentina,0.125,0.133801
+2021,Citi Foundation,Ecuador,0.115,0.123097
+2021,Citi Foundation,Colombia,0.5,0.535205
+2021,Citi Foundation,Paraguay,0.025,0.02676
+2021,Norwegian Postcode Lottery,"Bilateral, unspecified",4.623231,5.291911
+2021,La Caixa Banking Foundation,Argentina,0.070956,0.065712
+2021,La Caixa Banking Foundation,China (People's Republic of),1.005203,0.930916
+2021,La Caixa Banking Foundation,Nepal,0.025893,0.023979
+2021,La Caixa Banking Foundation,India,0.047132,0.043649
+2021,Bill & Melinda Gates Foundation,India,0.4315,0.461883
+2021,Bill & Melinda Gates Foundation,"Bilateral, unspecified",0.14984,0.160391
 2021,Ireland,Mexico,0.005913,0.005606
 2021,Ireland,Nepal,0.007096,0.006728
 2021,Ireland,Argentina,0.007302,0.006924
@@ -4512,9 +5079,9 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2021,Spain,Cuba,0,0
 2021,Spain,"Bilateral, unspecified",0.788747,0.730457
 2021,Spain,Dominican Republic,0.002022,0.001873
+2021,Inter-American Development Bank,Guatemala,0.005037,0.004886
 2021,Spain,Senegal,0.119738,0.110889
 2021,Spain,Gambia,0.026653,0.024684
-2021,Inter-American Development Bank,Guatemala,0.005037,0.004886
 2021,Spain,Nigeria,0.0153,0.01417
 2021,Spain,Kenya,0.046712,0.04326
 2021,Spain,Peru,0.532167,0.492838
@@ -4612,22 +5179,25 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2021,Italy,Kyrgyzstan,0,0
 2021,Italy,Benin,0,0
 2021,Italy,Viet Nam,0,0
+2021,Inter-American Development Bank,Suriname,0,0
 2021,Inter-American Development Bank,Venezuela,0.494842,0.479974
 2021,Inter-American Development Bank,Mexico,0.48937,0.474666
 2021,Inter-American Development Bank,Haiti,40.976322,39.745112
 2021,Inter-American Development Bank,"America, regional",0.756468,0.733738
+2021,Inter-American Development Bank,Jamaica,1.352111,1.311484
 2021,Inter-American Development Bank,Peru,0.171769,0.166608
-2021,Inter-American Development Bank,Panama,0.149263,0.144778
-2021,Inter-American Development Bank,Paraguay,0.141339,0.137092
+2021,Inter-American Development Bank,Panama,9.284874,9.005893
+2021,Inter-American Development Bank,Paraguay,5.679305,5.508659
+2021,Inter-American Development Bank,Argentina,439.532581,426.326016
 2021,Inter-American Development Bank,Guyana,21.054251,20.421637
-2021,Inter-American Development Bank,Argentina,0.06666,0.064657
-2021,Inter-American Development Bank,Bolivia,0,0
-2021,Inter-American Development Bank,Brazil,0.176815,0.171503
+2021,Inter-American Development Bank,Belize,0,0
+2021,Inter-American Development Bank,Bolivia,14.033177,13.611524
+2021,Inter-American Development Bank,Brazil,1019.202564,988.578749
+2021,Inter-American Development Bank,Ecuador,505.119568,489.942321
 2021,Inter-American Development Bank,Colombia,0.507812,0.492554
-2021,Inter-American Development Bank,Costa Rica,0.0695,0.067412
-2021,Inter-American Development Bank,Dominica,0.016618,0.016119
-2021,Inter-American Development Bank,Ecuador,0.017211,0.016694
 2021,Inter-American Development Bank,El Salvador,0.006086,0.005904
+2021,Inter-American Development Bank,Costa Rica,0.0695,0.067412
+2021,Inter-American Development Bank,Dominica,0.369252,0.358158
 2021,Finland,Lebanon,0.429514,0.402494
 2021,Finland,Zambia,0.729779,0.683869
 2021,Finland,Ethiopia,0.005716,0.005356
@@ -4936,6 +5506,7 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2021,Food and Agriculture Organisation,Philippines,0.01183,0.011475
 2021,Food and Agriculture Organisation,Central African Republic,0.05604,0.054356
 2021,Food and Agriculture Organisation,Zambia,0.08431,0.081777
+2021,Development Bank of Latin America,Ecuador,0,0
 2021,Development Bank of Latin America,Colombia,0,0
 2021,Slovak Republic,Bosnia and Herzegovina,0.01334,0.012751
 2021,Slovak Republic,Albania,0.007074,0.006762
@@ -4983,7 +5554,18 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2021,Switzerland,Burundi,0.483315,0.474443
 2021,Switzerland,Kyrgyzstan,0,0
 2021,Switzerland,Bangladesh,0.440421,0.432336
+2021,German Postcode Lottery,Ethiopia,0.118259,0.110713
 2021,Switzerland,Ghana,0.712414,0.699337
+2021,German Postcode Lottery,Cameroon,0.035478,0.033214
+2021,Bernard van Leer Foundation,Brazil,0.401962,0.377383
+2021,Bernard van Leer Foundation,India,1.644949,1.544368
+2021,Bernard van Leer Foundation,Jordan,0.336069,0.31552
+2021,Bernard van Leer Foundation,Peru,0.879224,0.825462
+2021,Bernard van Leer Foundation,Afghanistan,0.295627,0.277551
+2021,Bernard van Leer Foundation,"Bilateral, unspecified",1.987696,1.866158
+2021,Bernard van Leer Foundation,Côte d'Ivoire,0.003548,0.003331
+2021,Bernard van Leer Foundation,"America, regional",0.377215,0.35415
+2021,Bernard van Leer Foundation,Ethiopia,0.093385,0.087675
 2021,Hungary,Bosnia and Herzegovina,0.008825,0.008221
 2021,Hungary,Kenya,0.230903,0.215105
 2021,Hungary,"Bilateral, unspecified",0.329862,0.307292
@@ -5045,6 +5627,15 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2021,Japan,Ukraine,0.681985,0.571166
 2021,Austria,Nigeria,0.005321,0.004982
 2021,Austria,Tanzania,0.03122,0.02923
+2021,UBS Optimus Foundation,China (People's Republic of),0.024228,0.023783
+2021,UBS Optimus Foundation,Colombia,0.015,0.014725
+2021,UBS Optimus Foundation,Uganda,0.109409,0.107401
+2021,UBS Optimus Foundation,India,0.047046,0.046182
+2021,UBS Optimus Foundation,Ghana,0.756534,0.742646
+2021,UBS Optimus Foundation,"Bilateral, unspecified",0.459518,0.451084
+2021,UBS Optimus Foundation,Kenya,0.039,0.038284
+2021,UBS Optimus Foundation,"Asia, regional",0.087527,0.085921
+2021,UBS Optimus Foundation,Zambia,0.039,0.038284
 2021,UNDP,Somalia,1.856042,1.800273
 2021,UNDP,Gambia,0.427256,0.414419
 2021,UNDP,Haiti,0.274459,0.266212
@@ -5377,12 +5968,69 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2021,Austria,Belarus,0.002956,0.002768
 2021,Austria,"South of Sahara, regional",0.212867,0.199296
 2021,Austria,"Eastern Africa, regional",0.029565,0.02768
+2021,Open Society Foundations,"Asia, regional",0.1,0.107041
+2021,Open Society Foundations,"Africa, regional",0.1,0.107041
+2021,Open Society Foundations,Kenya,0.08,0.085633
+2021,Open Society Foundations,"Bilateral, unspecified",0.327326,0.350373
+2021,Open Society Foundations,"America, regional",0.025,0.02676
+2021,"Omidyar Network Fund, Inc.",India,0.135,0.144505
+2021,Open Society Foundations,Colombia,0.3,0.321123
 2021,Portugal,Timor-Leste,0.000229,0.000214
 2021,Portugal,"South of Sahara, regional",0.347621,0.324577
 2021,Portugal,"Bilateral, unspecified",0.029565,0.027605
 2021,Portugal,"Middle East, regional",0.029565,0.027605
+2021,International Bank for Reconstruction and Development,Viet Nam,0,0
+2021,International Bank for Reconstruction and Development,Jordan,270.350672,262.227489
 2021,Portugal,Cabo Verde,0.049117,0.045861
 2021,Portugal,Mozambique,0.244979,0.22874
+2021,International Bank for Reconstruction and Development,Tunisia,215.894923,209.407962
+2021,International Bank for Reconstruction and Development,El Salvador,0,0
+2021,International Bank for Reconstruction and Development,Brazil,270.950244,262.809045
+2021,International Bank for Reconstruction and Development,Angola,112.555588,109.173649
+2021,International Bank for Reconstruction and Development,Colombia,357.5,346.758254
+2021,International Bank for Reconstruction and Development,Bosnia and Herzegovina,13.432983,13.029365
+2021,International Bank for Reconstruction and Development,Grenada,0,0
+2021,International Bank for Reconstruction and Development,Saint Lucia,0,0
+2021,International Bank for Reconstruction and Development,Georgia,23.521096,22.814361
+2021,International Bank for Reconstruction and Development,Indonesia,184.2,178.665373
+2021,International Bank for Reconstruction and Development,Iraq,5.929166,5.751013
+2021,International Bank for Reconstruction and Development,Guatemala,2.485714,2.411026
+2021,International Bank for Reconstruction and Development,Eswatini,4.788,4.644136
+2021,International Bank for Reconstruction and Development,North Macedonia,22.689174,22.007436
+2021,International Bank for Reconstruction and Development,Morocco,224.428493,217.685125
+2021,International Bank for Reconstruction and Development,Armenia,0,0
+2021,International Bank for Reconstruction and Development,Albania,0.210362,0.204042
+2021,International Bank for Reconstruction and Development,Panama,41.505598,40.258486
+2021,International Bank for Reconstruction and Development,Dominican Republic,5.864489,5.68828
+2021,International Bank for Reconstruction and Development,Pakistan,16.712269,16.210118
+2021,International Bank for Reconstruction and Development,Azerbaijan,0,0
+2021,International Bank for Reconstruction and Development,Mauritius,0,0
+2021,International Bank for Reconstruction and Development,China (People's Republic of),55.547611,53.878581
+2021,International Bank for Reconstruction and Development,Antigua and Barbuda,0,0
+2021,International Bank for Reconstruction and Development,Philippines,505.484719,490.2965
+2021,International Bank for Reconstruction and Development,Ukraine,221.485809,214.83086
+2021,International Bank for Reconstruction and Development,Jamaica,30.199706,29.292301
+2021,International Bank for Reconstruction and Development,Mexico,307.50371,298.264194
+2021,International Bank for Reconstruction and Development,Peru,131.3408,127.394423
+2021,International Bank for Reconstruction and Development,Egypt,10,9.699532
+2021,International Bank for Reconstruction and Development,Congo,4.362905,4.231813
+2021,International Bank for Reconstruction and Development,Cameroon,1.167729,1.132643
+2021,International Bank for Reconstruction and Development,Argentina,127.541086,123.708879
+2021,International Bank for Reconstruction and Development,Papua New Guinea,0,0
+2021,International Bank for Reconstruction and Development,India,1.9108,1.853388
+2021,International Bank for Reconstruction and Development,Ecuador,116.008984,112.523281
+2021,International Bank for Reconstruction and Development,Iran,0,0
+2021,International Bank for Reconstruction and Development,Saint Vincent and the Grenadines,0,0
+2021,International Bank for Reconstruction and Development,Paraguay,0,0
+2021,International Bank for Reconstruction and Development,Serbia,12.993463,12.60305
+2021,International Bank for Reconstruction and Development,Lebanon,0.615,0.596521
+2021,International Bank for Reconstruction and Development,Belarus,0,0
+2021,International Bank for Reconstruction and Development,Sri Lanka,0.0161,0.015616
+2021,International Bank for Reconstruction and Development,Türkiye,75.353893,73.089747
+2021,International Bank for Reconstruction and Development,Costa Rica,30,29.098595
+2021,International Bank for Reconstruction and Development,Fiji,3.5,3.394836
+2021,International Bank for Reconstruction and Development,Botswana,42.5,41.223009
+2021,International Bank for Reconstruction and Development,Uzbekistan,64.5,62.561979
 2021,International Development Association,Benin,30.523279,29.606151
 2021,International Development Association,Ethiopia,173.766822,168.545678
 2021,International Development Association,Guinea-Bissau,3.82003,3.705251
@@ -5392,6 +6040,7 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2021,International Development Association,Cabo Verde,17.218564,16.701199
 2021,International Development Association,Honduras,0,0
 2021,International Development Association,Lao People's Democratic Republic,4.550489,4.413761
+2021,International Development Association,Sri Lanka,9.315003,9.035117
 2021,International Development Association,Rwanda,52.289088,50.717965
 2021,International Development Association,Pakistan,436.071684,422.969107
 2021,International Development Association,Djibouti,7.214377,6.997607
@@ -5428,7 +6077,7 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2021,International Development Association,Senegal,51.241147,49.701513
 2021,International Development Association,Bolivia,3.745355,3.632819
 2021,International Development Association,Maldives,16.041367,15.559374
-2021,International Development Association,India,63.374373,61.470173
+2021,International Development Association,India,214.902373,208.445235
 2021,International Development Association,Nigeria,226.687328,219.87609
 2021,International Development Association,Congo,23.467329,22.76221
 2021,International Development Association,Grenada,4.25,4.122301
@@ -5450,7 +6099,6 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2021,International Development Association,Bosnia and Herzegovina,0,0
 2021,International Development Association,China (People's Republic of),0,0
 2021,International Development Association,Kyrgyzstan,0,0
-2021,International Development Association,Sri Lanka,8.887606,8.620562
 2021,International Development Association,Azerbaijan,0,0
 2021,International Development Association,Georgia,0,0
 2021,International Development Association,Albania,0,0
@@ -5467,6 +6115,10 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2021,International Development Association,Papua New Guinea,0,0
 2021,International Development Association,Serbia,0,0
 2021,International Development Association,Montenegro,0,0
+2021,William and Flora Hewlett Foundation,"Bilateral, unspecified",1,1.07041
+2021,William and Flora Hewlett Foundation,"South of Sahara, regional",0.35,0.374644
+2021,Rockefeller Foundation,"Bilateral, unspecified",0.75,0.802808
+2021,Rockefeller Foundation,India,0.199372,0.21341
 2022,UNRWA,Jordan,1.0667,1.0667
 2022,UNRWA,Lebanon,0.48845,0.48845
 2022,UNRWA,West Bank and Gaza Strip,0.80475,0.80475
@@ -5475,43 +6127,80 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2022,Arab Fund (AFESD),"Middle East, regional",0,0
 2022,Arab Fund (AFESD),Jordan,0.03871,0.03871
 2022,Arab Fund (AFESD),Yemen,0.122581,0.122581
+2022,Bernard van Leer Foundation,Ukraine,0.105111,0.105111
+2022,Bernard van Leer Foundation,Brazil,0.340977,0.340977
+2022,Bernard van Leer Foundation,"Bilateral, unspecified",1.231674,1.231674
+2022,Bernard van Leer Foundation,"South of Sahara, regional",0.111492,0.111492
+2022,Bernard van Leer Foundation,"Far East Asia, regional",0.110294,0.110294
+2022,Bernard van Leer Foundation,"America, regional",0.103765,0.103765
+2022,Bernard van Leer Foundation,Peru,0.052866,0.052866
+2022,Bernard van Leer Foundation,"North of Sahara, regional",0.025426,0.025426
+2022,Bernard van Leer Foundation,"Middle East, regional",0.025426,0.025426
+2022,Conrad N. Hilton Foundation,Zambia,1.4109,1.4109
+2022,Conrad N. Hilton Foundation,Kenya,0.3303,0.3303
+2022,Conrad N. Hilton Foundation,Nigeria,0.3835,0.3835
+2022,Conrad N. Hilton Foundation,Uganda,0.388,0.388
+2022,Conrad N. Hilton Foundation,Haiti,0.075,0.075
+2022,Conrad N. Hilton Foundation,Colombia,0.432,0.432
+2022,Conrad N. Hilton Foundation,Viet Nam,0.08,0.08
+2022,Conrad N. Hilton Foundation,Ghana,0.2028,0.2028
+2022,Conrad N. Hilton Foundation,Tanzania,0.0585,0.0585
+2022,David and Lucile Packard Foundation,Ethiopia,0.05,0.05
+2022,John D. and Catherine T. MacArthur Foundation,Kenya,0.548211,0.548211
+2022,John D. and Catherine T. MacArthur Foundation,Moldova,0.548211,0.548211
+2022,Children's Investment Fund Foundation,India,0.251838,0.251838
 2022,Azerbaijan,Ethiopia,0.01,0.01
 2022,Azerbaijan,Kyrgyzstan,6,6
+2022,Bill & Melinda Gates Foundation,India,0.737331,0.737331
+2022,Bill & Melinda Gates Foundation,Ethiopia,0.8,0.8
+2022,Bill & Melinda Gates Foundation,"Bilateral, unspecified",0.536525,0.536525
 2022,Azerbaijan,China (People's Republic of),0.058,0.058
+2022,Bill & Melinda Gates Foundation,"South of Sahara, regional",0.135961,0.135961
+2022,Bill & Melinda Gates Foundation,Botswana,0.012861,0.012861
+2022,Bill & Melinda Gates Foundation,Zambia,0.012861,0.012861
+2022,Bill & Melinda Gates Foundation,"Africa, regional",0.398705,0.398705
 2022,Azerbaijan,Uganda,0.02507,0.02507
 2022,Azerbaijan,Somalia,0.0235,0.0235
 2022,Azerbaijan,"Bilateral, unspecified",0.012789,0.012789
 2022,Asian Development Bank,Lao People's Democratic Republic,0.119431,0.119431
-2022,Asian Development Bank,Mongolia,7.778992,7.778992
-2022,Asian Development Bank,Fiji,10.02,10.02
+2022,Asian Development Bank,Mongolia,29.940204,29.940204
+2022,Asian Development Bank,Fiji,30,30
 2022,Asian Development Bank,Kyrgyzstan,35,35
-2022,Asian Development Bank,Pakistan,131.33063,131.33063
+2022,Asian Development Bank,Pakistan,914.89504,914.89504
 2022,Asian Development Bank,Vanuatu,0.003244,0.003244
 2022,Asian Development Bank,Palau,0.218038,0.218038
 2022,Asian Development Bank,Tajikistan,25,25
 2022,Asian Development Bank,Nepal,0,0
 2022,Asian Development Bank,"Oceania, regional",0.369626,0.369626
 2022,Asian Development Bank,"Asia, regional",0.5276,0.5276
-2022,Asian Development Bank,China (People's Republic of),0.1954,0.1954
+2022,Asian Development Bank,China (People's Republic of),7.677441,7.677441
 2022,Asian Development Bank,"Far East Asia, regional",0.55324,0.55324
 2022,Asian Development Bank,Georgia,0.126943,0.126943
 2022,Asian Development Bank,Philippines,1.652222,1.652222
 2022,Asian Development Bank,India,0.408565,0.408565
-2022,Asian Development Bank,Bangladesh,0.169876,0.169876
+2022,Asian Development Bank,Bangladesh,134.849876,134.849876
 2022,Asian Development Bank,"South Asia, regional",0.327005,0.327005
 2022,Asian Development Bank,"Central Asia, regional",0.090682,0.090682
 2022,Asian Development Bank,Timor-Leste,0,0
 2022,Asian Development Bank,Marshall Islands,0,0
 2022,Asian Development Bank,Maldives,0.051284,0.051284
-2022,Asian Development Bank,Sri Lanka,0.02261,0.02261
+2022,Asian Development Bank,Sri Lanka,140.689608,140.689608
 2022,Asian Development Bank,Tonga,0.054887,0.054887
-2022,Asian Development Bank,Uzbekistan,0,0
+2022,Asian Development Bank,Uzbekistan,250,250
+2022,Asian Development Bank,Indonesia,100,100
 2022,Asian Development Bank,Viet Nam,0,0
 2022,Asian Development Bank,Armenia,0,0
 2022,Asian Development Bank,Samoa,0,0
 2022,Asian Development Bank,Myanmar,0.008359,0.008359
-2022,Asian Development Bank,Indonesia,0,0
 2022,Asian Development Bank,Cambodia,0,0
+2022,Dutch Postcode Lottery,South Africa,0.525818,0.525818
+2022,Dutch Postcode Lottery,"Bilateral, unspecified",2.1059,2.1059
+2022,Dutch Postcode Lottery,India,0.525818,0.525818
+2022,Dutch Postcode Lottery,Sudan,0.063098,0.063098
+2022,Swedish Postcode Lottery,"Bilateral, unspecified",1.216894,1.216894
+2022,Swedish Postcode Lottery,Afghanistan,0.555022,0.555022
+2022,People's Postcode Lottery,"Bilateral, unspecified",0.369822,0.369822
+2022,Norwegian Postcode Lottery,"Bilateral, unspecified",5.36334,5.36334
 2022,Luxembourg,Burkina Faso,0.037031,0.037031
 2022,Luxembourg,Bangladesh,0.046061,0.046061
 2022,Luxembourg,Cambodia,0.249524,0.249524
@@ -5601,6 +6290,9 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2022,Sweden,"Asia, regional",0.504091,0.504091
 2022,Sweden,"South of Sahara, regional",0.534642,0.534642
 2022,Sweden,Ukraine,0.198581,0.198581
+2022,La Caixa Banking Foundation,Madagascar,0.050618,0.050618
+2022,La Caixa Banking Foundation,Nepal,0.023983,0.023983
+2022,La Caixa Banking Foundation,Guatemala,0.052582,0.052582
 2022,COVID-19 Response and Recovery Multi-Partner Trust Fund,Guinea-Bissau,0,0
 2022,Sweden,Iraq,0.10104,0.10104
 2022,Sweden,Syrian Arab Republic,5.441396,5.441396
@@ -5646,6 +6338,12 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2022,Croatia,"Bilateral, unspecified",0.59545,0.59545
 2022,Croatia,Bosnia and Herzegovina,0.00348,0.00348
 2022,Croatia,Serbia,0.00692,0.00692
+2022,European Bank for Reconstruction and Development,Jordan,0,0
+2022,European Bank for Reconstruction and Development,Georgia,19.919069,19.919069
+2022,European Bank for Reconstruction and Development,Egypt,6.698,6.698
+2022,European Bank for Reconstruction and Development,Tajikistan,0,0
+2022,European Bank for Reconstruction and Development,Montenegro,0,0
+2022,European Bank for Reconstruction and Development,Albania,0,0
 2022,Joint Sustainable Development Goals Fund,Albania,0.4275,0.4275
 2022,COVID-19 Response and Recovery Multi-Partner Trust Fund,Tunisia,0,0
 2022,COVID-19 Response and Recovery Multi-Partner Trust Fund,Argentina,0,0
@@ -5687,6 +6385,32 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2022,Joint Sustainable Development Goals Fund,Guyana,0.25,0.25
 2022,Joint Sustainable Development Goals Fund,Serbia,0.25,0.25
 2022,Joint Sustainable Development Goals Fund,Turkmenistan,0.25,0.25
+2022,Oak Foundation,"Bilateral, unspecified",1,1
+2022,Oak Foundation,South Africa,1.83148,1.83148
+2022,Oak Foundation,Kyrgyzstan,0.2,0.2
+2022,Oak Foundation,Zimbabwe,1.065603,1.065603
+2022,Michael & Susan Dell Foundation,India,0.36723,0.36723
+2022,UBS Optimus Foundation,South Africa,0.139464,0.139464
+2022,UBS Optimus Foundation,Cambodia,0.104745,0.104745
+2022,UBS Optimus Foundation,India,1.369542,1.369542
+2022,Fondation Botnar,Morocco,0.191555,0.191555
+2022,Ford Foundation,India,0.213868,0.213868
+2022,Ford Foundation,"North of Sahara, regional",0.1525,0.1525
+2022,Ford Foundation,Tunisia,0.400833,0.400833
+2022,Ford Foundation,Lebanon,0.083333,0.083333
+2022,Ford Foundation,Jordan,0.198333,0.198333
+2022,Ford Foundation,China (People's Republic of),0.647,0.647
+2022,Ford Foundation,"Middle East, regional",0.1,0.1
+2022,Ford Foundation,South Africa,0,0
+2022,Ford Foundation,"Bilateral, unspecified",0.27,0.27
+2022,Ford Foundation,Nigeria,0.075,0.075
+2022,Ford Foundation,"Asia, regional",0.079515,0.079515
+2022,Ford Foundation,"America, regional",0.079515,0.079515
+2022,Ford Foundation,"Africa, regional",0.079515,0.079515
+2022,Ford Foundation,"Western Africa, regional",0.075,0.075
+2022,Ford Foundation,"Southern Africa, regional",0.075,0.075
+2022,Ford Foundation,"Middle Africa, regional",0.075,0.075
+2022,Ford Foundation,"Eastern Africa, regional",0.075,0.075
 2022,Norway,Malawi,0.663921,0.663921
 2022,Norway,"South Asia, regional",0.057548,0.057548
 2022,Norway,"Eastern Africa, regional",0.030879,0.030879
@@ -5723,6 +6447,7 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2022,African Development Fund,Burundi,0.625364,0.625364
 2022,African Development Fund,South Sudan,0.608945,0.608945
 2022,African Development Fund,"Africa, regional",0.120161,0.120161
+2022,African Development Bank,Tunisia,0,0
 2022,UNICEF,Timor-Leste,0.036,0.036
 2022,UNICEF,Viet Nam,0.435,0.435
 2022,UNICEF,Paraguay,0.088,0.088
@@ -5846,6 +6571,8 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2022,UNICEF,Papua New Guinea,0.057,0.057
 2022,UNICEF,Brazil,0.499,0.499
 2022,UNICEF,South Sudan,0.24,0.24
+2022,IKEA Foundation,"Bilateral, unspecified",3.891998,3.891998
+2022,IKEA Foundation,Jordan,0.064433,0.064433
 2022,Poland,Belarus,0.048632,0.048632
 2022,Poland,West Bank and Gaza Strip,0.457474,0.457474
 2022,Poland,Georgia,0.143562,0.143562
@@ -5856,9 +6583,55 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2022,Poland,Mongolia,0.022062,0.022062
 2022,Poland,Ukraine,0.083145,0.083145
 2022,Liechtenstein,Bolivia,0.246024,0.246024
+2022,International Bank for Reconstruction and Development,Indonesia,72.46936,72.46936
+2022,International Bank for Reconstruction and Development,Dominican Republic,9.14964,9.14964
+2022,International Bank for Reconstruction and Development,Ecuador,128.59338,128.59338
+2022,International Bank for Reconstruction and Development,Panama,30.7223,30.7223
+2022,International Bank for Reconstruction and Development,Guatemala,6.298,6.298
+2022,International Bank for Reconstruction and Development,India,5.38886,5.38886
+2022,International Bank for Reconstruction and Development,Argentina,159.42796,159.42796
+2022,International Bank for Reconstruction and Development,Colombia,165,165
+2022,International Bank for Reconstruction and Development,Bosnia and Herzegovina,0.56955,0.56955
+2022,International Bank for Reconstruction and Development,Morocco,163.54378,163.54378
+2022,International Bank for Reconstruction and Development,Brazil,868.13151,868.13151
+2022,International Bank for Reconstruction and Development,Jordan,160.79284,160.79284
 2022,International Development Association,Honduras,0,0
+2022,International Bank for Reconstruction and Development,Tunisia,166.67532,166.67532
+2022,International Bank for Reconstruction and Development,Ukraine,196.19595,196.19595
+2022,International Bank for Reconstruction and Development,Uzbekistan,77,77
+2022,International Bank for Reconstruction and Development,Egypt,105.94063,105.94063
+2022,International Bank for Reconstruction and Development,Albania,8.01317,8.01317
+2022,International Bank for Reconstruction and Development,China (People's Republic of),60.1563,60.1563
+2022,International Bank for Reconstruction and Development,Armenia,0,0
 2022,International Development Association,India,2.08878,2.08878
+2022,International Bank for Reconstruction and Development,Philippines,195.56129,195.56129
+2022,International Bank for Reconstruction and Development,North Macedonia,13.35063,13.35063
+2022,International Bank for Reconstruction and Development,Türkiye,0.17145,0.17145
+2022,International Bank for Reconstruction and Development,Paraguay,0,0
+2022,International Bank for Reconstruction and Development,Serbia,0.90729,0.90729
+2022,International Bank for Reconstruction and Development,Lebanon,142.86641,142.86641
+2022,International Bank for Reconstruction and Development,Jamaica,0,0
+2022,International Bank for Reconstruction and Development,El Salvador,0,0
+2022,International Bank for Reconstruction and Development,Mauritius,0,0
+2022,International Bank for Reconstruction and Development,Viet Nam,0,0
+2022,International Bank for Reconstruction and Development,Angola,17.33502,17.33502
 2022,International Development Association,Ghana,62.30794,62.30794
+2022,International Bank for Reconstruction and Development,Grenada,0,0
+2022,International Bank for Reconstruction and Development,Saint Lucia,0,0
+2022,International Bank for Reconstruction and Development,Georgia,14.22317,14.22317
+2022,International Bank for Reconstruction and Development,Iraq,3.07814,3.07814
+2022,International Bank for Reconstruction and Development,Eswatini,4.5,4.5
+2022,International Bank for Reconstruction and Development,Pakistan,0.37835,0.37835
+2022,International Bank for Reconstruction and Development,Azerbaijan,0,0
+2022,International Bank for Reconstruction and Development,Mexico,1.42851,1.42851
+2022,International Bank for Reconstruction and Development,Peru,1.74085,1.74085
+2022,International Bank for Reconstruction and Development,Congo,4.74776,4.74776
+2022,International Bank for Reconstruction and Development,Cameroon,9.36034,9.36034
+2022,International Bank for Reconstruction and Development,Fiji,0,0
+2022,International Bank for Reconstruction and Development,Sri Lanka,0.0406,0.0406
+2022,International Bank for Reconstruction and Development,Costa Rica,33,33
+2022,International Bank for Reconstruction and Development,South Africa,277.5,277.5
+2022,International Bank for Reconstruction and Development,Moldova,10.25916,10.25916
 2022,International Development Association,Yemen,240.44401,240.44401
 2022,International Development Association,Armenia,3.16388,3.16388
 2022,International Development Association,Bosnia and Herzegovina,0,0
@@ -5868,7 +6641,7 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2022,International Development Association,China (People's Republic of),0,0
 2022,International Development Association,Viet Nam,54.37675,54.37675
 2022,International Development Association,Kyrgyzstan,0,0
-2022,International Development Association,Sri Lanka,0,0
+2022,International Development Association,Sri Lanka,0.046,0.046
 2022,International Development Association,Nepal,0,0
 2022,International Development Association,Azerbaijan,0,0
 2022,International Development Association,Bangladesh,87.99643,87.99643
@@ -5932,7 +6705,7 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2022,International Development Association,Marshall Islands,0.53946,0.53946
 2022,International Development Association,Sao Tome and Principe,2.156,2.156
 2022,International Development Association,Tonga,5.0571,5.0571
-2022,International Development Association,Uzbekistan,109.86695,109.86695
+2022,International Development Association,Uzbekistan,138.46695,138.46695
 2022,Türkiye,Afghanistan,0.356196,0.356196
 2022,International Development Association,Mongolia,0.49975,0.49975
 2022,International Development Association,Chad,0.76221,0.76221
@@ -5947,6 +6720,10 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2022,Israel,Côte d'Ivoire,0.00156,0.00156
 2022,Israel,Georgia,0.00974,0.00974
 2022,Israel,Uzbekistan,0.01895,0.01895
+2022,Mastercard Foundation,Kenya,10.306532,10.306532
+2022,Mastercard Foundation,"Africa, regional",0,0
+2022,Mastercard Foundation,Nigeria,0,0
+2022,Mastercard Foundation,Uganda,0.52953,0.52953
 2022,Qatar,"Bilateral, unspecified",0.5,0.5
 2022,Qatar,Kazakhstan,0.002,0.002
 2022,Qatar,Jordan,0.007127,0.007127
@@ -6001,7 +6778,8 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2022,Türkiye,"Bilateral, unspecified",0.00515,0.00515
 2022,Türkiye,Syrian Arab Republic,3.928952,3.928952
 2022,Development Bank of Latin America,Argentina,0,0
-2022,Hungary,Nigeria,0.089418,0.089418
+2022,Hungary,Nigeria,0.090014,0.090014
+2022,Hungary,Viet Nam,0.001649,0.001649
 2022,Hungary,Kosovo,0.037257,0.037257
 2022,Korea,Morocco,0.006068,0.006068
 2022,Korea,Ethiopia,0.012137,0.012137
@@ -6674,6 +7452,7 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2022,Food and Agriculture Organisation,Central African Republic,0,0
 2022,Food and Agriculture Organisation,Zambia,0.033897,0.033897
 2022,Food and Agriculture Organisation,Philippines,0.143051,0.143051
+2022,Inter-American Development Bank,Argentina,60.793809,60.793809
 2022,Canada,Lebanon,1.347747,1.347747
 2022,Canada,Egypt,0.076999,0.076999
 2022,Canada,Tunisia,0.016892,0.016892
@@ -6700,6 +7479,7 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2022,Switzerland,Myanmar,0.04525,0.04525
 2022,Germany,South Africa,0.919665,0.919665
 2022,Germany,India,1.535032,1.535032
+2022,Inter-American Development Bank,El Salvador,0.130486,0.130486
 2022,Canada,Democratic Republic of the Congo,0.13852,0.13852
 2022,Spain,"South America, regional",0.057939,0.057939
 2022,Spain,Mali,0.002629,0.002629
@@ -6746,10 +7526,13 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2022,Canada,Haiti,0.000597,0.000597
 2022,Germany,Zimbabwe,0.393918,0.393918
 2022,Canada,Afghanistan,0.039901,0.039901
-2022,Inter-American Development Bank,Panama,0.288385,0.288385
+2022,Inter-American Development Bank,Ecuador,253.748486,253.748486
+2022,Inter-American Development Bank,Panama,6.492331,6.492331
 2022,Inter-American Development Bank,Venezuela,0.242458,0.242458
 2022,Inter-American Development Bank,Colombia,0.30905,0.30905
 2022,Inter-American Development Bank,Bolivia,2.849135,2.849135
+2022,Inter-American Development Bank,Dominican Republic,7.68528,7.68528
+2022,Inter-American Development Bank,Jamaica,0,0
 2022,Spain,Senegal,0.38222,0.38222
 2022,Spain,Ecuador,0.125564,0.125564
 2022,Spain,Argentina,0.063097,0.063097
@@ -6786,19 +7569,16 @@ year,donor_name,recipient_name,usd_disbursement,usd_disbursement_deflated
 2022,Spain,Guinea-Bissau,0,0
 2022,Spain,Gambia,0.018835,0.018835
 2022,Slovenia,Montenegro,0.004785,0.004785
-2022,Inter-American Development Bank,Ecuador,0.066699,0.066699
 2022,Inter-American Development Bank,Nicaragua,0.365366,0.365366
-2022,Inter-American Development Bank,"America, regional",1.000562,1.000562
-2022,Inter-American Development Bank,Argentina,0.184855,0.184855
-2022,Inter-American Development Bank,Brazil,0.071121,0.071121
-2022,Inter-American Development Bank,Suriname,0.01225,0.01225
-2022,Inter-American Development Bank,Costa Rica,0.097205,0.097205
-2022,Inter-American Development Bank,Mexico,0.038243,0.038243
-2022,Inter-American Development Bank,Guyana,4.190058,4.190058
+2022,Inter-American Development Bank,Brazil,15.184522,15.184522
 2022,Inter-American Development Bank,Guatemala,0.08233,0.08233
-2022,Inter-American Development Bank,Dominican Republic,0.149935,0.149935
-2022,Inter-American Development Bank,El Salvador,0.130486,0.130486
 2022,Inter-American Development Bank,Paraguay,0.037755,0.037755
+2022,Inter-American Development Bank,Mexico,0.038243,0.038243
+2022,Inter-American Development Bank,Belize,0,0
+2022,Inter-American Development Bank,"America, regional",1.000562,1.000562
+2022,Inter-American Development Bank,Suriname,4.552546,4.552546
+2022,Inter-American Development Bank,Costa Rica,0.097205,0.097205
+2022,Inter-American Development Bank,Guyana,4.190058,4.190058
 2022,Inter-American Development Bank,Haiti,37.017245,37.017245
 2022,Global Environment Facility,Burkina Faso,0.010879,0.010879
 2022,Global Environment Facility,Chad,1.354024,1.354024

@@ -1,4 +1,5 @@
 year,sector_code,recipient_name,usd_disbursement,usd_disbursement_deflated
+2018,510,Lebanon,3e-05,3.1e-05
 2018,510,Albania,0.03371,0.035086
 2018,510,Moldova,11.3264,11.788676
 2018,510,Burundi,3.178431,3.307193
@@ -56,7 +57,6 @@ year,sector_code,recipient_name,usd_disbursement,usd_disbursement_deflated
 2018,510,"Bilateral, unspecified",14.93011,15.527786
 2018,510,"Middle East, regional",0.02222,0.023127
 2018,510,Indonesia,0.011842,0.011576
-2018,510,Lebanon,3e-05,3.1e-05
 2018,510,Somalia,29.803253,29.891913
 2018,510,Argentina,0.01238,0.012885
 2018,510,Mexico,0.00074,0.00077
@@ -83,11 +83,18 @@ year,sector_code,recipient_name,usd_disbursement,usd_disbursement_deflated
 2018,510,Serbia,398.03975,414.285362
 2018,510,Sudan,40.35238,41.999324
 2018,510,Eritrea,0,0
+2018,510,Algeria,0,0
+2018,510,Botswana,0,0
+2018,510,Gabon,88.516464,85.780888
+2018,510,Nigeria,0,0
 2018,510,Uganda,0,0
 2018,510,Equatorial Guinea,0,0
 2018,510,"South America, regional",0.016995,0.016611
 2018,510,Guatemala,0.028262,0.027623
 2018,510,Syrian Arab Republic,0.014858,0.014522
+2018,510,Brazil,2.26619,2.358683
+2018,510,China (People's Republic of),0,0
+2018,510,Colombia,0,0
 2018,510,Kiribati,2.28404,2.377988
 2018,510,Tokelau,13.143331,13.683946
 2018,510,Tonga,1.383509,1.440415
@@ -99,14 +106,13 @@ year,sector_code,recipient_name,usd_disbursement,usd_disbursement_deflated
 2018,510,Marshall Islands,28.33383,32.677656
 2018,510,Palau,65.25,75.2534
 2018,510,Fiji,0,0
-2018,510,Gabon,88.516464,85.780888
 2019,510,Djibouti,56.891068,58.7883
 2019,510,Dominica,29.009198,30.462516
 2019,510,Ecuador,43.591468,46.176237
 2019,510,Egypt,251.87507,261.414189
 2019,510,Equatorial Guinea,69.552915,73.677076
 2019,510,Ethiopia,106.392071,112.70062
-2019,510,Gabon,84.150577,84.90437
+2019,510,Gabon,196.648236,204.072611
 2019,510,Gambia,28.577656,29.220278
 2019,510,Georgia,31.557183,33.428375
 2019,510,Ghana,54.591589,57.550513
@@ -130,7 +136,7 @@ year,sector_code,recipient_name,usd_disbursement,usd_disbursement_deflated
 2019,510,Moldova,13.823555,14.24594
 2019,510,Mongolia,0,0
 2019,510,Mozambique,77.483661,82.078077
-2019,510,Congo,50.375014,50.820451
+2019,510,Congo,259.173144,271.999327
 2019,510,Côte d'Ivoire,61.198505,64.279404
 2019,510,Afghanistan,201.897025,210.196927
 2019,510,Albania,0.0151,0.015996
@@ -170,6 +176,13 @@ year,sector_code,recipient_name,usd_disbursement,usd_disbursement_deflated
 2019,510,"Bilateral, unspecified",50.978131,0.948919
 2019,510,Solomon Islands,0.678016,0.776802
 2019,510,Papua New Guinea,0.927636,1.062791
+2019,510,Morocco,354.227509,373.246482
+2019,510,Mauritius,0,0
+2019,510,Zimbabwe,0,0
+2019,510,Nigeria,0,0
+2019,510,Namibia,0,0
+2019,510,Botswana,0,0
+2019,510,Algeria,0,0
 2019,510,Rwanda,36.681801,30.738786
 2019,510,Zambia,0,0
 2019,510,Niger,44.233807,45.119317
@@ -188,7 +201,6 @@ year,sector_code,recipient_name,usd_disbursement,usd_disbursement_deflated
 2019,510,Samoa,0,0
 2019,510,Kiribati,0.761515,0.812779
 2019,510,Tokelau,4.11726,4.394427
-2019,510,Morocco,55.933181,57.264705
 2019,510,Togo,17.911116,18.337502
 2019,510,South Africa,0.559296,0.572611
 2019,510,Nepal,1.707993,1.748653
@@ -202,10 +214,10 @@ year,sector_code,recipient_name,usd_disbursement,usd_disbursement_deflated
 2019,510,Myanmar,0,0
 2019,510,Sri Lanka,0,0
 2019,510,"South of Sahara, regional",0.3,0.251395
-2019,510,Mauritius,0,0
 2019,510,Micronesia,46.964668,53.270614
 2019,510,Marshall Islands,35.249,39.981883
 2019,510,Palau,0,0
+2019,510,Brazil,0,0
 2020,510,"Bilateral, unspecified",31.396011,0
 2020,510,Somalia,318.455708,327.985712
 2020,510,Tunisia,97.57421,96.748456
@@ -313,6 +325,7 @@ year,sector_code,recipient_name,usd_disbursement,usd_disbursement_deflated
 2020,510,Peru,0,0
 2020,510,Bolivia,0,0
 2020,510,Egypt,0,0
+2020,510,Brazil,0.223766,0.230007
 2021,510,Congo,0,0
 2021,510,Costa Rica,0.290103,0.281386
 2021,510,Côte d'Ivoire,2.698312,2.526516
@@ -338,7 +351,7 @@ year,sector_code,recipient_name,usd_disbursement,usd_disbursement_deflated
 2021,510,Iraq,0.0128,0.012415
 2021,510,Jamaica,0,0
 2021,510,Jordan,446.361881,407.935616
-2021,510,Kenya,302.197244,293.117171
+2021,510,Kenya,405.862664,393.667773
 2021,510,Kosovo,59.129612,55.004675
 2021,510,Kyrgyzstan,0.296946,0.288024
 2021,510,Lesotho,0.161423,0.150163
@@ -359,7 +372,7 @@ year,sector_code,recipient_name,usd_disbursement,usd_disbursement_deflated
 2021,510,Morocco,198.544001,167.166071
 2021,510,Mozambique,0.145684,0.144537
 2021,510,Myanmar,122.724406,119.036925
-2021,510,Namibia,0,0
+2021,510,Namibia,108.590364,105.327567
 2021,510,Nepal,0.885087,0.828227
 2021,510,Nicaragua,0,0
 2021,510,Niger,117.077694,111.813497
@@ -383,7 +396,7 @@ year,sector_code,recipient_name,usd_disbursement,usd_disbursement_deflated
 2021,510,Comoros,19.560846,18.490079
 2021,510,Democratic Republic of the Congo,503.83948,488.700695
 2021,510,Sao Tome and Principe,5.4221,5.259183
-2021,510,Senegal,71.602846,69.915003
+2021,510,Senegal,147.32074,143.357813
 2021,510,Sierra Leone,97.179415,94.222499
 2021,510,Solomon Islands,27.131048,23.19459
 2021,510,Somalia,30,31.464477
@@ -398,7 +411,7 @@ year,sector_code,recipient_name,usd_disbursement,usd_disbursement_deflated
 2021,510,Tanzania,593.739991,575.89998
 2021,510,Togo,1.539853,1.493584
 2021,510,Tonga,24.017555,23.291752
-2021,510,Tunisia,355.222281,330.441639
+2021,510,Tunisia,424.146606,397.295005
 2021,510,Uganda,289.93659,281.224911
 2021,510,Ukraine,709.590943,660.090606
 2021,510,Zambia,0.382021,0.370543
@@ -423,7 +436,8 @@ year,sector_code,recipient_name,usd_disbursement,usd_disbursement_deflated
 2021,510,Marshall Islands,70.397597,75.254896
 2021,510,Peru,0,0
 2021,510,Viet Nam,0.710077,0.688741
-2021,510,Cabo Verde,10.270959,9.608083
+2021,510,Cabo Verde,33.64062,32.275559
+2021,510,Antigua and Barbuda,0,0
 2021,510,Lebanon,0.011534,0.011187
 2021,510,Serbia,0,0
 2021,510,"America, regional",0.395877,0.383982
@@ -432,6 +446,8 @@ year,sector_code,recipient_name,usd_disbursement,usd_disbursement_deflated
 2021,510,Wallis and Futuna,1.419111,1.299186
 2021,510,"Western Africa, regional",16.76432,15.347622
 2021,510,"Middle Africa, regional",23.104756,21.152248
+2021,510,Algeria,0,0
+2021,510,Zimbabwe,0,0
 2021,510,Bhutan,0.651445,0.631871
 2021,510,Maldives,0.094357,0.091521
 2021,510,Eritrea,0.905652,0.87844
@@ -449,10 +465,11 @@ year,sector_code,recipient_name,usd_disbursement,usd_disbursement_deflated
 2021,510,Malaysia,0.034096,0.033071
 2021,510,Lao People's Democratic Republic,0,0
 2021,510,Cambodia,227.758681,190.749108
+2021,510,Brazil,0,0
 2022,510,Benin,1.835271,1.835271
 2022,510,Ghana,0.226379,0.226379
 2022,510,Malawi,22.752463,22.752463
-2022,510,Cameroon,15.070161,15.070161
+2022,510,Cameroon,101.201322,101.201322
 2022,510,Democratic Republic of the Congo,5.854956,5.854956
 2022,510,Ethiopia,0,0
 2022,510,Liberia,0.001477,0.001477
@@ -466,16 +483,19 @@ year,sector_code,recipient_name,usd_disbursement,usd_disbursement_deflated
 2022,510,Djibouti,19.88672,19.88672
 2022,510,Togo,0,0
 2022,510,Zambia,187.212617,187.212617
+2022,510,Brazil,0,0
+2022,510,Ecuador,0,0
 2022,510,Tajikistan,0,0
 2022,510,Bhutan,25.152121,25.152121
-2022,510,Pakistan,50,50
+2022,510,India,0,0
+2022,510,Pakistan,550,550
 2022,510,Cambodia,153.235813,153.235813
 2022,510,Ukraine,9033.605417,9033.605417
 2022,510,Armenia,6.309812,6.309812
-2022,510,Bangladesh,75,75
+2022,510,Bangladesh,325,325
 2022,510,Bosnia and Herzegovina,96.631048,96.631048
 2022,510,Burundi,0,0
-2022,510,Cabo Verde,0.565435,0.565435
+2022,510,Cabo Verde,21.840999,21.840999
 2022,510,Central African Republic,62.331507,62.331507
 2022,510,Chad,23.97883,23.97883
 2022,510,Colombia,150.112719,150.112719
@@ -493,7 +513,7 @@ year,sector_code,recipient_name,usd_disbursement,usd_disbursement_deflated
 2022,510,Moldova,163.620548,163.620548
 2022,510,Mongolia,0,0
 2022,510,Montenegro,99.408187,99.408187
-2022,510,Namibia,152.039986,152.039986
+2022,510,Namibia,286.09722,286.09722
 2022,510,North Macedonia,105.678498,105.678498
 2022,510,Senegal,8.027133,8.027133
 2022,510,Serbia,5.093493,5.093493
@@ -503,38 +523,43 @@ year,sector_code,recipient_name,usd_disbursement,usd_disbursement_deflated
 2022,510,Tonga,156.292581,156.292581
 2022,510,Tunisia,358.707919,358.707919
 2022,510,Uganda,9.234823,9.234823
-2022,510,Uzbekistan,220.78881,220.78881
+2022,510,Uzbekistan,750.78881,750.78881
 2022,510,Yemen,300,300
 2022,510,West Bank and Gaza Strip,33.773657,33.773657
+2022,510,Fiji,133.547702,133.547702
 2022,510,Afghanistan,103.21777,103.21777
 2022,510,Morocco,101.987729,101.987729
 2022,510,Egypt,5000,5000
 2022,510,Jordan,383.753808,383.753808
 2022,510,Tanzania,3.153454,3.153454
 2022,510,Burkina Faso,0,0
-2022,510,Côte d'Ivoire,1.419045,1.419045
+2022,510,Côte d'Ivoire,33.464045,33.464045
 2022,510,Equatorial Guinea,0,0
 2022,510,Guinea,0.567883,0.567883
-2022,510,Kenya,0,0
+2022,510,Kenya,91.492869,91.492869
 2022,510,Lesotho,0,0
 2022,510,Mozambique,0.063492,0.063492
 2022,510,Sierra Leone,0.385635,0.385635
 2022,510,Comoros,6.811332,6.811332
+2022,510,Botswana,132.822802,132.822802
+2022,510,Gabon,52.831717,52.831717
+2022,510,Eswatini,35.995694,35.995694
+2022,510,Algeria,0,0
+2022,510,Angola,3.239037,3.239037
+2022,510,Mauritius,0,0
 2022,510,Kosovo,0,0
 2022,510,Paraguay,0,0
+2022,510,Thailand,380.974124,380.974124
+2022,510,China (People's Republic of),0,0
 2022,510,Viet Nam,1.231101,1.231101
 2022,510,Samoa,7.554309,7.554309
-2022,510,Ecuador,0,0
 2022,510,Wallis and Futuna,0,0
-2022,510,Mauritius,0,0
 2022,510,Lebanon,0.031391,0.031391
 2022,510,"Western Africa, regional",5.65254,5.65254
 2022,510,"Middle Africa, regional",32.832465,32.832465
-2022,510,Gabon,0,0
 2022,510,Tuvalu,2.437366,2.437366
 2022,510,"Oceania, regional",0.088944,0.088944
 2022,510,Timor-Leste,0.098629,0.098629
-2022,510,Fiji,83.547702,83.547702
 2022,510,Kiribati,3.108613,3.108613
 2022,510,Vanuatu,1.005311,1.005311
 2022,510,Niue,11.984128,11.984128
@@ -543,7 +568,6 @@ year,sector_code,recipient_name,usd_disbursement,usd_disbursement_deflated
 2022,510,Solomon Islands,9.569218,9.569218
 2022,510,"Far East Asia, regional",1.240063,1.240063
 2022,510,Lao People's Democratic Republic,3.259814,3.259814
-2022,510,Thailand,380.974124,380.974124
 2022,510,Nauru,6.148,6.148
 2022,510,Palau,4.922342,4.922342
 2022,510,Papua New Guinea,1.452149,1.452149
@@ -551,7 +575,6 @@ year,sector_code,recipient_name,usd_disbursement,usd_disbursement_deflated
 2022,510,Philippines,0,0
 2022,510,Indonesia,0,0
 2022,510,Myanmar,0,0
-2022,510,India,0,0
 2022,510,Maldives,0.001319,0.001319
 2022,510,Nepal,76.91412,76.91412
 2022,510,"Africa, regional",0.068808,0.068808
@@ -565,11 +588,10 @@ year,sector_code,recipient_name,usd_disbursement,usd_disbursement_deflated
 2022,510,Saint Lucia,0.015189,0.015189
 2022,510,Saint Vincent and the Grenadines,0.03355,0.03355
 2022,510,Montserrat,0.005,0.005
-2022,510,Eswatini,0.075157,0.075157
-2022,510,Angola,3.239037,3.239037
 2022,510,Albania,22.320312,22.320312
 2022,510,Guatemala,0,0
 2022,510,"South of Sahara, regional",0.011568,0.011568
+2022,510,Argentina,500,500
 2022,510,South Sudan,3.76,3.76
 2022,510,Peru,0,0
 2022,510,El Salvador,0,0

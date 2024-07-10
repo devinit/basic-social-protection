@@ -141,22 +141,75 @@ year,recipient_name,flow_name,usd_disbursement,usd_disbursement_deflated
 2018,Somalia,ODA Grants,7.672656,7.698434
 2018,Thailand,ODA Loans,0,0
 2018,Tokelau,ODA Grants,0.001413,0.001206
+2018,South Africa,Private Development Finance,2.326266,2.555544
+2018,"Bilateral, unspecified",Private Development Finance,11.233534,11.924412
+2018,India,Private Development Finance,2.754017,2.988818
+2018,Ghana,Private Development Finance,0.517156,0.571846
+2018,Brazil,Private Development Finance,0.351394,0.363147
+2018,Lebanon,Private Development Finance,0.822679,0.922976
+2018,Ecuador,Private Development Finance,0.729721,0.741886
+2018,Peru,Private Development Finance,0.310917,0.316101
+2018,Jordan,Private Development Finance,0.541148,0.584487
+2018,Türkiye,Private Development Finance,1.050219,1.067724
+2018,Albania,Private Development Finance,0.185058,0.188143
+2018,Senegal,Private Development Finance,0.072806,0.075162
+2018,Colombia,Private Development Finance,0.470006,0.490747
+2018,"South of Sahara, regional",Private Development Finance,0.684279,0.766916
+2018,Nigeria,Private Development Finance,0.0442,0.050976
+2018,Kenya,Private Development Finance,1.391868,1.577841
+2018,Mexico,Private Development Finance,0.549986,0.633316
+2018,Indonesia,Private Development Finance,0.688667,0.794245
+2018,Moldova,Private Development Finance,0.588667,0.678914
+2018,Côte d'Ivoire,Private Development Finance,0.668835,0.771372
+2018,"Middle East, regional",Private Development Finance,0.4535,0.523026
+2018,"Africa, regional",Private Development Finance,0.209728,0.241881
+2018,China (People's Republic of),Private Development Finance,0.84182,0.970879
+2018,Egypt,Private Development Finance,0.146168,0.168576
+2018,Cuba,Private Development Finance,0.22,0.253728
+2018,Tunisia,Private Development Finance,0.033,0.038059
 2018,"Caribbean, regional",ODA Grants,8.610945,9.709148
+2018,Sri Lanka,Private Development Finance,0.042086,0.048538
 2018,Montserrat,ODA Grants,1.118736,1.165234
 2018,"South & Central Asia, regional",ODA Grants,0.126964,0.132241
 2018,"South America, regional",ODA Grants,9.530251,9.425367
 2018,Saint Helena,ODA Grants,4.157249,4.330034
 2018,Libya,ODA Grants,0.339363,0.324338
 2018,Comoros,ODA Grants,1.356331,1.394712
+2018,Albania,Other Official Flows (non Export Credit),0.284024,0.295616
+2018,Georgia,Other Official Flows (non Export Credit),67.10138,69.84006
+2018,Egypt,Other Official Flows (non Export Credit),23.82501,24.797405
+2018,Montenegro,Other Official Flows (non Export Credit),0,0
+2018,Belarus,Other Official Flows (non Export Credit),0,0
+2018,Kyrgyzstan,Other Official Flows (non Export Credit),0,0
+2018,Azerbaijan,Other Official Flows (non Export Credit),0.214898,0.223669
+2018,Moldova,Other Official Flows (non Export Credit),0,0
 2018,Wallis and Futuna,ODA Grants,0.17849,0.173695
 2018,"Oceania, regional",ODA Grants,0.03583,0.039417
+2018,Afghanistan,Private Development Finance,0.64554,0.631181
 2018,Togo,ODA Grants,7.586738,7.889798
+2018,Ethiopia,Private Development Finance,0.173033,0.184094
 2018,"America, regional",ODA Grants,4.141552,4.207638
 2018,Chad,ODA Grants,6.408863,6.661952
 2018,Equatorial Guinea,ODA Grants,0.018892,0.019663
 2018,"Caribbean & Central America, regional",ODA Grants,0.968164,0.965935
 2018,Congo,ODA Grants,0.458048,0.461413
 2018,Central African Republic,ODA Grants,3.756685,3.895721
+2018,Nepal,Private Development Finance,0.141173,0.14704
+2018,Gambia,Private Development Finance,0.053355,0.055572
+2018,Jamaica,Private Development Finance,0.108176,0.112673
+2018,Uganda,Private Development Finance,0.325862,0.339407
+2018,"South America, regional",Private Development Finance,0.066693,0.069465
+2018,Argentina,Private Development Finance,0.008003,0.008336
+2018,Solomon Islands,Private Development Finance,0.011204,0.01167
+2018,Bangladesh,Private Development Finance,0.056202,0.058538
+2018,Tanzania,Private Development Finance,0.053355,0.055572
+2018,Sierra Leone,Private Development Finance,0.058474,0.060904
+2018,Malawi,Private Development Finance,0.020548,0.021402
+2018,Zimbabwe,Private Development Finance,0.114696,0.120629
+2018,Zambia,Private Development Finance,0.097963,0.110993
+2018,Togo,Private Development Finance,0.117212,0.122083
+2018,Liberia,Private Development Finance,0.045709,0.047609
+2018,Democratic Republic of the Congo,Private Development Finance,0.037361,0.038914
 2018,States Ex-Yugoslavia unspecified,ODA Grants,0.000679,0.000685
 2018,"Middle East, regional",ODA Grants,0.900505,0.934002
 2018,Belize,ODA Grants,0.026602,0.027687
@@ -164,12 +217,20 @@ year,recipient_name,flow_name,usd_disbursement,usd_disbursement_deflated
 2018,Yemen,ODA Loans,5.074528,5.28164
 2018,Pakistan,ODA Loans,31.640673,32.932059
 2018,Viet Nam,ODA Loans,3.4924,3.634939
+2018,China (People's Republic of),Other Official Flows (non Export Credit),11.351674,11.814982
 2018,Bangladesh,ODA Loans,165.5199,172.275438
 2018,Maldives,ODA Loans,0,0
+2018,Kazakhstan,Other Official Flows (non Export Credit),0,0
 2018,Lao People's Democratic Republic,ODA Loans,2.339739,2.435233
 2018,Sri Lanka,ODA Loans,0,0
+2018,Mongolia,Other Official Flows (non Export Credit),50,52.040702
+2018,Cook Islands,Other Official Flows (non Export Credit),0,0
+2018,Pakistan,Other Official Flows (non Export Credit),2.170775,2.259373
 2018,Mongolia,ODA Loans,3.481509,3.623603
+2018,Philippines,Other Official Flows (non Export Credit),148.12995,154.175733
+2018,Fiji,Other Official Flows (non Export Credit),0,0
 2018,Georgia,ODA Loans,0,0
+2018,Indonesia,Other Official Flows (non Export Credit),79.8,83.056961
 2018,Nepal,ODA Loans,0,0
 2018,Armenia,ODA Loans,1.653842,1.721342
 2018,Cambodia,ODA Loans,1.481784,1.542261
@@ -177,16 +238,57 @@ year,recipient_name,flow_name,usd_disbursement,usd_disbursement_deflated
 2018,Côte d'Ivoire,ODA Loans,38.276491,39.83871
 2018,"North of Sahara, regional",ODA Grants,2.313431,2.284573
 2018,Myanmar,ODA Loans,0.091095,0.094813
+2018,Colombia,Other Official Flows (non Export Credit),0,0
+2018,Ecuador,Other Official Flows (non Export Credit),0,0
+2018,Panama,Other Official Flows (non Export Credit),26,27.061165
 2018,Nicaragua,ODA Loans,0,0
+2018,Argentina,Other Official Flows (non Export Credit),881.029288,916.987657
+2018,Dominican Republic,Other Official Flows (non Export Credit),23.390974,24.345654
+2018,Brazil,Other Official Flows (non Export Credit),33.998129,35.385728
+2018,Venezuela,Other Official Flows (non Export Credit),0,0
 2018,Honduras,ODA Loans,100.114211,104.200276
+2018,El Salvador,Other Official Flows (non Export Credit),9,9.367326
+2018,Paraguay,Other Official Flows (non Export Credit),3.82571,3.981853
+2018,Jamaica,Other Official Flows (non Export Credit),18.888312,19.659221
 2018,Bolivia,ODA Loans,0.296,0.308081
 2018,Brazil,Equity Investment,0.017815,0.018542
+2018,Belize,Other Official Flows (non Export Credit),0,0
 2018,Ecuador,ODA Loans,0,0
+2018,Guatemala,Other Official Flows (non Export Credit),0,0
+2018,Mexico,Other Official Flows (non Export Credit),726.743331,756.404665
 2018,Haiti,ODA Loans,0,0
 2018,Argentina,ODA Loans,0,0
 2018,El Salvador,ODA Loans,0,0
+2018,Peru,Other Official Flows (non Export Credit),0.84,0.874284
+2018,Nicaragua,Other Official Flows (non Export Credit),0,0
+2018,Suriname,Other Official Flows (non Export Credit),0,0
 2018,Guyana,ODA Loans,0,0
 2018,Afghanistan,ODA Loans,0,0
+2018,Morocco,Other Official Flows (non Export Credit),3.18,3.309789
+2018,Ukraine,Other Official Flows (non Export Credit),40.814,42.479784
+2018,Saint Lucia,Other Official Flows (non Export Credit),0,0
+2018,Serbia,Other Official Flows (non Export Credit),0.086845,0.090389
+2018,Armenia,Other Official Flows (non Export Credit),0,0
+2018,India,Other Official Flows (non Export Credit),0.121974,0.126952
+2018,Congo,Other Official Flows (non Export Credit),0.614449,0.639527
+2018,Viet Nam,Other Official Flows (non Export Credit),0,0
+2018,Gabon,Other Official Flows (non Export Credit),0,0
+2018,Grenada,Other Official Flows (non Export Credit),0,0
+2018,North Macedonia,Other Official Flows (non Export Credit),1.785114,1.857972
+2018,Jordan,Other Official Flows (non Export Credit),116.7,121.462999
+2018,Mauritius,Other Official Flows (non Export Credit),0,0
+2018,Türkiye,Other Official Flows (non Export Credit),0,0
+2018,Saint Vincent and the Grenadines,Other Official Flows (non Export Credit),0,0
+2018,Tunisia,Other Official Flows (non Export Credit),130.821344,136.160692
+2018,Iraq,Other Official Flows (non Export Credit),5.4225,5.643814
+2018,Antigua and Barbuda,Other Official Flows (non Export Credit),0,0
+2018,Lebanon,Other Official Flows (non Export Credit),0,0
+2018,Papua New Guinea,Other Official Flows (non Export Credit),0,0
+2018,Cameroon,Other Official Flows (non Export Credit),16.380371,17.04892
+2018,Eswatini,Other Official Flows (non Export Credit),0.686484,0.714502
+2018,Angola,Other Official Flows (non Export Credit),7.960452,8.28535
+2018,Iran,Other Official Flows (non Export Credit),0,0
+2018,Bosnia and Herzegovina,Other Official Flows (non Export Credit),0,0
 2018,Mali,ODA Loans,7.100546,7.390348
 2018,Albania,ODA Loans,0,0
 2018,Grenada,ODA Loans,0.363683,0.378527
@@ -240,6 +342,10 @@ year,recipient_name,flow_name,usd_disbursement,usd_disbursement_deflated
 2018,South Sudan,ODA Loans,13.243578,13.784102
 2018,Central African Republic,ODA Loans,0,0
 2018,Uzbekistan,ODA Loans,100,104.081404
+2018,Serbia,Private Development Finance,0.005901,0.006222
+2018,"Europe, regional",Private Development Finance,0.15604,0.179962
+2018,"Central Asia, regional",Private Development Finance,0.102192,0.117859
+2018,"South Asia, regional",Private Development Finance,0.099218,0.114429
 2019,Congo,ODA Grants,0.494674,0.507671
 2019,"Bilateral, unspecified",ODA Grants,146.915389,146.089431
 2019,India,ODA Grants,16.53898,16.690873
@@ -336,19 +442,28 @@ year,recipient_name,flow_name,usd_disbursement,usd_disbursement_deflated
 2019,Niger,ODA Grants,8.333101,8.675766
 2019,Algeria,ODA Grants,0.375624,0.385463
 2019,Honduras,ODA Grants,1.238279,1.251042
+2019,"Bilateral, unspecified",Private Development Finance,13.015783,14.242388
 2019,Afghanistan,ODA Grants,6.121247,6.550728
 2019,Côte d'Ivoire,ODA Grants,0.660698,0.677122
 2019,Haiti,ODA Grants,12.827355,13.929764
 2019,Timor-Leste,ODA Grants,1.484189,1.548056
 2019,Mongolia,ODA Loans,0.75457,0.799313
+2019,Pakistan,Other Official Flows (non Export Credit),334.374295,354.201117
 2019,Egypt,ODA Loans,0,0
 2019,Benin,ODA Grants,15.461939,16.347823
 2019,Comoros,ODA Grants,0.37508,0.395644
 2019,Paraguay,ODA Grants,5.325241,5.512094
 2019,Jamaica,ODA Grants,0.799024,0.784933
 2019,Dominican Republic,ODA Grants,1.113325,1.140732
+2019,Tajikistan,Other Official Flows (non Export Credit),0.373913,0.396084
 2019,Nicaragua,ODA Loans,0,0
+2019,Colombia,Other Official Flows (non Export Credit),143.7,152.220734
 2019,Bolivia,ODA Loans,1.030995,1.092128
+2019,Paraguay,Other Official Flows (non Export Credit),9.282097,9.832482
+2019,El Salvador,Other Official Flows (non Export Credit),5.184516,5.491934
+2019,Dominican Republic,Other Official Flows (non Export Credit),27.321779,28.941832
+2019,Argentina,Other Official Flows (non Export Credit),493.121962,522.361774
+2019,Jamaica,Other Official Flows (non Export Credit),11.98727,12.698058
 2019,Venezuela,ODA Grants,0.371431,0.370589
 2019,Iran,ODA Grants,0.84043,0.805062
 2019,Saint Lucia,ODA Grants,0.144998,0.123675
@@ -357,7 +472,12 @@ year,recipient_name,flow_name,usd_disbursement,usd_disbursement_deflated
 2019,Guyana,ODA Grants,0.471472,0.498787
 2019,Ecuador,ODA Grants,4.986308,5.001796
 2019,Central African Republic,ODA Grants,23.399671,24.321113
+2019,Indonesia,Private Development Finance,0.519164,0.571625
 2019,Micronesia,ODA Grants,0.107338,0.114624
+2019,India,Private Development Finance,3.212588,3.451075
+2019,Lebanon,Private Development Finance,0.108808,0.119068
+2019,South Africa,Private Development Finance,0.085855,0.09153
+2019,Nepal,Private Development Finance,0.146933,0.156646
 2019,Uzbekistan,ODA Grants,1.244917,1.293807
 2019,Gabon,ODA Grants,0.216029,0.211757
 2019,Djibouti,ODA Grants,1.366322,1.328388
@@ -386,28 +506,83 @@ year,recipient_name,flow_name,usd_disbursement,usd_disbursement_deflated
 2019,Maldives,ODA Grants,0.220667,0.195983
 2019,Bhutan,ODA Grants,0.30373,0.274219
 2019,Papua New Guinea,ODA Grants,0.265199,0.262048
+2019,Peru,Private Development Finance,0.849748,0.88426
+2019,Afghanistan,Private Development Finance,0.565361,0.586664
+2019,Rwanda,Private Development Finance,0.31904,0.34013
+2019,Mexico,Private Development Finance,0.080352,0.088032
+2019,Tanzania,Private Development Finance,0.151046,0.161679
+2019,"Southern Africa, regional",Private Development Finance,0.103176,0.110665
+2019,"Eastern Africa, regional",Private Development Finance,0.807,0.907522
+2019,Zimbabwe,Private Development Finance,0.115934,0.124332
+2019,Brazil,Private Development Finance,0.074113,0.079469
+2019,China (People's Republic of),Private Development Finance,0.887994,0.953948
+2019,Bangladesh,Private Development Finance,0.047745,0.05102
+2019,Serbia,Private Development Finance,0.03937,0.042227
+2019,Türkiye,Private Development Finance,0.016937,0.018167
+2019,"South America, regional",Private Development Finance,0.552184,0.618975
+2019,"South of Sahara, regional",Private Development Finance,0.30923,0.334443
+2019,Malawi,Private Development Finance,0.027765,0.029601
+2019,Jamaica,Private Development Finance,0.111537,0.118909
+2019,Kenya,Private Development Finance,0.572351,0.599586
+2019,Sierra Leone,Private Development Finance,0.053564,0.057105
+2019,Colombia,Private Development Finance,0.332613,0.3546
+2019,Togo,Private Development Finance,0.17402,0.185523
+2019,Solomon Islands,Private Development Finance,0.009715,0.010358
+2019,Ethiopia,Private Development Finance,0.903173,0.941267
+2019,Uganda,Private Development Finance,0.225107,0.239988
+2019,Senegal,Private Development Finance,0.2018,0.21514
+2019,Liberia,Private Development Finance,0.067089,0.071524
+2019,Democratic Republic of the Congo,Private Development Finance,0.023114,0.024642
+2019,Gambia,Private Development Finance,0.051046,0.054421
+2019,Nigeria,Private Development Finance,0.070421,0.079677
+2019,"Africa, regional",Private Development Finance,0.15,0.170141
+2019,Guatemala,Private Development Finance,4.540315,5.149943
+2019,Cuba,Private Development Finance,0.07,0.079399
+2019,Jordan,Private Development Finance,0.23,0.260882
+2019,Tunisia,Private Development Finance,0,0
+2019,Morocco,Private Development Finance,0,0
+2019,Ghana,Private Development Finance,0.0495,0.056146
 2019,Tuvalu,ODA Grants,0.062602,0.071231
 2019,Vanuatu,ODA Grants,0.572363,0.621764
+2019,Guatemala,Other Official Flows (non Export Credit),0.337051,0.357037
 2019,El Salvador,ODA Loans,0,0
 2019,Ecuador,ODA Loans,0,0
+2019,Mexico,Other Official Flows (non Export Credit),32.450513,34.374676
+2019,Suriname,Other Official Flows (non Export Credit),0,0
+2019,Brazil,Other Official Flows (non Export Credit),62.553964,66.263119
+2019,Peru,Other Official Flows (non Export Credit),2.198,2.328331
+2019,Bolivia,Other Official Flows (non Export Credit),1.2,1.271155
+2019,Ecuador,Other Official Flows (non Export Credit),89.475785,94.781279
+2019,Panama,Other Official Flows (non Export Credit),1.42,1.504199
 2019,Brazil,Equity Investment,0.113276,0.119993
 2019,Haiti,ODA Loans,0.558799,0.591933
 2019,Guatemala,ODA Loans,0,0
+2019,Belize,Other Official Flows (non Export Credit),0,0
 2019,Argentina,ODA Loans,0,0
+2019,Egypt,Other Official Flows (non Export Credit),17.173252,18.191545
+2019,Georgia,Other Official Flows (non Export Credit),4.346255,4.603968
+2019,Morocco,Other Official Flows (non Export Credit),12.19,12.91281
+2019,Serbia,Other Official Flows (non Export Credit),1.102073,1.167421
 2019,Samoa,ODA Grants,0.091646,0.078855
 2019,Lao People's Democratic Republic,ODA Loans,1.785122,1.890972
 2019,Viet Nam,ODA Loans,0.90064,0.954044
 2019,Pakistan,ODA Loans,17.812722,18.868931
+2019,Philippines,Other Official Flows (non Export Credit),147.368514,156.106773
 2019,Bangladesh,ODA Loans,318.187575,337.054602
+2019,China (People's Republic of),Other Official Flows (non Export Credit),6.112709,6.475163
 2019,Nepal,ODA Loans,0,0
 2019,Georgia,ODA Loans,0,0
 2019,Samoa,ODA Loans,0,0
 2019,Sri Lanka,ODA Loans,0.38868,0.411726
 2019,Armenia,ODA Loans,1.781875,1.887532
+2019,Kazakhstan,Other Official Flows (non Export Credit),0,0
+2019,Indonesia,Other Official Flows (non Export Credit),41,43.431107
 2019,Myanmar,ODA Loans,0.178578,0.189167
 2019,Maldives,ODA Loans,0,0
 2019,Indonesia,ODA Loans,0,0
+2019,Mongolia,Other Official Flows (non Export Credit),0.005,0.005296
 2019,Solomon Islands,ODA Grants,1.096671,1.149547
+2019,Thailand,Private Development Finance,0.442217,0.460177
 2019,Mauritius,ODA Grants,0.099098,0.097987
 2019,Saint Helena,ODA Grants,4.675618,4.984694
 2019,Montserrat,ODA Grants,0.883739,0.942156
@@ -429,7 +604,31 @@ year,recipient_name,flow_name,usd_disbursement,usd_disbursement_deflated
 2019,North Macedonia,ODA Loans,0,0
 2019,Mauritania,ODA Loans,0,0
 2019,Afghanistan,ODA Loans,0,0
+2019,Azerbaijan,Other Official Flows (non Export Credit),0,0
+2019,Albania,Other Official Flows (non Export Credit),13.659941,14.469911
+2019,Ukraine,Other Official Flows (non Export Credit),28.411027,30.095668
+2019,Angola,Other Official Flows (non Export Credit),81.407595,86.234682
+2019,Mauritius,Other Official Flows (non Export Credit),0,0
+2019,Eswatini,Other Official Flows (non Export Credit),0,0
+2019,Saint Vincent and the Grenadines,Other Official Flows (non Export Credit),0,0
+2019,Jordan,Other Official Flows (non Export Credit),160.2975,169.802387
+2019,Iraq,Other Official Flows (non Export Credit),9.12,9.660773
+2019,Tunisia,Other Official Flows (non Export Credit),0,0
+2019,India,Other Official Flows (non Export Credit),1.3075,1.385029
+2019,Grenada,Other Official Flows (non Export Credit),0,0
 2019,Albania,ODA Loans,0,0
+2019,North Macedonia,Other Official Flows (non Export Credit),36.145208,38.288448
+2019,Saint Lucia,Other Official Flows (non Export Credit),0,0
+2019,Lebanon,Other Official Flows (non Export Credit),0,0
+2019,Antigua and Barbuda,Other Official Flows (non Export Credit),0,0
+2019,Uzbekistan,Other Official Flows (non Export Credit),170,180.0802
+2019,Congo,Other Official Flows (non Export Credit),1.31276,1.390601
+2019,Sri Lanka,Other Official Flows (non Export Credit),0,0
+2019,Türkiye,Other Official Flows (non Export Credit),0,0
+2019,Gabon,Other Official Flows (non Export Credit),27.846961,29.498155
+2019,Belarus,Other Official Flows (non Export Credit),0.056194,0.059526
+2019,Papua New Guinea,Other Official Flows (non Export Credit),0,0
+2019,Iran,Other Official Flows (non Export Credit),0,0
 2019,Congo,ODA Loans,5.483268,5.8084
 2019,Ethiopia,ODA Loans,27.230065,28.844679
 2019,Tanzania,ODA Loans,2.08479,2.208409
@@ -481,6 +680,9 @@ year,recipient_name,flow_name,usd_disbursement,usd_disbursement_deflated
 2019,Liberia,ODA Loans,1.338394,1.417754
 2019,Sierra Leone,ODA Loans,0,0
 2019,Bhutan,ODA Loans,0,0
+2019,"Europe, regional",Private Development Finance,0.174936,0.198425
+2019,"Central America, regional",Private Development Finance,0.089873,0.10194
+2019,"South Asia, regional",Private Development Finance,0.0485,0.055012
 2020,"Bilateral, unspecified",ODA Grants,110.201335,115.385005
 2020,Togo,ODA Grants,32.109031,32.773662
 2020,Azerbaijan,ODA Grants,0.613037,0.628424
@@ -606,6 +808,50 @@ year,recipient_name,flow_name,usd_disbursement,usd_disbursement_deflated
 2020,Central African Republic,ODA Grants,11.17557,11.317352
 2020,Equatorial Guinea,ODA Grants,0.019582,0.02013
 2020,Mongolia,ODA Grants,2.794042,2.589985
+2020,"Bilateral, unspecified",Private Development Finance,24.584086,27.366849
+2020,Afghanistan,Private Development Finance,0.670054,0.663728
+2020,Thailand,Private Development Finance,0.199534,0.203708
+2020,India,Private Development Finance,7.631235,7.923983
+2020,China (People's Republic of),Private Development Finance,0.644591,0.711784
+2020,Moldova,Private Development Finance,2.484321,2.771306
+2020,Kenya,Private Development Finance,4.433981,4.868384
+2020,South Africa,Private Development Finance,1.067727,1.161553
+2020,Bolivia,Private Development Finance,0,0
+2020,Cambodia,Private Development Finance,0.088929,0.090789
+2020,Cameroon,Private Development Finance,0,0
+2020,Colombia,Private Development Finance,0.163317,0.16905
+2020,Madagascar,Private Development Finance,0,0
+2020,Malawi,Private Development Finance,0.45,0.503769
+2020,Mozambique,Private Development Finance,0,0
+2020,Rwanda,Private Development Finance,0.599176,0.608043
+2020,Sierra Leone,Private Development Finance,0,0
+2020,Zambia,Private Development Finance,0.128533,0.131221
+2020,Uganda,Private Development Finance,0.822284,0.878912
+2020,Honduras,Private Development Finance,0.058941,0.060174
+2020,Mexico,Private Development Finance,0.10842,0.114139
+2020,"America, regional",Private Development Finance,0.799867,0.806934
+2020,Serbia,Private Development Finance,0.175719,0.179395
+2020,Nepal,Private Development Finance,0.070998,0.072483
+2020,Ghana,Private Development Finance,0,0
+2020,Pakistan,Private Development Finance,0.010626,0.010849
+2020,"Africa, regional",Private Development Finance,0.651581,0.678871
+2020,Indonesia,Private Development Finance,0.312668,0.329067
+2020,Brazil,Private Development Finance,3.697856,3.716745
+2020,Sri Lanka,Private Development Finance,0.037298,0.04065
+2020,Tanzania,Private Development Finance,0,0
+2020,Bangladesh,Private Development Finance,1.785617,1.76876
+2020,Zimbabwe,Private Development Finance,0.525927,0.53693
+2020,Ethiopia,Private Development Finance,0.782781,0.843346
+2020,Jordan,Private Development Finance,1.812682,1.871386
+2020,Nigeria,Private Development Finance,0,0
+2020,"Southern Africa, regional",Private Development Finance,0.5835,0.65322
+2020,Ecuador,Private Development Finance,0.036,0.040301
+2020,Lebanon,Private Development Finance,1.03,1.15307
+2020,Tunisia,Private Development Finance,0.663333,0.742591
+2020,Argentina,Private Development Finance,0,0
+2020,Peru,Private Development Finance,0.447635,0.453133
+2020,Morocco,Private Development Finance,0.058333,0.065303
+2020,Cuba,Private Development Finance,0.045,0.050377
 2020,"Oceania, regional",ODA Grants,1.304281,1.332369
 2020,"America, regional",ODA Grants,7.434777,7.497177
 2020,"Asia, regional",ODA Grants,8.233224,7.657979
@@ -625,6 +871,25 @@ year,recipient_name,flow_name,usd_disbursement,usd_disbursement_deflated
 2020,States Ex-Yugoslavia unspecified,ODA Grants,0.005915,0.00608
 2020,Venezuela,ODA Grants,0.35742,0.36739
 2020,Nicaragua,ODA Grants,1.271086,1.386199
+2020,Venezuela,Private Development Finance,0.002487,0.002494
+2020,West Bank and Gaza Strip,Private Development Finance,0.202752,0.203342
+2020,Türkiye,Private Development Finance,0.485486,0.4869
+2020,Albania,Private Development Finance,0.44699,0.44829
+2020,Senegal,Private Development Finance,0.012407,0.012443
+2020,"Asia, regional",Private Development Finance,0.068376,0.068575
+2020,"South America, regional",Private Development Finance,1.467615,1.594501
+2020,"South Asia, regional",Private Development Finance,0.295337,0.330626
+2020,"Caribbean, regional",Private Development Finance,0.055,0.061572
+2020,"Far East Asia, regional",Private Development Finance,0.117064,0.127524
+2020,"Middle East, regional",Private Development Finance,0.232064,0.256266
+2020,"Eastern Africa, regional",Private Development Finance,0.02585,0.028938
+2020,"South & Central Asia, regional",Private Development Finance,0.032064,0.032368
+2020,"South of Sahara, regional",Private Development Finance,0.032064,0.032368
+2020,"Caribbean & Central America, regional",Private Development Finance,0.032064,0.032368
+2020,"Central America, regional",Private Development Finance,0.032064,0.032368
+2020,"Europe, regional",Private Development Finance,0.032064,0.032368
+2020,"Oceania, regional",Private Development Finance,0.032064,0.032368
+2020,Nicaragua,Other Official Flows (non Export Credit),2.308141,2.372519
 2020,Panama,ODA Loans,149.85,154.029606
 2020,Myanmar,ODA Loans,34.969889,35.945266
 2020,Sri Lanka,ODA Loans,50.259801,51.661644
@@ -634,14 +899,26 @@ year,recipient_name,flow_name,usd_disbursement,usd_disbursement_deflated
 2020,Nepal,ODA Loans,62.5,64.243246
 2020,Viet Nam,ODA Loans,14.030296,14.421627
 2020,Bangladesh,ODA Loans,582.548078,598.796466
+2020,Uzbekistan,Other Official Flows (non Export Credit),353.55,363.411192
 2020,Lao People's Democratic Republic,ODA Loans,3.007206,3.091084
+2020,Philippines,Other Official Flows (non Export Credit),1238.193951,1272.729568
+2020,Georgia,Other Official Flows (non Export Credit),76.017977,78.138265
+2020,Papua New Guinea,Other Official Flows (non Export Credit),35,35.976218
 2020,Pakistan,ODA Loans,265.649029,273.058492
 2020,Samoa,ODA Grants,11.448453,11.730142
 2020,Cambodia,ODA Loans,88.681313,91.154806
+2020,Mongolia,Other Official Flows (non Export Credit),31.995,32.887402
+2020,Bangladesh,Other Official Flows (non Export Credit),0,0
 2020,Indonesia,ODA Loans,0,0
+2020,Kazakhstan,Other Official Flows (non Export Credit),501.599378,515.589954
 2020,Maldives,ODA Loans,14.675,15.084314
 2020,Mongolia,ODA Loans,38.092853,39.155335
+2020,Indonesia,Other Official Flows (non Export Credit),775.603773,797.236858
+2020,Thailand,Other Official Flows (non Export Credit),0,0
+2020,China (People's Republic of),Other Official Flows (non Export Credit),8.154464,8.381908
 2020,Palau,ODA Loans,5,5.13946
+2020,India,Other Official Flows (non Export Credit),1340.472464,1377.860828
+2020,Pakistan,Other Official Flows (non Export Credit),456.159701,468.882876
 2020,Bhutan,ODA Loans,8.760118,9.004455
 2020,Solomon Islands,ODA Loans,1.5,1.541838
 2020,Kyrgyzstan,ODA Loans,4.5,4.625514
@@ -662,15 +939,32 @@ year,recipient_name,flow_name,usd_disbursement,usd_disbursement_deflated
 2020,Tuvalu,ODA Grants,2.234867,2.298191
 2020,Guatemala,ODA Loans,0,0
 2020,Tokelau,ODA Grants,0.001133,0.000921
+2020,Nigeria,Other Official Flows (non Export Credit),278.542618,286.311709
+2020,Morocco,Other Official Flows (non Export Credit),222.609017,228.818013
+2020,El Salvador,Other Official Flows (non Export Credit),3.690077,3.793001
+2020,Colombia,Other Official Flows (non Export Credit),566,581.786832
+2020,Mexico,Other Official Flows (non Export Credit),170,174.741628
 2020,Honduras,ODA Loans,18.305,18.815563
+2020,Panama,Other Official Flows (non Export Credit),78.188136,80.368954
+2020,Ecuador,Other Official Flows (non Export Credit),531.841186,546.675263
+2020,Suriname,Other Official Flows (non Export Credit),0,0
+2020,Paraguay,Other Official Flows (non Export Credit),0,0
+2020,Brazil,Other Official Flows (non Export Credit),22.441316,23.067248
 2020,El Salvador,ODA Loans,0,0
 2020,Bolivia,ODA Loans,32.514446,33.421337
 2020,Ecuador,ODA Loans,0,0
+2020,Dominican Republic,Other Official Flows (non Export Credit),42.625883,43.814801
+2020,Argentina,Other Official Flows (non Export Credit),706.509445,726.215358
+2020,Jamaica,Other Official Flows (non Export Credit),9.23056,9.488018
 2020,Colombia,ODA Loans,0,0
 2020,Nicaragua,ODA Loans,0,0
 2020,Argentina,ODA Loans,0,0
 2020,Brazil,Equity Investment,0.054943,0.056475
+2020,Bolivia,Other Official Flows (non Export Credit),654.033415,672.275669
 2020,Guyana,ODA Loans,0,0
+2020,Peru,Other Official Flows (non Export Credit),1.484,1.525392
+2020,Belize,Other Official Flows (non Export Credit),12,12.334703
+2020,Egypt,Other Official Flows (non Export Credit),413.344166,424.873133
 2020,Mauritius,ODA Loans,341.880342,329.436072
 2020,Saint Helena,ODA Grants,4.715041,4.759738
 2020,Montserrat,ODA Grants,1.722086,1.738412
@@ -680,9 +974,35 @@ year,recipient_name,flow_name,usd_disbursement,usd_disbursement_deflated
 2020,Wallis and Futuna,ODA Grants,0.166644,0.160577
 2020,"North of Sahara, regional",ODA Grants,0.01065,0.010872
 2020,Senegal,ODA Loans,25.18431,25.886751
+2020,Belarus,Other Official Flows (non Export Credit),0,0
 2020,Uganda,ODA Loans,61.867685,63.593294
+2020,Grenada,Other Official Flows (non Export Credit),0,0
 2020,Moldova,ODA Loans,7.56681,7.777863
 2020,Ghana,ODA Loans,27.347232,28.109999
+2020,North Macedonia,Other Official Flows (non Export Credit),24.709416,25.398609
+2020,Ukraine,Other Official Flows (non Export Credit),264.55194,271.930805
+2020,Congo,Other Official Flows (non Export Credit),2.24986,2.312613
+2020,Guatemala,Other Official Flows (non Export Credit),0,0
+2020,Türkiye,Other Official Flows (non Export Credit),51.480631,52.916525
+2020,Lebanon,Other Official Flows (non Export Credit),0,0
+2020,Eswatini,Other Official Flows (non Export Credit),0.012,0.012335
+2020,Jordan,Other Official Flows (non Export Credit),98.315041,101.057237
+2020,Tunisia,Other Official Flows (non Export Credit),26.562341,27.303217
+2020,Saint Lucia,Other Official Flows (non Export Credit),0,0
+2020,Cameroon,Other Official Flows (non Export Credit),2.914422,2.99571
+2020,Iran,Other Official Flows (non Export Credit),0,0
+2020,Serbia,Other Official Flows (non Export Credit),0,0
+2020,Saint Vincent and the Grenadines,Other Official Flows (non Export Credit),0,0
+2020,Iraq,Other Official Flows (non Export Credit),1.500745,1.542604
+2020,Mauritius,Other Official Flows (non Export Credit),0,0
+2020,Viet Nam,Other Official Flows (non Export Credit),0,0
+2020,Albania,Other Official Flows (non Export Credit),3.025874,3.110272
+2020,Armenia,Other Official Flows (non Export Credit),0,0
+2020,Bosnia and Herzegovina,Other Official Flows (non Export Credit),2.528537,2.599063
+2020,Azerbaijan,Other Official Flows (non Export Credit),0,0
+2020,Antigua and Barbuda,Other Official Flows (non Export Credit),0,0
+2020,Angola,Other Official Flows (non Export Credit),15.472228,15.903777
+2020,Costa Rica,Other Official Flows (non Export Credit),0,0
 2020,Afghanistan,ODA Loans,0,0
 2020,Bosnia and Herzegovina,ODA Loans,0,0
 2020,Burkina Faso,ODA Loans,10.352743,10.641501
@@ -729,6 +1049,8 @@ year,recipient_name,flow_name,usd_disbursement,usd_disbursement_deflated
 2020,North Macedonia,ODA Loans,0,0
 2020,Liberia,ODA Loans,3.608781,3.709437
 2020,Kosovo,ODA Loans,27.722859,28.496103
+2020,Côte d'Ivoire,Other Official Flows (non Export Credit),34.424652,35.384822
+2020,Sri Lanka,Other Official Flows (non Export Credit),0.068636,0.07055
 2020,Comoros,ODA Loans,0,0
 2020,Somalia,ODA Loans,0,0
 2020,Dominica,ODA Loans,0,0
@@ -770,8 +1092,16 @@ year,recipient_name,flow_name,usd_disbursement,usd_disbursement_deflated
 2021,"Middle East, regional",ODA Grants,2.369505,2.277846
 2021,"Caribbean & Central America, regional",ODA Grants,2.00398,1.872099
 2021,"Asia, regional",ODA Grants,14.942712,13.445716
+2021,Tajikistan,Other Official Flows (non Export Credit),0,0
 2021,Afghanistan,ODA Grants,44.624299,42.882172
+2021,Serbia,Other Official Flows (non Export Credit),12.993463,12.60305
 2021,India,ODA Grants,14.989688,14.572292
+2021,Morocco,Other Official Flows (non Export Credit),227.236875,220.409124
+2021,Montenegro,Other Official Flows (non Export Credit),0,0
+2021,Mongolia,Other Official Flows (non Export Credit),20.096461,19.492626
+2021,Georgia,Other Official Flows (non Export Credit),101.980084,98.915904
+2021,Egypt,Other Official Flows (non Export Credit),14.212573,13.785531
+2021,Albania,Other Official Flows (non Export Credit),0.210362,0.204042
 2021,Nepal,ODA Grants,5.762752,5.413456
 2021,Ghana,ODA Grants,10.819754,10.201536
 2021,Togo,ODA Grants,4.10517,4.026004
@@ -830,6 +1160,7 @@ year,recipient_name,flow_name,usd_disbursement,usd_disbursement_deflated
 2021,Fiji,ODA Grants,1.17364,1.11599
 2021,"Western Africa, regional",ODA Grants,7.313439,7.024301
 2021,Ecuador,ODA Grants,3.238633,3.041919
+2021,China (People's Republic of),Other Official Flows (non Export Credit),57.603708,55.8729
 2021,Indonesia,ODA Grants,18.496843,17.667101
 2021,Peru,ODA Grants,1.581375,1.505387
 2021,"Oceania, regional",ODA Grants,3.674985,3.638718
@@ -837,23 +1168,32 @@ year,recipient_name,flow_name,usd_disbursement,usd_disbursement_deflated
 2021,Madagascar,ODA Grants,69.36825,67.109187
 2021,Myanmar,ODA Loans,25.825142,24.990003
 2021,Nepal,ODA Loans,37.265223,36.14552
+2021,Bangladesh,Other Official Flows (non Export Credit),101.3,98.256255
+2021,Indonesia,Other Official Flows (non Export Credit),184.2,178.665373
 2021,Sri Lanka,ODA Grants,5.113368,4.690878
 2021,Georgia,ODA Loans,17.574149,16.452711
 2021,Mongolia,ODA Loans,24.118418,23.393735
 2021,Maldives,ODA Loans,0.925,0.897206
 2021,Kyrgyzstan,ODA Loans,23.0769,22.383512
+2021,Pakistan,Other Official Flows (non Export Credit),18.445755,17.891519
+2021,Philippines,Other Official Flows (non Export Credit),633.274719,614.246814
 2021,Pakistan,ODA Loans,436.071684,422.969107
 2021,Indonesia,ODA Loans,0,0
 2021,Timor-Leste,ODA Grants,3.799679,3.751658
 2021,"Far East Asia, regional",ODA Grants,0.786033,0.74769
+2021,India,Other Official Flows (non Export Credit),153.4388,148.82845
+2021,Fiji,Other Official Flows (non Export Credit),3.5,3.394836
 2021,Samoa,ODA Loans,0,0
 2021,Bangladesh,ODA Loans,359.915715,344.013479
 2021,Lao People's Democratic Republic,ODA Loans,4.584133,4.446394
 2021,Viet Nam,ODA Loans,22.628013,21.948114
+2021,Thailand,Other Official Flows (non Export Credit),499.5,484.491603
 2021,Sri Lanka,ODA Loans,8.887606,8.620562
 2021,Palau,ODA Grants,0.162979,0.153835
 2021,Cambodia,ODA Loans,1.748423,1.695889
 2021,Vanuatu,ODA Grants,2.923022,2.898022
+2021,Uzbekistan,Other Official Flows (non Export Credit),64.5,62.561979
+2021,Azerbaijan,Other Official Flows (non Export Credit),45,43.647892
 2021,Maldives,ODA Grants,15.49713,14.999637
 2021,Armenia,ODA Loans,1.305885,1.266647
 2021,Tonga,ODA Grants,3.080146,2.981801
@@ -898,14 +1238,64 @@ year,recipient_name,flow_name,usd_disbursement,usd_disbursement_deflated
 2021,Micronesia,ODA Grants,0.063893,0.059555
 2021,Egypt,ODA Loans,59.129612,54.13276
 2021,Burundi,ODA Grants,9.101016,8.596486
+2021,"Bilateral, unspecified",Private Development Finance,19.56062,20.001516
 2021,Kiribati,ODA Grants,2.028679,2.021216
+2021,South Africa,Private Development Finance,0.998888,0.96272
+2021,India,Private Development Finance,7.937979,7.633745
+2021,Afghanistan,Private Development Finance,1.399709,1.3472
+2021,"South of Sahara, regional",Private Development Finance,0.6,0.632706
+2021,Brazil,Private Development Finance,0.834519,0.803479
+2021,Bangladesh,Private Development Finance,0.712351,0.644266
+2021,Zimbabwe,Private Development Finance,0.560544,0.550255
+2021,"Asia, regional",Private Development Finance,0.717463,0.71317
+2021,Nepal,Private Development Finance,0.039648,0.036942
+2021,Rwanda,Private Development Finance,0.309491,0.291659
+2021,Nigeria,Private Development Finance,0.614917,0.658212
+2021,Kenya,Private Development Finance,1.09031,1.163618
+2021,Ghana,Private Development Finance,0.974784,0.976263
+2021,Colombia,Private Development Finance,1.389667,1.486182
+2021,Tanzania,Private Development Finance,0.22825,0.244321
+2021,Zambia,Private Development Finance,0.349,0.370111
+2021,Uganda,Private Development Finance,0.667659,0.704957
+2021,Moldova,Private Development Finance,0.53131,0.56872
+2021,China (People's Republic of),Private Development Finance,1.660431,1.630127
+2021,Mozambique,Private Development Finance,0.189215,0.175231
+2021,Ethiopia,Private Development Finance,0.442959,0.412608
+2021,Jordan,Private Development Finance,0.636069,0.636643
+2021,Tunisia,Private Development Finance,0.48,0.513797
+2021,Cuba,Private Development Finance,0.005,0.005352
+2021,Lebanon,Private Development Finance,0.22,0.23549
+2021,"North of Sahara, regional",Private Development Finance,0.05,0.053521
+2021,Argentina,Private Development Finance,0.212623,0.217353
+2021,Sri Lanka,Private Development Finance,0.021295,0.022794
+2021,Peru,Private Development Finance,0.895891,0.843302
+2021,"Middle East, regional",Private Development Finance,0.05,0.053521
+2021,Ecuador,Private Development Finance,0.131667,0.140937
+2021,Indonesia,Private Development Finance,0.016667,0.01784
+2021,Pakistan,Private Development Finance,0.016667,0.01784
+2021,Paraguay,Private Development Finance,0.025,0.02676
 2021,Nicaragua,ODA Loans,0,0
+2021,Guatemala,Other Official Flows (non Export Credit),2.485714,2.411026
 2021,Gambia,ODA Grants,4.567292,4.456582
 2021,Guatemala,ODA Loans,0,0
 2021,Honduras,ODA Loans,53.13415,51.537637
 2021,Senegal,ODA Loans,41.782175,40.141915
+2021,Suriname,Other Official Flows (non Export Credit),0,0
+2021,Jamaica,Other Official Flows (non Export Credit),31.551817,30.603785
+2021,Mexico,Other Official Flows (non Export Credit),307.50371,298.264194
+2021,Peru,Other Official Flows (non Export Credit),131.3408,127.394423
+2021,Panama,Other Official Flows (non Export Credit),50.641209,49.119601
+2021,Paraguay,Other Official Flows (non Export Credit),5.537966,5.371567
+2021,Argentina,Other Official Flows (non Export Credit),567.007007,549.970238
 2021,Guyana,ODA Loans,21.048661,20.416215
+2021,Belize,Other Official Flows (non Export Credit),0,0
+2021,Bolivia,Other Official Flows (non Export Credit),14.033177,13.611524
 2021,Bolivia,ODA Loans,3.745355,3.632819
+2021,Brazil,Other Official Flows (non Export Credit),1289.975993,1251.216291
+2021,Ecuador,Other Official Flows (non Export Credit),621.111341,602.448908
+2021,Colombia,Other Official Flows (non Export Credit),357.5,346.758254
+2021,El Salvador,Other Official Flows (non Export Credit),0,0
+2021,Dominica,Other Official Flows (non Export Credit),0.352634,0.342039
 2021,India,ODA Loans,585.029162,522.866169
 2021,"America, regional",ODA Loans,14.962192,14.007428
 2021,El Salvador,ODA Loans,0,0
@@ -915,6 +1305,9 @@ year,recipient_name,flow_name,usd_disbursement,usd_disbursement_deflated
 2021,Grenada,ODA Loans,4.25,4.122301
 2021,Saint Vincent and the Grenadines,ODA Loans,21.142367,20.507105
 2021,"North of Sahara, regional",ODA Grants,0.01891,0.018563
+2021,Cameroon,Private Development Finance,0.035478,0.033214
+2021,Côte d'Ivoire,Private Development Finance,0.003548,0.003331
+2021,"America, regional",Private Development Finance,0.402215,0.38091
 2021,Wallis and Futuna,ODA Grants,0.173297,0.158652
 2021,Morocco,ODA Loans,59.129612,54.13276
 2021,Mauritius,ODA Loans,0,0
@@ -926,6 +1319,33 @@ year,recipient_name,flow_name,usd_disbursement,usd_disbursement_deflated
 2021,Thailand,ODA Loans,0,0
 2021,Peru,ODA Loans,0,0
 2021,"Eastern Africa, regional",ODA Grants,0.291083,0.281341
+2021,"Africa, regional",Private Development Finance,0.1,0.107041
+2021,Viet Nam,Other Official Flows (non Export Credit),0,0
+2021,Jordan,Other Official Flows (non Export Credit),270.350672,262.227489
+2021,Tunisia,Other Official Flows (non Export Credit),215.894923,209.407962
+2021,Angola,Other Official Flows (non Export Credit),112.555588,109.173649
+2021,Bosnia and Herzegovina,Other Official Flows (non Export Credit),13.432983,13.029365
+2021,Grenada,Other Official Flows (non Export Credit),0,0
+2021,Saint Lucia,Other Official Flows (non Export Credit),0,0
+2021,Iraq,Other Official Flows (non Export Credit),5.929166,5.751013
+2021,Eswatini,Other Official Flows (non Export Credit),4.788,4.644136
+2021,North Macedonia,Other Official Flows (non Export Credit),22.689174,22.007436
+2021,Armenia,Other Official Flows (non Export Credit),0,0
+2021,Dominican Republic,Other Official Flows (non Export Credit),5.864489,5.68828
+2021,Mauritius,Other Official Flows (non Export Credit),0,0
+2021,Antigua and Barbuda,Other Official Flows (non Export Credit),0,0
+2021,Ukraine,Other Official Flows (non Export Credit),221.485809,214.83086
+2021,Congo,Other Official Flows (non Export Credit),4.362905,4.231813
+2021,Cameroon,Other Official Flows (non Export Credit),1.167729,1.132643
+2021,Papua New Guinea,Other Official Flows (non Export Credit),0,0
+2021,Iran,Other Official Flows (non Export Credit),0,0
+2021,Saint Vincent and the Grenadines,Other Official Flows (non Export Credit),0,0
+2021,Lebanon,Other Official Flows (non Export Credit),0.615,0.596521
+2021,Belarus,Other Official Flows (non Export Credit),0,0
+2021,Sri Lanka,Other Official Flows (non Export Credit),0.443497,0.430171
+2021,Türkiye,Other Official Flows (non Export Credit),75.353893,73.089747
+2021,Costa Rica,Other Official Flows (non Export Credit),30,29.098595
+2021,Botswana,Other Official Flows (non Export Credit),42.5,41.223009
 2021,Ethiopia,ODA Loans,24.015697,23.294102
 2021,Mali,ODA Loans,0.030887,0.029959
 2021,Ghana,ODA Loans,58.275143,56.524159
@@ -984,9 +1404,32 @@ year,recipient_name,flow_name,usd_disbursement,usd_disbursement_deflated
 2022,Egypt,ODA Loans,0,0
 2022,"Middle East, regional",ODA Grants,16.223844,16.223844
 2022,Yemen,ODA Loans,0.122581,0.122581
+2022,Ukraine,Private Development Finance,0.105111,0.105111
+2022,Brazil,Private Development Finance,0.340977,0.340977
+2022,"Bilateral, unspecified",Private Development Finance,15.986153,15.986153
+2022,"South of Sahara, regional",Private Development Finance,0.247453,0.247453
+2022,"Far East Asia, regional",Private Development Finance,0.110294,0.110294
+2022,"America, regional",Private Development Finance,0.18328,0.18328
+2022,Peru,Private Development Finance,0.052866,0.052866
+2022,"North of Sahara, regional",Private Development Finance,0.177926,0.177926
+2022,"Middle East, regional",Private Development Finance,0.125426,0.125426
+2022,Zambia,Private Development Finance,1.423761,1.423761
+2022,Kenya,Private Development Finance,11.185043,11.185043
+2022,Nigeria,Private Development Finance,0.459096,0.459096
+2022,Uganda,Private Development Finance,0.91753,0.91753
+2022,Haiti,Private Development Finance,0.075,0.075
+2022,Colombia,Private Development Finance,0.432,0.432
+2022,Viet Nam,Private Development Finance,0.081649,0.081649
+2022,Ghana,Private Development Finance,0.2028,0.2028
+2022,Tanzania,Private Development Finance,0.0585,0.0585
+2022,Ethiopia,Private Development Finance,0.85,0.85
+2022,Moldova,Private Development Finance,0.548211,0.548211
+2022,India,Private Development Finance,3.465627,3.465627
 2022,Ethiopia,ODA Grants,301.913397,301.913397
 2022,Kyrgyzstan,ODA Grants,25.50812,25.50812
 2022,China (People's Republic of),ODA Grants,2.522832,2.522832
+2022,Botswana,Private Development Finance,0.012861,0.012861
+2022,"Africa, regional",Private Development Finance,0.47822,0.47822
 2022,Uganda,ODA Grants,15.28592,15.28592
 2022,Somalia,ODA Grants,226.014921,226.014921
 2022,"Bilateral, unspecified",ODA Grants,116.947611,116.947611
@@ -1013,9 +1456,18 @@ year,recipient_name,flow_name,usd_disbursement,usd_disbursement_deflated
 2022,Timor-Leste,ODA Grants,7.142547,7.142547
 2022,Marshall Islands,ODA Grants,0.565658,0.565658
 2022,Maldives,ODA Grants,3.576281,3.576281
+2022,Philippines,Other Official Flows (non Export Credit),195.56129,195.56129
 2022,Sri Lanka,ODA Grants,2.10084,2.10084
 2022,Tonga,ODA Grants,5.55538,5.55538
 2022,Uzbekistan,ODA Grants,1.430645,1.430645
+2022,Uzbekistan,Other Official Flows (non Export Credit),355.6,355.6
+2022,Indonesia,Other Official Flows (non Export Credit),172.46936,172.46936
+2022,Pakistan,Other Official Flows (non Export Credit),783.94276,783.94276
+2022,China (People's Republic of),Other Official Flows (non Export Credit),67.638341,67.638341
+2022,Mongolia,Other Official Flows (non Export Credit),22.161212,22.161212
+2022,Fiji,Other Official Flows (non Export Credit),19.98,19.98
+2022,Bangladesh,Other Official Flows (non Export Credit),134.68,134.68
+2022,Sri Lanka,Other Official Flows (non Export Credit),140.753598,140.753598
 2022,Viet Nam,ODA Loans,54.37675,54.37675
 2022,Bangladesh,ODA Loans,64.23562,64.23562
 2022,Armenia,ODA Loans,3.16388,3.16388
@@ -1027,6 +1479,9 @@ year,recipient_name,flow_name,usd_disbursement,usd_disbursement_deflated
 2022,Indonesia,ODA Loans,0,0
 2022,Cambodia,ODA Loans,47.7026,47.7026
 2022,Maldives,ODA Loans,0,0
+2022,South Africa,Private Development Finance,2.496762,2.496762
+2022,Sudan,Private Development Finance,0.063098,0.063098
+2022,Afghanistan,Private Development Finance,0.555022,0.555022
 2022,Burkina Faso,ODA Grants,74.476511,74.476511
 2022,Cambodia,ODA Grants,15.007918,15.007918
 2022,Cabo Verde,ODA Grants,0.643103,0.643103
@@ -1074,6 +1529,9 @@ year,recipient_name,flow_name,usd_disbursement,usd_disbursement_deflated
 2022,Liberia,ODA Grants,2.173595,2.173595
 2022,"Caribbean & Central America, regional",ODA Grants,1.93718,1.93718
 2022,"South of Sahara, regional",ODA Grants,62.148495,62.148495
+2022,Madagascar,Private Development Finance,0.050618,0.050618
+2022,Nepal,Private Development Finance,0.023983,0.023983
+2022,Guatemala,Private Development Finance,0.052582,0.052582
 2022,Guinea-Bissau,ODA Grants,2.601745,2.601745
 2022,Iraq,ODA Grants,21.887159,21.887159
 2022,Yemen,ODA Grants,265.432156,265.432156
@@ -1083,6 +1541,12 @@ year,recipient_name,flow_name,usd_disbursement,usd_disbursement_deflated
 2022,Malaysia,ODA Grants,1.187853,1.187853
 2022,"Western Africa, regional",ODA Grants,4.11006,4.11006
 2022,Suriname,ODA Grants,0.98609,0.98609
+2022,Jordan,Other Official Flows (non Export Credit),160.79284,160.79284
+2022,Georgia,Other Official Flows (non Export Credit),34.142239,34.142239
+2022,Egypt,Other Official Flows (non Export Credit),112.63863,112.63863
+2022,Tajikistan,Other Official Flows (non Export Credit),0,0
+2022,Montenegro,Other Official Flows (non Export Credit),0,0
+2022,Albania,Other Official Flows (non Export Credit),8.01317,8.01317
 2022,Tunisia,ODA Grants,45.136717,45.136717
 2022,Argentina,ODA Grants,1.045406,1.045406
 2022,Sao Tome and Principe,ODA Grants,2.638209,2.638209
@@ -1101,6 +1565,19 @@ year,recipient_name,flow_name,usd_disbursement,usd_disbursement_deflated
 2022,Morocco,ODA Grants,14.671665,14.671665
 2022,Guyana,ODA Grants,1.144247,1.144247
 2022,Turkmenistan,ODA Grants,0.406178,0.406178
+2022,Kyrgyzstan,Private Development Finance,0.2,0.2
+2022,Zimbabwe,Private Development Finance,1.065603,1.065603
+2022,Cambodia,Private Development Finance,0.104745,0.104745
+2022,Morocco,Private Development Finance,0.191555,0.191555
+2022,Tunisia,Private Development Finance,0.400833,0.400833
+2022,Lebanon,Private Development Finance,0.083333,0.083333
+2022,Jordan,Private Development Finance,0.262766,0.262766
+2022,China (People's Republic of),Private Development Finance,0.647,0.647
+2022,"Asia, regional",Private Development Finance,0.079515,0.079515
+2022,"Western Africa, regional",Private Development Finance,0.075,0.075
+2022,"Southern Africa, regional",Private Development Finance,0.075,0.075
+2022,"Middle Africa, regional",Private Development Finance,0.075,0.075
+2022,"Eastern Africa, regional",Private Development Finance,0.075,0.075
 2022,Libya,ODA Grants,0.631198,0.631198
 2022,Cameroon,ODA Loans,24.033422,24.033422
 2022,Benin,ODA Loans,0.55977,0.55977
@@ -1112,6 +1589,7 @@ year,recipient_name,flow_name,usd_disbursement,usd_disbursement_deflated
 2022,Zambia,ODA Loans,71.81297,71.81297
 2022,Togo,ODA Loans,0.48385,0.48385
 2022,Burundi,ODA Grants,15.007269,15.007269
+2022,Tunisia,Other Official Flows (non Export Credit),166.67532,166.67532
 2022,Viet Nam,ODA Grants,10.707612,10.707612
 2022,Paraguay,ODA Grants,12.483872,12.483872
 2022,Comoros,ODA Grants,0.885612,0.885612
@@ -1141,9 +1619,43 @@ year,recipient_name,flow_name,usd_disbursement,usd_disbursement_deflated
 2022,Djibouti,ODA Grants,5.373178,5.373178
 2022,Namibia,ODA Grants,0.688686,0.688686
 2022,Papua New Guinea,ODA Grants,0.442003,0.442003
+2022,Dominican Republic,Other Official Flows (non Export Credit),16.684985,16.684985
+2022,Ecuador,Other Official Flows (non Export Credit),382.275167,382.275167
+2022,Panama,Other Official Flows (non Export Credit),36.926246,36.926246
+2022,Guatemala,Other Official Flows (non Export Credit),6.298,6.298
+2022,India,Other Official Flows (non Export Credit),5.38886,5.38886
+2022,Argentina,Other Official Flows (non Export Credit),220.036914,220.036914
+2022,Colombia,Other Official Flows (non Export Credit),165,165
+2022,Bosnia and Herzegovina,Other Official Flows (non Export Credit),0.56955,0.56955
+2022,Morocco,Other Official Flows (non Export Credit),163.54378,163.54378
+2022,Brazil,Other Official Flows (non Export Credit),883.244911,883.244911
 2022,Honduras,ODA Loans,36.515,36.515
+2022,Ukraine,Other Official Flows (non Export Credit),196.19595,196.19595
+2022,Armenia,Other Official Flows (non Export Credit),0,0
 2022,India,ODA Loans,2.08878,2.08878
+2022,North Macedonia,Other Official Flows (non Export Credit),13.35063,13.35063
+2022,Türkiye,Other Official Flows (non Export Credit),0.17145,0.17145
+2022,Paraguay,Other Official Flows (non Export Credit),0,0
+2022,Serbia,Other Official Flows (non Export Credit),0.90729,0.90729
+2022,Lebanon,Other Official Flows (non Export Credit),142.86641,142.86641
+2022,Jamaica,Other Official Flows (non Export Credit),0,0
+2022,El Salvador,Other Official Flows (non Export Credit),0,0
+2022,Mauritius,Other Official Flows (non Export Credit),0,0
+2022,Viet Nam,Other Official Flows (non Export Credit),0,0
+2022,Angola,Other Official Flows (non Export Credit),17.33502,17.33502
 2022,Ghana,ODA Loans,62.30794,62.30794
+2022,Grenada,Other Official Flows (non Export Credit),0,0
+2022,Saint Lucia,Other Official Flows (non Export Credit),0,0
+2022,Iraq,Other Official Flows (non Export Credit),3.07814,3.07814
+2022,Eswatini,Other Official Flows (non Export Credit),4.5,4.5
+2022,Azerbaijan,Other Official Flows (non Export Credit),0,0
+2022,Mexico,Other Official Flows (non Export Credit),1.42851,1.42851
+2022,Peru,Other Official Flows (non Export Credit),1.74085,1.74085
+2022,Congo,Other Official Flows (non Export Credit),4.74776,4.74776
+2022,Cameroon,Other Official Flows (non Export Credit),9.36034,9.36034
+2022,Costa Rica,Other Official Flows (non Export Credit),33,33
+2022,South Africa,Other Official Flows (non Export Credit),277.5,277.5
+2022,Moldova,Other Official Flows (non Export Credit),10.25916,10.25916
 2022,Bosnia and Herzegovina,ODA Loans,0,0
 2022,Tanzania,ODA Loans,48.27762,48.27762
 2022,Senegal,ODA Loans,71.65757,71.65757
@@ -1217,6 +1729,8 @@ year,recipient_name,flow_name,usd_disbursement,usd_disbursement_deflated
 2022,Peru,ODA Loans,0,0
 2022,Venezuela,ODA Grants,0.384127,0.384127
 2022,Saint Vincent and the Grenadines,ODA Grants,0.002106,0.002106
+2022,Belize,Other Official Flows (non Export Credit),0,0
+2022,Suriname,Other Official Flows (non Export Credit),4.540296,4.540296
 2022,Guyana,ODA Loans,3.969258,3.969258
 2022,"America, regional",ODA Loans,32.817252,32.817252
 2022,Brazil,ODA Loans,368.072352,368.072352

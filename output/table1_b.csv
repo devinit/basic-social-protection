@@ -2,7 +2,7 @@ year,purpose_code,recipient_name,climate_adaptation,usd_disbursement,usd_disburs
 2018,16010,Malawi,2,3.161915,3.187597
 2018,16010,"Bilateral, unspecified",2,0.999908,1.043065
 2018,16010,"South of Sahara, regional",2,15.122801,15.751338
-2018,16010,Pakistan,2,0.321512,0.334798
+2018,16010,Pakistan,2,1.929525,2.00844
 2019,16010,"Bilateral, unspecified",2,0.623741,0.662779
 2019,16010,"South of Sahara, regional",2,0.336525,0.371542
 2019,16010,Bangladesh,2,0.058543,0.069616
@@ -27,7 +27,7 @@ year,purpose_code,recipient_name,climate_adaptation,usd_disbursement,usd_disburs
 2020,16010,Serbia,2,0.048195,0.046382
 2020,16010,Congo,2,0.005037,0.004848
 2021,16010,Bangladesh,2,0.047315,0.048841
-2021,16010,"Bilateral, unspecified",2,0.0469,0.048338
+2021,16010,"Bilateral, unspecified",2,1.389142,1.308508
 2021,16010,Dominican Republic,2,0.002022,0.001873
 2021,16010,Senegal,2,0.054991,0.050927
 2021,16010,Angola,2,0.070956,0.064975
@@ -40,9 +40,10 @@ year,purpose_code,recipient_name,climate_adaptation,usd_disbursement,usd_disburs
 2021,16010,Madagascar,2,0.266083,0.243597
 2021,16010,Mauritania,2,0,0
 2021,16010,Jordan,2,0.6356,0.532318
+2022,16010,"Bilateral, unspecified",2,0.187215,0.187215
+2022,16010,Sudan,2,0.076385,0.076385
 2022,16010,Ukraine,2,0.003065,0.003065
 2022,16010,Mauritania,2,2.629088,2.629088
-2022,16010,"Bilateral, unspecified",2,0.045244,0.045244
 2022,16010,Madagascar,2,0.016778,0.016778
 2022,16010,Burkina Faso,2,0,0
 2022,16010,"Oceania, regional",2,0.00035,0.00035
@@ -75,7 +76,6 @@ year,purpose_code,recipient_name,climate_adaptation,usd_disbursement,usd_disburs
 2022,16010,South Sudan,2,3.394319,3.394319
 2022,16010,Bangladesh,2,0.109319,0.109319
 2022,16010,Kenya,2,0.006392,0.006392
-2022,16010,Sudan,2,0.013287,0.013287
 2022,16010,Malawi,2,0.674156,0.674156
 2022,16010,"Africa, regional",2,0,0
 2022,16010,"South of Sahara, regional",2,0.102462,0.102462
