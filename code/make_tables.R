@@ -216,19 +216,22 @@ non_protection = non_protection %>%
 
 non_protection$text = clean_text(non_protection$text)
 keywords = read.csv("input/keywords.csv")
-keywords$query = quotemeta(clean_text(keywords$query))
+keywords$clean_query = quotemeta(clean_text(keywords$query))
 all_keyword_regex = paste0(
   "\\b",
-  paste(keywords$query, collapse="\\b|\\b"),
+  paste(keywords$clean_query, collapse="\\b|\\b"),
   "\\b"
 )
 non_protection$keyword_match = grepl(all_keyword_regex, non_protection$text, perl=T, ignore.case = T)
 non_protection_matches = subset(non_protection, keyword_match)
 
-for(keyword in keywords$query){
-  message(keyword)
-  keyword_regex = paste0("\\b", keyword, "\\b")
-  non_protection[,keyword] = grepl(keyword_regex, non_protection$text, perl=T, ignore.case = T)
+for(i in 1:nrow(keywords)){
+  row = keywords[i,]
+  query = row$query
+  clean_query = row$clean_query
+  message(query)
+  keyword_regex = paste0("\\b", clean_query, "\\b")
+  non_protection[,query] = grepl(keyword_regex, non_protection$text, perl=T, ignore.case = T)
 }
 
 non_protection_matches[,c("keyword_match", "text")] = NULL
