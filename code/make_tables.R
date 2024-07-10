@@ -231,7 +231,7 @@ for(i in 1:nrow(keywords)){
   clean_query = row$clean_query
   message(query)
   keyword_regex = paste0("\\b", clean_query, "\\b")
-  non_protection[,query] = grepl(keyword_regex, non_protection$text, perl=T, ignore.case = T)
+  non_protection_matches[,query] = grepl(keyword_regex, non_protection_matches$text, perl=T, ignore.case = T)
 }
 
 non_protection_matches[,c("keyword_match", "text")] = NULL
