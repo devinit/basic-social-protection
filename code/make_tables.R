@@ -209,7 +209,7 @@ textual_cols = c(
   "long_description"
 )
 
-non_protection = subset(oda, purpose_code!=16010)
+non_protection = subset(crs, purpose_code!=16010)
 
 non_protection = non_protection %>%
   unite(text, all_of(textual_cols), sep=" ", na.rm=T, remove=F)
