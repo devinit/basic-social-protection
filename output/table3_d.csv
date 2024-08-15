@@ -1,0 +1,450 @@
+year,donor_name,flow_name,usd_disbursement,usd_disbursement_deflated
+2018,Austria,ODA Grants,15.751497,15.734507
+2018,Denmark,ODA Grants,15.443098,15.930542
+2018,Japan,ODA Grants,71.4208500000001,60.998266
+2018,Japan,ODA Loans,0,0
+2018,Dutch Postcode Lottery,Private Development Finance,3.06562,3.116727
+2018,People's Postcode Lottery,Private Development Finance,0.86888,0.904993
+2018,Bernard van Leer Foundation,Private Development Finance,6.575637,6.685257
+2018,Conrad N. Hilton Foundation,Private Development Finance,3.055,3.523359
+2018,John D. and Catherine T. MacArthur Foundation,Private Development Finance,3.532002,4.073484
+2018,William and Flora Hewlett Foundation,Private Development Finance,0.69,0.795783
+2018,Ford Foundation,Private Development Finance,4.368367,5.038078
+2018,Caribbean Development Bank,ODA Grants,0,0
+2018,Sweden,ODA Grants,16.59741,16.228221
+2018,Ireland,ODA Grants,23.396254,22.971284
+2018,Norwegian Postcode Lottery,Private Development Finance,0.048685,0.059903
+2018,United Kingdom,ODA Grants,233.632075,243.342339
+2018,Türkiye,ODA Grants,6.25491,6.039945
+2018,European Bank for Reconstruction and Development,Other Official Flows (non Export Credit),67.10138,69.84006
+2018,Australia,ODA Grants,19.915658,21.909336
+2018,UNICEF,ODA Grants,64.085752,66.7013440000001
+2018,Food and Agriculture Organisation,ODA Grants,14.1633,14.741363
+2018,Netherlands,ODA Grants,4.824479,4.904904
+2018,Swedish Postcode Lottery,Private Development Finance,2.095416,2.048807
+2018,Children's Investment Fund Foundation,Private Development Finance,0.187396,0.195184
+2018,Wellcome Trust,Private Development Finance,0.079365,0.082664
+2018,Norway,ODA Grants,8.098801,9.964868
+2018,Finland,ODA Grants,8.407881,8.32082
+2018,Italy,ODA Grants,26.176236,24.940444
+2018,Bill & Melinda Gates Foundation,Private Development Finance,0.507058,0.584795
+2018,International Labour Organisation,ODA Grants,14.767853,15.370591
+2018,UNDP,ODA Grants,8.653489,9.006673
+2018,Charity Projects Ltd (Comic Relief),Private Development Finance,2.359013,2.457061
+2018,Rockefeller Foundation,Private Development Finance,1.182796,1.364127
+2018,Oak Foundation,Private Development Finance,0.433806,0.457426
+2018,Slovenia,ODA Grants,0.000679,0.000685
+2018,Poland,ODA Grants,1.250127,1.266026
+2018,Arab Fund (AFESD),ODA Grants,0.457106,0.475762
+2018,Arab Fund (AFESD),ODA Loans,5.074528,5.28164
+2018,OPEC Fund for International Development,ODA Grants,0.085,0.088469
+2018,Hungary,ODA Grants,0.334518,0.329659
+2018,Saudi Arabia,ODA Loans,0,0
+2018,Saudi Arabia,ODA Grants,1,1.040814
+2018,Canada,ODA Grants,7.573462,8.93399700000001
+2018,United Arab Emirates,ODA Grants,13.95363,14.523136
+2018,Korea,ODA Grants,12.878273,11.499505
+2018,Asian Development Bank,ODA Loans,37.404342,38.930965
+2018,Luxembourg,ODA Grants,4.530922,4.72091
+2018,EU Institutions,ODA Grants,174.128396,171.9927
+2018,OSCE,ODA Grants,2.930816,3.050434
+2018,Croatia,ODA Grants,0.035906,0.037372
+2018,Asian Development Bank,Other Official Flows (non Export Credit),125.846164,130.982454
+2018,Asian Development Bank,ODA Grants,3.354864,3.49179
+2018,United Arab Emirates,ODA Loans,0,0
+2018,Lithuania,ODA Grants,0.042437,0.049149
+2018,Islamic Development Bank,ODA Grants,0,0
+2018,Korea,ODA Loans,0,0
+2018,Estonia,ODA Grants,0.021244,0.023848
+2018,Czechia,ODA Grants,0.995951,1.126498
+2018,African Development Fund,ODA Loans,0,0
+2018,Spain,ODA Grants,5.348981,5.228046
+2018,Inter-American Development Bank,Other Official Flows (non Export Credit),1099.493191,1144.367953
+2018,Inter-American Development Bank,ODA Loans,99.58,103.644262
+2018,Inter-American Development Bank,ODA Grants,3.894223,4.053164
+2018,Inter-American Development Bank,Equity Investment,0.017815,0.018542
+2018,International Development Association,ODA Loans,638.404587,664.460463
+2018,Latvia,ODA Grants,0.003622,0.004019
+2018,International Bank for Reconstruction and Development,Other Official Flows (non Export Credit),1138.726253,1185.202277
+2018,International Development Association,ODA Grants,174.716556,181.847447
+2018,Switzerland,ODA Grants,0.682208,0.719345
+2018,Portugal,ODA Grants,1.073513,1.062223
+2018,New Zealand,ODA Grants,0.470686,0.490046
+2018,Germany,ODA Grants,91.159286,91.65535
+2018,Germany,ODA Loans,0,0
+2018,Belgium,ODA Grants,1.951634,1.964397
+2018,United States,ODA Grants,179.48954,207.006863
+2018,Kuwait,ODA Loans,0,0
+2018,France,ODA Grants,8.459026,8.197603
+2018,Global Environment Facility,ODA Grants,1.258664,1.310037
+2018,Laudes Foundation,Private Development Finance,0.38301,0.403864
+2018,Open Society Foundations,Private Development Finance,0.85595,0.987174
+2018,Fondation Botnar,Private Development Finance,0.137634,0.145128
+2019,Greece,ODA Grants,0.030225,0.030931
+2019,Austria,ODA Grants,7.230989,7.495917
+2019,Sweden,ODA Grants,27.7478,28.793349
+2019,Poland,ODA Grants,1.177384,1.230021
+2019,Germany,ODA Grants,84.068231,87.2521099999999
+2019,Germany,ODA Loans,0,0
+2019,UNICEF,ODA Grants,55.805,59.113977
+2019,Canada,ODA Grants,9.005499,10.708849
+2019,International Labour Organisation,ODA Grants,18.902276,20.02308
+2019,Türkiye,ODA Grants,4.918317,4.892034
+2019,Bernard van Leer Foundation,Private Development Finance,2.165985,2.253955
+2019,Dutch Postcode Lottery,Private Development Finance,3.436694,3.576274
+2019,Australia,ODA Grants,17.466551,20.011397
+2019,Luxembourg,ODA Grants,2.151657,2.348702
+2019,Korea,ODA Grants,13.724789,13.090527
+2019,Portugal,ODA Grants,1.470795,1.507959
+2019,Lithuania,ODA Grants,0.013901,0.016516
+2019,Asian Development Bank,ODA Grants,5.808568,6.152986
+2019,Asian Development Bank,ODA Loans,7.952747,8.424307
+2019,Asian Development Bank,Other Official Flows (non Export Credit),390.07779,413.207566
+2019,Saudi Arabia,ODA Loans,0,0
+2019,UNDP,ODA Grants,16.05084,17.002579
+2019,Food and Agriculture Organisation,ODA Grants,16.557128,17.538888
+2019,Ireland,ODA Grants,8.900524,8.938506
+2019,United Arab Emirates,ODA Grants,4.289923,4.544289
+2019,Czechia,ODA Grants,2.734214,3.141413
+2019,OSCE,ODA Grants,2.805687,2.972051
+2019,European Bank for Reconstruction and Development,Other Official Flows (non Export Credit),22.430019,23.760014
+2019,Inter-American Development Bank,ODA Loans,76.058799,80.568727
+2019,Inter-American Development Bank,Other Official Flows (non Export Credit),361.00026,382.405878
+2019,Inter-American Development Bank,ODA Grants,0.87202,0.923728
+2019,Bill & Melinda Gates Foundation,Private Development Finance,0.932955,1.058223
+2019,Ford Foundation,Private Development Finance,1.539828,1.746581
+2019,Charity Projects Ltd (Comic Relief),Private Development Finance,2.163657,2.306685
+2019,Norway,ODA Grants,9.23074,12.352156
+2019,Latvia,ODA Grants,0.002983,0.003348
+2019,Finland,ODA Grants,3.472398,3.569556
+2019,Swedish Postcode Lottery,Private Development Finance,4.26358,4.424234
+2019,People's Postcode Lottery,Private Development Finance,0.753345,0.803144
+2019,Laudes Foundation,Private Development Finance,0.422381,0.453035
+2019,Oak Foundation,Private Development Finance,0.443529,0.475721
+2019,Norwegian Postcode Lottery,Private Development Finance,1.015824,1.359329
+2019,Children's Investment Fund Foundation,Private Development Finance,0.061021,0.065055
+2019,Rockefeller Foundation,Private Development Finance,3.5,3.969946
+2019,William and Flora Hewlett Foundation,Private Development Finance,0.04,0.045371
+2019,John D. and Catherine T. MacArthur Foundation,Private Development Finance,4.540315,5.149943
+2019,Iceland,ODA Grants,0.049069,0.053672
+2019,OPEC Fund for International Development,ODA Grants,0.014973,0.015861
+2019,Inter-American Development Bank,Equity Investment,0.113276,0.119993
+2019,Islamic Development Bank,ODA Grants,0.593759,0.628966
+2019,Netherlands,ODA Grants,20.216178,21.037235
+2019,Arab Fund (AFESD),ODA Loans,0,0
+2019,Arab Fund (AFESD),ODA Grants,0.539474,0.571462
+2019,Slovenia,ODA Grants,0.061569,0.063949
+2019,United Arab Emirates,ODA Loans,0,0
+2019,Caribbean Development Bank,ODA Grants,0,0
+2019,Korea,ODA Loans,0,0
+2019,Saudi Arabia,ODA Grants,0.37341,0.395551
+2019,Croatia,ODA Grants,0.292197,0.309523
+2019,Hungary,ODA Grants,0.121073,0.122454
+2019,New Zealand,ODA Grants,1.005321,1.072997
+2019,IKEA Foundation,Private Development Finance,2.618748,2.725105
+2019,Belgium,ODA Grants,2.201589,2.295705
+2019,EU Institutions,ODA Grants,145.602352,149.068507
+2019,Spain,ODA Grants,4.271907,4.339206
+2019,Denmark,ODA Grants,24.95578,26.911613
+2019,United Kingdom,ODA Grants,240.515058,256.413996
+2019,United Kingdom,Equity Investment,3.964445,4.22651
+2019,Global Environment Facility,ODA Grants,1.215108,1.287159
+2019,Italy,ODA Grants,24.323033,24.20579
+2019,Switzerland,ODA Grants,1.473883,1.58086
+2019,Japan,ODA Grants,99.1516360000001,83.0875270000001
+2019,Japan,ODA Loans,0,0
+2019,France,ODA Grants,2.797671,2.822368
+2019,United States,ODA Grants,113.577965,128.828086
+2019,International Development Association,ODA Grants,405.18162,429.206985
+2019,International Bank for Reconstruction and Development,Other Official Flows (non Export Credit),1200.335565,1271.509816
+2019,International Development Association,ODA Loans,752.511491,797.131883
+2019,Russia,ODA Grants,10.77,0
+2019,Bulgaria,ODA Grants,1.12,1.186411
+2019,UBS Optimus Foundation,Private Development Finance,0.971498,1.042011
+2019,Open Society Foundations,Private Development Finance,1.757657,1.993659
+2019,Italy,ODA Loans,0,0
+2020,Bulgaria,ODA Grants,0.74,0.76064
+2020,Iceland,ODA Grants,0.044425,0.051573
+2020,Lithuania,ODA Grants,0.005698,0.006527
+2020,Austria,ODA Grants,9.203859,9.12640600000001
+2020,Türkiye,ODA Grants,3.109313,3.330291
+2020,Arab Fund (AFESD),ODA Loans,4.581973,4.709773
+2020,Arab Fund (AFESD),ODA Grants,0.323319,0.332336
+2020,UNICEF,ODA Grants,47.6470000000001,48.97598
+2020,United Arab Emirates,ODA Loans,0,0
+2020,United Arab Emirates,ODA Grants,1.662811,1.709193
+2020,Swedish Postcode Lottery,Private Development Finance,2.139156,2.118962
+2020,Bill & Melinda Gates Foundation,Private Development Finance,1.244067,1.392716
+2020,Laudes Foundation,Private Development Finance,1.669488,1.704413
+2020,John D. and Catherine T. MacArthur Foundation,Private Development Finance,4.768642,5.338428
+2020,Michael & Susan Dell Foundation,Private Development Finance,1.051957,1.177651
+2020,UBS Optimus Foundation,Private Development Finance,5.257731,5.367728
+2020,People's Postcode Lottery,Private Development Finance,0.651936,0.658116
+2020,Jacobs Foundation,Private Development Finance,0.01065,0.010872
+2020,William and Flora Hewlett Foundation,Private Development Finance,0.91,1.018732
+2020,Dutch Postcode Lottery,Private Development Finance,3.454804,3.464852
+2020,H&M Foundation,Private Development Finance,1.785617,1.76876
+2020,Norwegian Postcode Lottery,Private Development Finance,2.793981,4.103226
+2020,Oak Foundation,Private Development Finance,1.858204,1.89708
+2020,Conrad N. Hilton Foundation,Private Development Finance,1.55,1.735204
+2020,Ford Foundation,Private Development Finance,6.650672,7.445328
+2020,Saudi Arabia,ODA Grants,7.193968,7.394621
+2020,Saudi Arabia,ODA Loans,0,0
+2020,International Labour Organisation,ODA Grants,16.708338,17.174362
+2020,UNDP,ODA Grants,11.880663,12.212044
+2020,Qatar,ODA Grants,0.416982,0.428612
+2020,Norway,ODA Grants,17.365296,25.502581
+2020,Finland,ODA Grants,5.785417,5.748088
+2020,Bernard van Leer Foundation,Private Development Finance,13.05879,13.096773
+2020,Sweden,ODA Grants,79.101165,78.354365
+2020,"Omidyar Network Fund, Inc.",Private Development Finance,0.25,0.279871
+2020,Carnegie Corporation of New York,Private Development Finance,0.2,0.223897
+2020,Open Society Foundations,Private Development Finance,6.815944,7.630354
+2020,Mastercard Foundation,Private Development Finance,0.05,0.059726
+2020,Charity Projects Ltd (Comic Relief),Private Development Finance,1.269723,1.28176
+2020,Central American Bank for Economic Integration,Other Official Flows (non Export Credit),2.308141,2.372519
+2020,Central American Bank for Economic Integration,ODA Loans,149.85,154.029606
+2020,United Nations Conference on Trade and Development,ODA Grants,0.03,0.030837
+2020,Asian Development Bank,ODA Grants,82.086554,84.376104
+2020,Asian Development Bank,ODA Loans,477.445362,490.762235
+2020,Asian Development Bank,Other Official Flows (non Export Credit),3558.225613,3657.471393
+2020,Japan,ODA Grants,72.100399,58.600808
+2020,Japan,ODA Loans,0,0
+2020,African Development Bank,Other Official Flows (non Export Credit),329.829213,339.028787
+2020,Ireland,ODA Grants,24.215487,23.971524
+2020,EU Institutions,ODA Grants,434.942414,429.393222
+2020,Croatia,ODA Grants,0.072881,0.074913
+2020,Global Environment Facility,ODA Grants,2.694548,2.769704
+2020,Inter-American Development Bank,Other Official Flows (non Export Credit),1176.352965,1209.163721
+2020,Inter-American Development Bank,ODA Loans,18.305,18.815563
+2020,Inter-American Development Bank,ODA Grants,2.527041,2.597526
+2020,Inter-American Development Bank,Equity Investment,0.054943,0.056475
+2020,Development Bank of Latin America,Other Official Flows (non Export Credit),0,0
+2020,Czechia,ODA Grants,1.792057,1.997878
+2020,Spain,ODA Grants,5.975612,5.895313
+2020,European Bank for Reconstruction and Development,Other Official Flows (non Export Credit),37.184084,38.22122
+2020,Luxembourg,ODA Grants,0.615826,0.630892
+2020,Poland,ODA Grants,0.984984,1.002029
+2020,Denmark,ODA Grants,24.888645,25.578795
+2020,Canada,ODA Grants,8.376199,10.005524
+2020,Australia,ODA Grants,15.515351,17.81056
+2020,United Kingdom,ODA Grants,281.086105,283.750677
+2020,France,ODA Grants,19.59423,18.881027
+2020,France,ODA Loans,569.80057,549.06012
+2020,Italy,ODA Grants,18.989889,18.275727
+2020,Netherlands,ODA Grants,23.884587,23.954057
+2020,Slovak Republic,ODA Grants,0.03899,0.039595
+2020,New Zealand,ODA Grants,2.980999,3.163341
+2020,United Kingdom,Equity Investment,9.865183,9.9587
+2020,Hungary,ODA Grants,0.720463,0.725817
+2020,Switzerland,ODA Grants,11.170414,11.40411
+2020,Belgium,ODA Grants,3.852108,3.883594
+2020,Italy,ODA Loans,0,0
+2020,Portugal,ODA Grants,1.808212,1.785342
+2020,Korea,ODA Grants,11.781603,11.204974
+2020,Korea,ODA Loans,0,0
+2020,United States,ODA Grants,121.958798,136.531157
+2020,International Bank for Reconstruction and Development,Other Official Flows (non Export Credit),3691.645187,3794.612294
+2020,International Development Association,ODA Loans,1652.847759,1698.94887
+2020,Germany,ODA Grants,344.894189,345.154563
+2020,Germany,ODA Loans,284.900285,285.115359
+2020,International Development Association,ODA Grants,714.461364,734.389074
+2020,International Development Association,Other Official Flows (non Export Credit),263.865788,271.225515
+2020,Food and Agriculture Organisation,ODA Grants,5.112747,5.255351
+2020,Rockefeller Foundation,Private Development Finance,3.825,4.282033
+2021,Norway,ODA Grants,26.380455,30.195986
+2021,Sweden,ODA Grants,103.921195,93.416196
+2021,European Bank for Reconstruction and Development,Other Official Flows (non Export Credit),7.020955,6.809998
+2021,Türkiye,ODA Grants,3.39191,3.557487
+2021,Iceland,ODA Grants,0.180912,0.184923
+2021,Luxembourg,ODA Grants,0.699806,0.660844
+2021,Canada,ODA Grants,30.436292,31.417783
+2021,Denmark,ODA Grants,51.568683,49.526913
+2021,International Labour Organisation,ODA Grants,26.116816,25.332089
+2021,Joint Sustainable Development Goals Fund,ODA Grants,30.66118,29.739913
+2021,Poland,ODA Grants,0.75192,0.718265
+2021,Croatia,ODA Grants,0,0
+2021,Asian Development Bank,Other Official Flows (non Export Credit),875.935032,849.615953
+2021,Asian Development Bank,ODA Grants,7.676801,7.446137
+2021,Central American Bank for Economic Integration,ODA Grants,0.20425,0.198113
+2021,Asian Development Bank,ODA Loans,71.890593,69.730507
+2021,Czechia,ODA Grants,2.125787,2.142444
+2021,United Nations Industrial Development Organization,ODA Grants,0.07001,0.067907
+2021,Bulgaria,ODA Grants,0.74,0.717765
+2021,Lithuania,ODA Grants,0.014559,0.015082
+2021,Qatar,ODA Grants,1.252018,1.214398
+2021,COVID-19 Response and Recovery Multi-Partner Trust Fund,ODA Grants,8.7276,8.465362
+2021,Greece,ODA Grants,0.094607,0.090539
+2021,Korea,ODA Loans,0.816866,0.733147
+2021,Korea,ODA Grants,8.209539,7.36815
+2021,Saudi Arabia,ODA Loans,0,0
+2021,Saudi Arabia,ODA Grants,4.446663,4.313055
+2021,Australia,ODA Grants,48.040848,47.882732
+2021,Dutch Postcode Lottery,Private Development Finance,3.550734,3.333622
+2021,Swedish Postcode Lottery,Private Development Finance,2.088167,1.877082
+2021,Mastercard Foundation,Private Development Finance,0.25,0.258062
+2021,Laudes Foundation,Private Development Finance,1.111463,1.091059
+2021,IKEA Foundation,Private Development Finance,1.182592,1.110282
+2021,H&M Foundation,Private Development Finance,3.310402,2.975766
+2021,Oak Foundation,Private Development Finance,4.115282,4.039741
+2021,Charity Projects Ltd (Comic Relief),Private Development Finance,0.323246,0.304622
+2021,Children's Investment Fund Foundation,Private Development Finance,0.331487,0.312387
+2021,Conrad N. Hilton Foundation,Private Development Finance,4.513,4.830761
+2021,Ford Foundation,Private Development Finance,3.441925,3.684264
+2021,David and Lucile Packard Foundation,Private Development Finance,0.45,0.481685
+2021,John D. and Catherine T. MacArthur Foundation,Private Development Finance,1.56262,1.672645
+2021,La Caixa Banking Foundation,Private Development Finance,1.569714,1.453707
+2021,Wellcome Trust,Private Development Finance,0.224259,0.211338
+2021,Spain,ODA Grants,4.68888,4.342364
+2021,Citi Foundation,Private Development Finance,0.765,0.818863
+2021,Norwegian Postcode Lottery,Private Development Finance,4.623231,5.291911
+2021,Bill & Melinda Gates Foundation,Private Development Finance,0.58134,0.622274
+2021,Ireland,ODA Grants,18.767404,17.794225
+2021,Inter-American Development Bank,ODA Loans,74.182811,71.953852
+2021,Italy,ODA Grants,19.761564,18.095999
+2021,Inter-American Development Bank,Other Official Flows (non Export Credit),1994.005526,1934.091961
+2021,New Zealand,ODA Grants,2.74628,2.595619
+2021,Liechtenstein,ODA Grants,0.054705,0.053061
+2021,Monaco,ODA Grants,1.414853,1.295291
+2021,Belgium,ODA Grants,17.731699,16.697191
+2021,Italy,ODA Loans,7.095553,6.497516
+2021,Inter-American Development Bank,ODA Grants,44.281779,42.951253
+2021,Finland,ODA Grants,6.745329,6.320992
+2021,Netherlands,ODA Grants,10.941841,10.272797
+2021,Germany,ODA Grants,237.700182,222.532107
+2021,Germany,ODA Loans,280.880712,262.957205
+2021,EU Institutions,ODA Grants,158.674834,147.605535
+2021,Thailand,ODA Grants,0.25047,0.242944
+2021,United Kingdom,ODA Grants,160.598996,151.345861
+2021,United Kingdom,Equity Investment,8.419142,7.934062
+2021,United States,ODA Grants,109.81507,117.547187
+2021,Caribbean Development Bank,ODA Loans,0,0
+2021,United Arab Emirates,ODA Loans,0,0
+2021,United Arab Emirates,ODA Grants,2.222898,2.156106
+2021,Food and Agriculture Organisation,ODA Grants,8.83219,8.56681
+2021,Development Bank of Latin America,Other Official Flows (non Export Credit),0,0
+2021,Development Bank of Latin America,ODA Grants,0,0
+2021,Slovak Republic,ODA Grants,0.047122,0.04504
+2021,Switzerland,ODA Grants,10.709088,10.512503
+2021,German Postcode Lottery,Private Development Finance,0.153737,0.143927
+2021,Bernard van Leer Foundation,Private Development Finance,6.019675,5.651598
+2021,Hungary,ODA Grants,2.113343,1.968748
+2021,France,ODA Grants,38.06015,34.843814
+2021,France,ODA Loans,211.684011,193.795282
+2021,UNICEF,ODA Grants,45.379,44.015524
+2021,Japan,ODA Grants,143.535364,120.21168
+2021,Austria,ODA Grants,4.662588,4.365338
+2021,UBS Optimus Foundation,Private Development Finance,1.577262,1.54831
+2021,UNDP,ODA Grants,8.54389,8.287174
+2021,Arab Fund (AFESD),ODA Loans,0.869,0.842889
+2021,Arab Fund (AFESD),ODA Grants,0.022,0.021339
+2021,Japan,ODA Loans,273.310418,228.89893
+2021,UNRWA,ODA Grants,0.779119,0.755709
+2021,OSCE,ODA Grants,2.871145,2.784876
+2021,Global Environment Facility,ODA Grants,0.85597,0.830251
+2021,Open Society Foundations,Private Development Finance,0.932326,0.997971
+2021,"Omidyar Network Fund, Inc.",Private Development Finance,0.135,0.144505
+2021,Portugal,ODA Grants,0.701076,0.654602
+2021,International Bank for Reconstruction and Development,Other Official Flows (non Export Credit),3515.051086,3409.434908
+2021,International Development Association,ODA Grants,1042.570801,1011.244836
+2021,International Development Association,ODA Loans,1821.913402,1767.170658
+2021,International Development Association,Other Official Flows (non Export Credit),151.955397,147.389617
+2021,William and Flora Hewlett Foundation,Private Development Finance,1.35,1.445054
+2021,Rockefeller Foundation,Private Development Finance,0.949372,1.016218
+2022,UNRWA,ODA Grants,2.80578,2.80578
+2022,Arab Fund (AFESD),ODA Loans,0.122581,0.122581
+2022,Arab Fund (AFESD),ODA Grants,0.03871,0.03871
+2022,Bernard van Leer Foundation,Private Development Finance,2.107031,2.107031
+2022,Conrad N. Hilton Foundation,Private Development Finance,3.361,3.361
+2022,David and Lucile Packard Foundation,Private Development Finance,0.05,0.05
+2022,John D. and Catherine T. MacArthur Foundation,Private Development Finance,1.096422,1.096422
+2022,Children's Investment Fund Foundation,Private Development Finance,0.251838,0.251838
+2022,Azerbaijan,ODA Grants,6.129359,6.129359
+2022,Bill & Melinda Gates Foundation,Private Development Finance,2.634244,2.634244
+2022,Asian Development Bank,ODA Loans,164.496933,164.496933
+2022,Asian Development Bank,ODA Grants,49.531701,49.531701
+2022,Asian Development Bank,Other Official Flows (non Export Credit),1458.534661,1458.534661
+2022,Dutch Postcode Lottery,Private Development Finance,3.220634,3.220634
+2022,Swedish Postcode Lottery,Private Development Finance,1.771916,1.771916
+2022,People's Postcode Lottery,Private Development Finance,0.369822,0.369822
+2022,Norwegian Postcode Lottery,Private Development Finance,5.36334,5.36334
+2022,Luxembourg,ODA Grants,2.258679,2.258679
+2022,Bulgaria,ODA Grants,0.149882,0.149882
+2022,Slovak Republic,ODA Grants,0.314364,0.314364
+2022,Lithuania,ODA Grants,0.020739,0.020739
+2022,Austria,ODA Grants,14.966162,14.966162
+2022,Central American Bank for Economic Integration,ODA Grants,0,0
+2022,Sweden,ODA Grants,66.371307,66.371307
+2022,COVID-19 Response and Recovery Multi-Partner Trust Fund,ODA Grants,0,0
+2022,La Caixa Banking Foundation,Private Development Finance,0.127183,0.127183
+2022,Finland,ODA Grants,6.536093,6.536093
+2022,Netherlands,ODA Grants,26.856491,26.856491
+2022,Croatia,ODA Grants,0.60585,0.60585
+2022,European Bank for Reconstruction and Development,Other Official Flows (non Export Credit),26.617069,26.617069
+2022,Joint Sustainable Development Goals Fund,ODA Grants,5.072024,5.072024
+2022,Oak Foundation,Private Development Finance,4.097083,4.097083
+2022,Michael & Susan Dell Foundation,Private Development Finance,0.36723,0.36723
+2022,UBS Optimus Foundation,Private Development Finance,1.613751,1.613751
+2022,Fondation Botnar,Private Development Finance,0.191555,0.191555
+2022,Ford Foundation,Private Development Finance,2.679412,2.679412
+2022,Norway,ODA Grants,24.162304,24.162304
+2022,Latvia,ODA Grants,0.02159,0.02159
+2022,Saudi Arabia,ODA Grants,7.597783,7.597783
+2022,Saudi Arabia,ODA Loans,0,0
+2022,African Development Fund,ODA Grants,4.609426,4.609426
+2022,African Development Fund,ODA Loans,0.166212,0.166212
+2022,African Development Bank,Other Official Flows (non Export Credit),0,0
+2022,UNICEF,ODA Grants,50.116,50.116
+2022,IKEA Foundation,Private Development Finance,3.956431,3.956431
+2022,Poland,ODA Grants,0.764232,0.764232
+2022,International Labour Organisation,ODA Grants,20.617943,20.617943
+2022,Liechtenstein,ODA Grants,0.246024,0.246024
+2022,International Bank for Reconstruction and Development,Other Official Flows (non Export Credit),3114.51752,3114.51752
+2022,International Development Association,ODA Loans,1326.24083,1326.24083
+2022,International Development Association,ODA Grants,1129.85623,1129.85623
+2022,International Development Association,Other Official Flows (non Export Credit),28.646,28.646
+2022,Türkiye,ODA Grants,21.841264,21.841264
+2022,Israel,ODA Grants,0.03765,0.03765
+2022,Mastercard Foundation,Private Development Finance,10.836062,10.836062
+2022,Qatar,ODA Grants,0.513476,0.513476
+2022,Monaco,ODA Grants,1.416599,1.416599
+2022,United Nations Conference on Trade and Development,ODA Grants,0.044935,0.044935
+2022,Romania,ODA Grants,0.021333,0.021333
+2022,Development Bank of Latin America,ODA Grants,0,0
+2022,Hungary,ODA Grants,0.126675,0.126675
+2022,Hungary,Private Development Finance,0.002245,0.002245
+2022,Korea,ODA Grants,4.358018,4.358018
+2022,Korea,ODA Loans,0.201326,0.201326
+2022,France,ODA Grants,29.06609,29.06609
+2022,France,ODA Loans,72.598591,72.598591
+2022,Australia,ODA Grants,37.230836,37.230836
+2022,Estonia,ODA Grants,0.014723,0.014723
+2022,Czechia,ODA Grants,1.965127,1.965127
+2022,OSCE,ODA Grants,2.632706,2.632706
+2022,Portugal,ODA Grants,1.735029,1.735029
+2022,Japan,ODA Grants,102.554993,102.554993
+2022,Iceland,ODA Grants,0.450713,0.450713
+2022,Denmark,ODA Grants,42.488848,42.488848
+2022,New Zealand,ODA Grants,1.536987,1.536987
+2022,Belgium,ODA Grants,17.479594,17.479594
+2022,Japan,ODA Loans,0,0
+2022,Italy,ODA Grants,14.660974,14.660974
+2022,Ireland,ODA Grants,18.913241,18.913241
+2022,UNDP,ODA Grants,7.706633,7.706633
+2022,EU Institutions,ODA Grants,292.809751,292.809751
+2022,Kuwait,ODA Loans,0,0
+2022,United States,ODA Grants,74.2665899999999,74.2665899999999
+2022,Food and Agriculture Organisation,ODA Grants,2.188432,2.188432
+2022,Inter-American Development Bank,Other Official Flows (non Export Credit),347.683729,347.683729
+2022,Canada,ODA Grants,25.006518,25.006518
+2022,United Kingdom,ODA Grants,90.043653,90.043653
+2022,Switzerland,ODA Grants,11.073058,11.073058
+2022,Germany,ODA Grants,296.250909,296.250909
+2022,Spain,ODA Grants,5.34496,5.34496
+2022,Inter-American Development Bank,ODA Grants,40.314745,40.314745
+2022,Inter-American Development Bank,ODA Loans,43.333393,43.333393
+2022,United Arab Emirates,ODA Grants,12.807634,12.807634
+2022,Slovenia,ODA Grants,0.004785,0.004785
+2022,Global Environment Facility,ODA Grants,1.364903,1.364903
+2022,Germany,ODA Loans,400.889604,400.889604
+2022,Thailand,ODA Grants,0.002852,0.002852

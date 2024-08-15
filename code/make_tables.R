@@ -110,7 +110,15 @@ t3c = t3c[,.(
   usd_disbursement_deflated=sum(usd_disbursement_deflated, na.rm=T)
 ),by=.(year, recipient_name, flow_name)]
 fwrite(t3c, "output/table3_c.csv")
-#
+# By recipient country, funding to social protection purpose code by year, disaggregated by “FlowName” type (e.g. ODA Grants, ODA Loans) 
+# 
+t3d = subset(crs, purpose_code==16010)
+t3d = t3d[,.(
+  usd_disbursement=sum(usd_disbursement, na.rm=T),
+  usd_disbursement_deflated=sum(usd_disbursement_deflated, na.rm=T)
+),by=.(year, donor_name, flow_name)]
+fwrite(t3d, "output/table3_d.csv")
+
 # Table 4 ####
 # 
 # By donor, disbursed funding to social protection purpose code to each recipient country, by year 
